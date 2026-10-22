@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# LaTeX build artefacts (the compiled PDF is tracked)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+
+# Local tooling and notes
+.DS_Store
+.code-review-graph/
+paper/citation_audit.md

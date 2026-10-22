@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hawkingsearch"
+version = "0.1.0"
+description = "A black-hole-evaporation metaheuristic: every solution is a black hole whose Hawking temperature is its step size."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Anton Erdmann Benz", email = "anton.erdmann.benz@uni-weimar.de" }]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "scipy>=1.11", "matplotlib>=3.8", "scikit-learn>=1.3", "pillow>=10"]
+keywords = ["optimization", "metaheuristic", "simulated annealing", "evolution strategies", "black-box optimization"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.urls]
+Repository = "https://github.com/benzae1/hawkingsearch"
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["hawkingsearch"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

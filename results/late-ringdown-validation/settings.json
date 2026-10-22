@@ -1,0 +1,122 @@
+{
+  "seeds": [
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514
+  ],
+  "budget": 10000,
+  "variants": [
+    [
+      "original",
+      {}
+    ],
+    [
+      "ringdown",
+      {
+        "ringdown": true
+      }
+    ],
+    [
+      "late-ringdown",
+      {
+        "ringdown": true,
+        "ringdown_endgame_only": true
+      }
+    ],
+    [
+      "late-ringdown+quanta",
+      {
+        "ringdown": true,
+        "ringdown_endgame_only": true,
+        "hawking_quanta": true
+      }
+    ],
+    [
+      "dual-annealing (scipy)",
+      null
+    ]
+  ],
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "note": "Same problems as original benchmark; new seeds, not held-out problems. Unadjusted p-values.",
+  "reference": "late-ringdown",
+  "python": "3.12.14",
+  "defaults": {
+    "n_holes": 10,
+    "m0": 1.0,
+    "k": 0.15,
+    "gain": 2.0,
+    "alpha": 0.001,
+    "m_min": 0.3,
+    "m_max": 100000.0,
+    "burst_children": 3,
+    "child_mass": 0.6,
+    "rs_coeff": 0.004,
+    "rs_max": 0.05,
+    "max_holes_factor": 1.0,
+    "starvation_clock": true,
+    "gravity": true,
+    "gravitational_waves": true,
+    "area_theorem": true,
+    "page_curve": true,
+    "spin": true,
+    "spaghettification": true,
+    "penrose": true,
+    "slingshot": false,
+    "white_holes": false,
+    "penrose_page_dirs": true,
+    "penrose_adaptive": true,
+    "endgame": true,
+    "galactic_centre": true,
+    "levy_radiation": true,
+    "cmb_spawn": true,
+    "gw_adaptive": true,
+    "ringdown": false,
+    "local_centre": false,
+    "hawking_quanta": false,
+    "ringdown_fraction": 0.25,
+    "ringdown_evals_per_dim": 80,
+    "ringdown_endgame_only": false,
+    "G": 0.004,
+    "softening": 0.02,
+    "gravity_downhill": true,
+    "gw_eps": 0.05,
+    "gw_push": 0.1,
+    "gw_range": 0.35,
+    "page_fraction": 0.5,
+    "page_inherit": 1.0,
+    "archive_size": 40,
+    "spin_mass": 2.0,
+    "spin_gain": 0.3,
+    "drag_strength": 1.5,
+    "tidal_kappa": 8.0,
+    "influence_radii": 4.0,
+    "momentum": 0.25,
+    "friction": 0.5,
+    "wh_size": 0.5,
+    "wh_lifetime": 150,
+    "penrose_chi": 0.3,
+    "penrose_starve": 0,
+    "penrose_leader_only": true,
+    "endgame_fraction": 0.2,
+    "galactic_strength": 0.25,
+    "levy_mass": 1.0,
+    "levy_cap": 20.0,
+    "cmb_candidates": 16,
+    "gw_diversity_scale": 0.05
+  },
+  "scikit-learn": "1.9.1",
+  "matplotlib": "3.11.2"
+}

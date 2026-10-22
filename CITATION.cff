@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Hawking search: a black-hole-evaporation metaheuristic"
+type: software
+authors:
+  - family-names: "Erdmann Benz"
+    given-names: "Anton"
+    affiliation: "Bauhaus-Universität Weimar"
+    email: "anton.erdmann.benz@uni-weimar.de"
+version: "0.1.0"
+license: MIT
+repository-code: "https://github.com/benzae1/hawkingsearch"
+keywords:
+  - metaheuristic
+  - black-box optimisation
+  - simulated annealing
+  - step-size adaptation
+  - Hawking radiation

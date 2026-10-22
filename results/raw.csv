@@ -1,0 +1,1216 @@
+algorithm,problem,seed,final_error,nfev,seconds
+hawking-minimal,sphere,0,1.840402492e-05,10000,0.263
+hawking-full,sphere,0,3.315022372e-23,10000,1.176
+random-search,sphere,0,12.28280615,10000,0.125
+simulated-annealing,sphere,0,0.03074432185,10000,0.214
+(1+1)-ES,sphere,0,3.019154497e-16,10000,0.237
+PSO,sphere,0,6.659626311e-17,10000,0.107
+CMA-ES,sphere,0,1.661328765e-13,10000,0.213
+DE (scipy),sphere,0,8.269883972e-05,10000,1.080
+dual-annealing (scipy),sphere,0,5.004285785e-14,10000,0.981
+hawking-minimal,sphere,1,1.590235031e-05,10000,0.207
+hawking-full,sphere,1,6.085598586e-23,10000,1.278
+random-search,sphere,1,13.43577959,10000,0.096
+simulated-annealing,sphere,1,0.01873702098,10000,0.235
+(1+1)-ES,sphere,1,3.876859864e-16,10000,0.217
+PSO,sphere,1,8.871595278e-17,10000,0.119
+CMA-ES,sphere,1,2.391307276e-13,10000,0.209
+DE (scipy),sphere,1,3.250529442e-05,10000,1.093
+dual-annealing (scipy),sphere,1,1.431196358e-13,10000,0.335
+hawking-minimal,sphere,2,1.343079778e-05,10000,0.246
+hawking-full,sphere,2,1.266340315e-22,10000,1.203
+random-search,sphere,2,9.366142031,10000,0.128
+simulated-annealing,sphere,2,0.06026492164,10000,0.210
+(1+1)-ES,sphere,2,1.227426502e-15,10000,0.245
+PSO,sphere,2,2.33444434e-16,10000,0.106
+CMA-ES,sphere,2,1.364697785e-13,10000,0.223
+DE (scipy),sphere,2,4.786804319e-06,10000,1.088
+dual-annealing (scipy),sphere,2,2.382862421e-16,10000,0.930
+hawking-minimal,sphere,3,1.597510519e-05,10000,0.198
+hawking-full,sphere,3,4.690415008e-23,10000,1.240
+random-search,sphere,3,13.40583567,10000,0.100
+simulated-annealing,sphere,3,0.0300025878,10000,0.240
+(1+1)-ES,sphere,3,9.547827316e-16,10000,0.232
+PSO,sphere,3,8.864356003e-16,10000,0.110
+CMA-ES,sphere,3,2.249982657e-13,10000,0.217
+DE (scipy),sphere,3,3.763018317e-06,10000,1.097
+dual-annealing (scipy),sphere,3,1.517876698e-12,10000,0.390
+hawking-minimal,sphere,4,1.877904155e-05,10000,0.220
+hawking-full,sphere,4,3.761986386e-23,10000,1.187
+random-search,sphere,4,16.31924277,10000,0.099
+simulated-annealing,sphere,4,0.03615359868,10000,0.213
+(1+1)-ES,sphere,4,3.221020725e-16,10000,0.226
+PSO,sphere,4,5.528228721e-17,10000,0.105
+CMA-ES,sphere,4,1.40551743e-13,10000,0.197
+DE (scipy),sphere,4,0.0001653568006,10000,0.468
+dual-annealing (scipy),sphere,4,1.72499851e-13,10000,0.353
+hawking-minimal,sphere,5,1.161229649e-05,10000,0.212
+hawking-full,sphere,5,1.290256921e-22,10000,1.198
+random-search,sphere,5,11.45083552,10000,0.098
+simulated-annealing,sphere,5,0.04864043653,10000,0.196
+(1+1)-ES,sphere,5,8.68978559e-16,10000,0.209
+PSO,sphere,5,2.565794613e-17,10000,0.094
+CMA-ES,sphere,5,1.980255261e-13,10000,0.198
+DE (scipy),sphere,5,1.448327524e-05,10000,0.472
+dual-annealing (scipy),sphere,5,5.830246278e-13,10000,0.356
+hawking-minimal,sphere,6,2.198670093e-05,10000,0.198
+hawking-full,sphere,6,5.977358823e-23,10000,1.241
+random-search,sphere,6,12.88503999,10000,0.100
+simulated-annealing,sphere,6,0.2545641561,10000,0.197
+(1+1)-ES,sphere,6,7.797299584e-16,10000,0.216
+PSO,sphere,6,3.391081031e-17,10000,0.110
+CMA-ES,sphere,6,1.965796732e-13,10000,0.209
+DE (scipy),sphere,6,2.356271816e-05,10000,1.405
+dual-annealing (scipy),sphere,6,5.960754663e-13,10000,0.347
+hawking-minimal,sphere,7,1.770038184e-05,10000,0.209
+hawking-full,sphere,7,1.89185397e-22,10000,1.234
+random-search,sphere,7,16.20915554,10000,0.093
+simulated-annealing,sphere,7,0.0324963296,10000,0.193
+(1+1)-ES,sphere,7,6.285290409e-16,10000,0.203
+PSO,sphere,7,1.010787147e-16,10000,0.100
+CMA-ES,sphere,7,1.721097097e-13,10000,0.189
+DE (scipy),sphere,7,4.231496161e-05,10000,0.482
+dual-annealing (scipy),sphere,7,2.128081249e-12,10000,0.375
+hawking-minimal,sphere,8,1.72566102e-05,10000,0.197
+hawking-full,sphere,8,7.20819893e-23,10000,1.209
+random-search,sphere,8,13.09251094,10000,0.093
+simulated-annealing,sphere,8,0.09120067913,10000,0.195
+(1+1)-ES,sphere,8,3.296965238e-16,10000,0.208
+PSO,sphere,8,2.791847474e-17,10000,0.098
+CMA-ES,sphere,8,2.136686817e-13,10000,0.201
+DE (scipy),sphere,8,4.259753964e-06,10000,0.479
+dual-annealing (scipy),sphere,8,2.499429733e-16,10000,0.924
+hawking-minimal,sphere,9,1.953359935e-05,10000,0.215
+hawking-full,sphere,9,8.330633534e-23,10000,1.186
+random-search,sphere,9,4.669619997,10000,0.095
+simulated-annealing,sphere,9,0.05484580381,10000,0.210
+(1+1)-ES,sphere,9,4.03128498e-16,10000,0.227
+PSO,sphere,9,6.695365859e-17,10000,0.108
+CMA-ES,sphere,9,9.462920364e-14,10000,0.219
+DE (scipy),sphere,9,0.0002166174485,10000,1.074
+dual-annealing (scipy),sphere,9,4.218074023e-13,10000,0.350
+hawking-minimal,sphere,10,1.393350042e-05,10000,0.220
+hawking-full,sphere,10,3.997294916e-23,10000,1.273
+random-search,sphere,10,11.53021005,10000,0.104
+simulated-annealing,sphere,10,0.05294489604,10000,0.197
+(1+1)-ES,sphere,10,6.203184145e-16,10000,0.205
+PSO,sphere,10,1.080324407e-16,10000,0.097
+CMA-ES,sphere,10,1.990133272e-13,10000,0.209
+DE (scipy),sphere,10,5.042322256e-06,10000,0.499
+dual-annealing (scipy),sphere,10,2.960545909e-13,10000,0.361
+hawking-minimal,sphere,11,8.185648367e-06,10000,0.204
+hawking-full,sphere,11,1.260700448e-22,10000,1.300
+random-search,sphere,11,8.45074093,10000,0.100
+simulated-annealing,sphere,11,0.09395158085,10000,0.198
+(1+1)-ES,sphere,11,4.131700458e-16,10000,0.222
+PSO,sphere,11,3.979576714e-16,10000,0.097
+CMA-ES,sphere,11,2.375191339e-13,10000,0.198
+DE (scipy),sphere,11,9.289663768e-05,10000,1.157
+dual-annealing (scipy),sphere,11,3.687256511e-13,10000,0.378
+hawking-minimal,sphere,12,2.738692078e-05,10000,0.202
+hawking-full,sphere,12,4.862079503e-23,10000,1.173
+random-search,sphere,12,12.84662168,10000,0.095
+simulated-annealing,sphere,12,0.03779248187,10000,0.197
+(1+1)-ES,sphere,12,3.505971119e-16,10000,0.206
+PSO,sphere,12,2.036728305e-16,10000,0.097
+CMA-ES,sphere,12,9.660294885e-14,10000,0.188
+DE (scipy),sphere,12,5.728967106e-06,10000,0.520
+dual-annealing (scipy),sphere,12,8.030895309e-14,10000,0.349
+hawking-minimal,sphere,13,3.170395306e-05,10000,0.217
+hawking-full,sphere,13,1.158618849e-22,10000,1.298
+random-search,sphere,13,13.18302112,10000,0.096
+simulated-annealing,sphere,13,0.2654956428,10000,0.196
+(1+1)-ES,sphere,13,4.560235912e-16,10000,0.208
+PSO,sphere,13,9.519144218e-17,10000,0.096
+CMA-ES,sphere,13,1.684565285e-13,10000,0.199
+DE (scipy),sphere,13,2.026767623e-05,10000,0.510
+dual-annealing (scipy),sphere,13,8.353507517e-13,10000,0.346
+hawking-minimal,sphere,14,1.096132288e-05,10000,0.207
+hawking-full,sphere,14,1.005428309e-22,10000,1.231
+random-search,sphere,14,7.664020434,10000,0.110
+simulated-annealing,sphere,14,0.3115905354,10000,0.223
+(1+1)-ES,sphere,14,7.050928151e-16,10000,0.248
+PSO,sphere,14,1.220538986e-15,10000,0.098
+CMA-ES,sphere,14,2.121739445e-13,10000,0.247
+DE (scipy),sphere,14,5.358350106e-06,10000,0.470
+dual-annealing (scipy),sphere,14,2.604593997e-16,10000,0.394
+hawking-minimal,rosenbrock,0,31.10848227,10000,0.273
+hawking-full,rosenbrock,0,0.4702894312,10000,1.136
+random-search,rosenbrock,0,14035.55426,10000,0.152
+simulated-annealing,rosenbrock,0,5321.504483,10000,0.284
+(1+1)-ES,rosenbrock,0,1.423879874,10000,0.297
+PSO,rosenbrock,0,3.496332647,10000,0.159
+CMA-ES,rosenbrock,0,2.661506349e-08,10000,0.279
+DE (scipy),rosenbrock,0,6.536020921,10000,0.526
+dual-annealing (scipy),rosenbrock,0,1.39796219e-10,10000,0.444
+hawking-minimal,rosenbrock,1,21.29833422,10000,0.285
+hawking-full,rosenbrock,1,0.03813889371,10000,1.203
+random-search,rosenbrock,1,4498.721419,10000,0.159
+simulated-annealing,rosenbrock,1,6715.423244,10000,0.259
+(1+1)-ES,rosenbrock,1,1.56702097,10000,0.282
+PSO,rosenbrock,1,4.309927576,10000,0.161
+CMA-ES,rosenbrock,1,0.4079449856,10000,0.310
+DE (scipy),rosenbrock,1,6.8459489,10000,0.555
+dual-annealing (scipy),rosenbrock,1,1.217609624e-10,10000,0.442
+hawking-minimal,rosenbrock,2,23.19745114,10000,0.275
+hawking-full,rosenbrock,2,0.0915456498,10000,1.141
+random-search,rosenbrock,2,14069.33031,10000,0.161
+simulated-annealing,rosenbrock,2,5580.181122,10000,0.264
+(1+1)-ES,rosenbrock,2,1.243940058,10000,0.290
+PSO,rosenbrock,2,4.542938401,10000,0.159
+CMA-ES,rosenbrock,2,2.868476794e-13,10000,0.306
+DE (scipy),rosenbrock,2,8.569835616,10000,1.301
+dual-annealing (scipy),rosenbrock,2,2.352920816e-10,10000,0.448
+hawking-minimal,rosenbrock,3,19.11958472,10000,0.270
+hawking-full,rosenbrock,3,49.5315078,10000,1.109
+random-search,rosenbrock,3,21686.51989,10000,0.163
+simulated-annealing,rosenbrock,3,3042.06419,10000,0.269
+(1+1)-ES,rosenbrock,3,1.097320127,10000,0.274
+PSO,rosenbrock,3,3.84031634,10000,0.156
+CMA-ES,rosenbrock,3,0.6277745575,10000,0.336
+DE (scipy),rosenbrock,3,17.42412845,10000,0.563
+dual-annealing (scipy),rosenbrock,3,1.276641742e-10,10000,0.482
+hawking-minimal,rosenbrock,4,38.53926867,10000,0.283
+hawking-full,rosenbrock,4,0.7231509164,10000,1.119
+random-search,rosenbrock,4,4509.041742,10000,0.164
+simulated-annealing,rosenbrock,4,14646.28995,10000,0.260
+(1+1)-ES,rosenbrock,4,1.582362293,10000,0.268
+PSO,rosenbrock,4,4.032536753,10000,0.152
+CMA-ES,rosenbrock,4,10.11495277,10000,0.280
+DE (scipy),rosenbrock,4,9.069093439,10000,0.525
+dual-annealing (scipy),rosenbrock,4,0.002161011726,10000,0.443
+hawking-minimal,rosenbrock,5,58.27645479,10000,0.292
+hawking-full,rosenbrock,5,0.004836888876,10000,1.172
+random-search,rosenbrock,5,5698.397197,10000,0.155
+simulated-annealing,rosenbrock,5,12283.13616,10000,0.257
+(1+1)-ES,rosenbrock,5,5.559838495,10000,0.278
+PSO,rosenbrock,5,3.743785382,10000,0.166
+CMA-ES,rosenbrock,5,1.396202082,10000,0.321
+DE (scipy),rosenbrock,5,8.126928096,10000,1.172
+dual-annealing (scipy),rosenbrock,5,4.225963998e-11,10000,0.436
+hawking-minimal,rosenbrock,6,35.50615317,10000,0.272
+hawking-full,rosenbrock,6,0.4518670981,10000,1.155
+random-search,rosenbrock,6,8574.451482,10000,0.160
+simulated-annealing,rosenbrock,6,1290.926051,10000,0.269
+(1+1)-ES,rosenbrock,6,4.471572254,10000,0.281
+PSO,rosenbrock,6,72.84519335,10000,0.171
+CMA-ES,rosenbrock,6,3.199286679e-13,10000,0.324
+DE (scipy),rosenbrock,6,6.274712065,10000,0.546
+dual-annealing (scipy),rosenbrock,6,1.565477817e-10,10000,0.453
+hawking-minimal,rosenbrock,7,31.28709874,10000,0.263
+hawking-full,rosenbrock,7,9.5191152,10000,1.193
+random-search,rosenbrock,7,8882.403308,10000,0.158
+simulated-annealing,rosenbrock,7,3834.590067,10000,0.271
+(1+1)-ES,rosenbrock,7,1.610725976,10000,0.285
+PSO,rosenbrock,7,4.124017293,10000,0.155
+CMA-ES,rosenbrock,7,5.658761208e-13,10000,0.319
+DE (scipy),rosenbrock,7,6.676542221,10000,0.542
+dual-annealing (scipy),rosenbrock,7,5.383920364e-11,10000,0.435
+hawking-minimal,rosenbrock,8,66.56719138,10000,0.269
+hawking-full,rosenbrock,8,0.177022097,10000,1.118
+random-search,rosenbrock,8,16371.07578,10000,0.162
+simulated-annealing,rosenbrock,8,4391.831744,10000,0.268
+(1+1)-ES,rosenbrock,8,0.7464188779,10000,0.271
+PSO,rosenbrock,8,8.729255364,10000,0.159
+CMA-ES,rosenbrock,8,2502.222528,10000,0.274
+DE (scipy),rosenbrock,8,8.323609668,10000,0.529
+dual-annealing (scipy),rosenbrock,8,2.479982305e-11,10000,0.441
+hawking-minimal,rosenbrock,9,47.76923148,10000,0.263
+hawking-full,rosenbrock,9,0.1154904208,10000,1.168
+random-search,rosenbrock,9,14796.19733,10000,0.168
+simulated-annealing,rosenbrock,9,9088.397785,10000,0.258
+(1+1)-ES,rosenbrock,9,6.034430155,10000,0.278
+PSO,rosenbrock,9,4.406822634,10000,0.152
+CMA-ES,rosenbrock,9,3.395262879,10000,0.305
+DE (scipy),rosenbrock,9,7.260058177,10000,0.569
+dual-annealing (scipy),rosenbrock,9,1.155056614e-10,10000,0.427
+hawking-minimal,rosenbrock,10,21.58118956,10000,0.273
+hawking-full,rosenbrock,10,0.1598345542,10000,1.151
+random-search,rosenbrock,10,18016.6415,10000,0.163
+simulated-annealing,rosenbrock,10,2027.099428,10000,0.276
+(1+1)-ES,rosenbrock,10,1.331627387,10000,0.285
+PSO,rosenbrock,10,2.620581775,10000,0.150
+CMA-ES,rosenbrock,10,7.124499618e-13,10000,0.295
+DE (scipy),rosenbrock,10,6.474686671,10000,0.559
+dual-annealing (scipy),rosenbrock,10,5.458466053e-11,10000,0.490
+hawking-minimal,rosenbrock,11,52.54096414,10000,0.255
+hawking-full,rosenbrock,11,0.0005735067052,10000,1.241
+random-search,rosenbrock,11,10563.08305,10000,0.151
+simulated-annealing,rosenbrock,11,6979.538723,10000,0.249
+(1+1)-ES,rosenbrock,11,1.987963848,10000,0.280
+PSO,rosenbrock,11,1.977921958,10000,0.161
+CMA-ES,rosenbrock,11,4.874989717e-13,10000,0.330
+DE (scipy),rosenbrock,11,6.112347419,10000,0.557
+dual-annealing (scipy),rosenbrock,11,3.477564002e-10,10000,0.492
+hawking-minimal,rosenbrock,12,58.30565364,10000,0.283
+hawking-full,rosenbrock,12,0.8854788834,10000,1.166
+random-search,rosenbrock,12,9098.881153,10000,0.158
+simulated-annealing,rosenbrock,12,3556.330804,10000,0.287
+(1+1)-ES,rosenbrock,12,1.185424407,10000,0.307
+PSO,rosenbrock,12,4.333009157,10000,0.167
+CMA-ES,rosenbrock,12,4.475995859e-13,10000,0.369
+DE (scipy),rosenbrock,12,8.756514641,10000,0.579
+dual-annealing (scipy),rosenbrock,12,6.381278382e-11,10000,0.514
+hawking-minimal,rosenbrock,13,51.56492184,10000,0.293
+hawking-full,rosenbrock,13,0.4090144091,10000,1.291
+random-search,rosenbrock,13,11698.593,10000,0.197
+simulated-annealing,rosenbrock,13,1160.645038,10000,0.259
+(1+1)-ES,rosenbrock,13,80.25663531,10000,0.291
+PSO,rosenbrock,13,1.764319185,10000,0.160
+CMA-ES,rosenbrock,13,0.3903423079,10000,0.294
+DE (scipy),rosenbrock,13,8.484380853,10000,0.630
+dual-annealing (scipy),rosenbrock,13,1.066474188e-10,10000,0.514
+hawking-minimal,rosenbrock,14,25.0680866,10000,0.324
+hawking-full,rosenbrock,14,0.2992973067,10000,1.147
+random-search,rosenbrock,14,13854.08681,10000,0.156
+simulated-annealing,rosenbrock,14,7382.693893,10000,0.329
+(1+1)-ES,rosenbrock,14,1.644007917,10000,0.360
+PSO,rosenbrock,14,4.358960567,10000,0.161
+CMA-ES,rosenbrock,14,3.111544172e-13,10000,0.400
+DE (scipy),rosenbrock,14,6.77940785,10000,0.634
+dual-annealing (scipy),rosenbrock,14,8.797360021e-11,10000,0.447
+hawking-minimal,rastrigin,0,31.19551848,10000,0.247
+hawking-full,rastrigin,0,8.954626476,10000,1.682
+random-search,rastrigin,0,68.3366591,10000,0.138
+simulated-annealing,rastrigin,0,28.81174691,10000,0.243
+(1+1)-ES,rastrigin,0,33.82853228,10000,0.314
+PSO,rastrigin,0,2.984877171,10000,0.146
+CMA-ES,rastrigin,0,6.9647134,10000,0.327
+DE (scipy),rastrigin,0,30.25089213,10000,0.522
+dual-annealing (scipy),rastrigin,0,4.263256415e-14,10000,0.442
+hawking-minimal,rastrigin,1,38.06560713,10000,0.267
+hawking-full,rastrigin,1,4.974795285,10000,1.729
+random-search,rastrigin,1,57.70516726,10000,0.151
+simulated-annealing,rastrigin,1,25.90021427,10000,0.259
+(1+1)-ES,rastrigin,1,36.81336384,10000,0.283
+PSO,rastrigin,1,8.954630297,10000,0.145
+CMA-ES,rastrigin,1,4.974795285,10000,0.265
+DE (scipy),rastrigin,1,25.71113739,10000,0.516
+dual-annealing (scipy),rastrigin,1,2.842170943e-14,10000,0.451
+hawking-minimal,rastrigin,2,37.8143114,10000,0.261
+hawking-full,rastrigin,2,9.949598613,10000,1.762
+random-search,rastrigin,2,78.72639729,10000,0.159
+simulated-annealing,rastrigin,2,67.95274195,10000,0.266
+(1+1)-ES,rastrigin,2,28.76408401,10000,0.252
+PSO,rastrigin,2,2.018443245,10000,0.146
+CMA-ES,rastrigin,2,3.979836228,10000,0.253
+DE (scipy),rastrigin,2,39.75249576,10000,0.512
+dual-annealing (scipy),rastrigin,2,2.842170943e-14,10000,0.443
+hawking-minimal,rastrigin,3,35.75105768,10000,0.259
+hawking-full,rastrigin,3,8.954626476,10000,0.910
+random-search,rastrigin,3,79.59308343,10000,0.142
+simulated-annealing,rastrigin,3,29.89787248,10000,0.245
+(1+1)-ES,rastrigin,3,35.81842516,10000,0.256
+PSO,rastrigin,3,6.964708362,10000,0.163
+CMA-ES,rastrigin,3,7.959667419,10000,0.282
+DE (scipy),rastrigin,3,26.30391325,10000,0.502
+dual-annealing (scipy),rastrigin,3,2.842170943e-14,10000,0.438
+hawking-minimal,rastrigin,4,31.24678905,10000,0.290
+hawking-full,rastrigin,4,4.974795285,10000,1.942
+random-search,rastrigin,4,59.9174333,10000,0.138
+simulated-annealing,rastrigin,4,43.77443305,10000,0.242
+(1+1)-ES,rastrigin,4,30.84366015,10000,0.280
+PSO,rastrigin,4,10.94453955,10000,0.142
+CMA-ES,rastrigin,4,3.979836228,10000,0.305
+DE (scipy),rastrigin,4,22.43509692,10000,0.533
+dual-annealing (scipy),rastrigin,4,5.684341886e-14,10000,0.448
+hawking-minimal,rastrigin,5,37.36326443,10000,0.286
+hawking-full,rastrigin,5,7.959672457,10000,0.846
+random-search,rastrigin,5,65.07869276,10000,0.141
+simulated-annealing,rastrigin,5,30.8671778,10000,0.250
+(1+1)-ES,rastrigin,5,40.79311406,10000,0.254
+PSO,rastrigin,5,6.9647134,10000,0.146
+CMA-ES,rastrigin,5,4.974795285,10000,0.249
+DE (scipy),rastrigin,5,29.2961745,10000,0.503
+dual-annealing (scipy),rastrigin,5,2.842170943e-14,10000,0.450
+hawking-minimal,rastrigin,6,38.72216403,10000,0.252
+hawking-full,rastrigin,6,8.954626476,10000,1.296
+random-search,rastrigin,6,82.99523211,10000,0.141
+simulated-annealing,rastrigin,6,39.83030136,10000,0.245
+(1+1)-ES,rastrigin,6,29.84872129,10000,0.280
+PSO,rastrigin,6,2.98496188,10000,0.145
+CMA-ES,rastrigin,6,10.94453955,10000,0.265
+DE (scipy),rastrigin,6,20.99151241,10000,0.516
+dual-annealing (scipy),rastrigin,6,4.263256415e-14,10000,0.433
+hawking-minimal,rastrigin,7,27.88437452,10000,0.292
+hawking-full,rastrigin,7,6.964708362,10000,1.490
+random-search,rastrigin,7,75.25040996,10000,0.139
+simulated-annealing,rastrigin,7,40.84190937,10000,0.267
+(1+1)-ES,rastrigin,7,22.88403312,10000,0.296
+PSO,rastrigin,7,10.94454166,10000,0.143
+CMA-ES,rastrigin,7,1.989918114,10000,0.268
+DE (scipy),rastrigin,7,32.75496967,10000,0.501
+dual-annealing (scipy),rastrigin,7,2.842170943e-14,10000,0.450
+hawking-minimal,rastrigin,8,22.6090738,10000,0.257
+hawking-full,rastrigin,8,18.90418174,10000,1.247
+random-search,rastrigin,8,69.0269203,10000,0.141
+simulated-annealing,rastrigin,8,48.79594366,10000,0.243
+(1+1)-ES,rastrigin,8,40.79321541,10000,0.258
+PSO,rastrigin,8,12.93445991,10000,0.140
+CMA-ES,rastrigin,8,6.9647134,10000,0.262
+DE (scipy),rastrigin,8,32.24633007,10000,0.511
+dual-annealing (scipy),rastrigin,8,2.842170943e-14,10000,0.453
+hawking-minimal,rastrigin,9,41.58698273,10000,0.278
+hawking-full,rastrigin,9,7.959672457,10000,1.767
+random-search,rastrigin,9,75.85949935,10000,0.146
+simulated-annealing,rastrigin,9,54.96240105,10000,0.259
+(1+1)-ES,rastrigin,9,34.82342553,10000,0.258
+PSO,rastrigin,9,4.974829008,10000,0.169
+CMA-ES,rastrigin,9,8.954626476,10000,0.284
+DE (scipy),rastrigin,9,19.74792248,10000,0.509
+dual-annealing (scipy),rastrigin,9,2.842170943e-14,10000,0.413
+hawking-minimal,rastrigin,10,24.56402123,10000,0.251
+hawking-full,rastrigin,10,9.949585533,10000,1.606
+random-search,rastrigin,10,72.40582782,10000,0.150
+simulated-annealing,rastrigin,10,47.81086384,10000,0.258
+(1+1)-ES,rastrigin,10,27.85882337,10000,0.256
+PSO,rastrigin,10,7.959667423,10000,0.144
+CMA-ES,rastrigin,10,8.954626476,10000,0.256
+DE (scipy),rastrigin,10,36.95665127,10000,0.506
+dual-annealing (scipy),rastrigin,10,2.842170943e-14,10000,0.421
+hawking-minimal,rastrigin,11,47.23406582,10000,0.280
+hawking-full,rastrigin,11,4.974795285,10000,0.956
+random-search,rastrigin,11,75.60380067,10000,0.141
+simulated-annealing,rastrigin,11,49.82182095,10000,0.262
+(1+1)-ES,rastrigin,11,22.88401797,10000,0.265
+PSO,rastrigin,11,8.954626476,10000,0.139
+CMA-ES,rastrigin,11,7.959667419,10000,0.270
+DE (scipy),rastrigin,11,33.52263232,10000,0.503
+dual-annealing (scipy),rastrigin,11,2.842170943e-14,10000,0.466
+hawking-minimal,rastrigin,12,43.34107329,10000,0.260
+hawking-full,rastrigin,12,10.94453955,10000,1.818
+random-search,rastrigin,12,55.77707347,10000,0.140
+simulated-annealing,rastrigin,12,49.91323061,10000,0.244
+(1+1)-ES,rastrigin,12,52.73258744,10000,0.287
+PSO,rastrigin,12,8.95462648,10000,0.153
+CMA-ES,rastrigin,12,3.979836228,10000,0.253
+DE (scipy),rastrigin,12,32.55529882,10000,0.528
+dual-annealing (scipy),rastrigin,12,2.842170943e-14,10000,0.443
+hawking-minimal,rastrigin,13,43.52180244,10000,0.297
+hawking-full,rastrigin,13,13.92941672,10000,0.936
+random-search,rastrigin,13,48.81388437,10000,0.145
+simulated-annealing,rastrigin,13,41.90918082,10000,0.261
+(1+1)-ES,rastrigin,13,22.88401797,10000,0.292
+PSO,rastrigin,13,4.974795286,10000,0.140
+CMA-ES,rastrigin,13,6.964708362,10000,0.254
+DE (scipy),rastrigin,13,28.54641661,10000,0.506
+dual-annealing (scipy),rastrigin,13,2.842170943e-14,10000,0.452
+hawking-minimal,rastrigin,14,32.06624295,10000,0.300
+hawking-full,rastrigin,14,5.969754343,10000,1.799
+random-search,rastrigin,14,46.69848138,10000,0.141
+simulated-annealing,rastrigin,14,56.74339082,10000,0.241
+(1+1)-ES,rastrigin,14,35.81844536,10000,0.261
+PSO,rastrigin,14,7.959667423,10000,0.139
+CMA-ES,rastrigin,14,13.92941672,10000,0.274
+DE (scipy),rastrigin,14,30.55737067,10000,0.537
+dual-annealing (scipy),rastrigin,14,2.842170943e-14,10000,0.451
+hawking-minimal,ackley,0,16.18146408,10000,0.312
+hawking-full,ackley,0,2.4780622e-11,10000,2.657
+random-search,ackley,0,17.02361851,10000,0.182
+simulated-annealing,ackley,0,0.08196591322,10000,0.274
+(1+1)-ES,ackley,0,4.424487254,10000,0.273
+PSO,ackley,0,1.050070435e-07,10000,0.158
+CMA-ES,ackley,0,1.819433493e-12,10000,0.288
+DE (scipy),ackley,0,0.2475200266,10000,0.546
+dual-annealing (scipy),ackley,0,1.452591336e-08,10000,0.468
+hawking-minimal,ackley,1,17.09466943,10000,0.265
+hawking-full,ackley,1,0.08281908459,10000,2.942
+random-search,ackley,1,17.29916076,10000,0.151
+simulated-annealing,ackley,1,0.1103425512,10000,0.279
+(1+1)-ES,ackley,1,10.88391165,10000,0.309
+PSO,ackley,1,1.155148503,10000,0.175
+CMA-ES,ackley,1,1.229683022e-12,10000,0.362
+DE (scipy),ackley,1,0.04953970131,10000,0.673
+dual-annealing (scipy),ackley,1,1.791848137e-08,10000,0.500
+hawking-minimal,ackley,2,15.46515225,10000,0.472
+hawking-full,ackley,2,2.596367565e-11,10000,2.587
+random-search,ackley,2,15.7452429,10000,0.241
+simulated-annealing,ackley,2,0.1081244044,10000,0.290
+(1+1)-ES,ackley,2,8.451617352,10000,0.338
+PSO,ackley,2,8.537522378e-08,10000,0.168
+CMA-ES,ackley,2,5.379252599e-12,10000,0.289
+DE (scipy),ackley,2,0.04171477735,10000,0.686
+dual-annealing (scipy),ackley,2,1.772900804e-08,10000,0.684
+hawking-minimal,ackley,3,13.94435005,10000,0.277
+hawking-full,ackley,3,2.362599005e-11,10000,2.916
+random-search,ackley,3,17.24945293,10000,0.210
+simulated-annealing,ackley,3,17.56388312,10000,0.357
+(1+1)-ES,ackley,3,3.222751386,10000,0.517
+PSO,ackley,3,3.172323604e-08,10000,0.205
+CMA-ES,ackley,3,9.727774142e-12,10000,0.594
+DE (scipy),ackley,3,0.2041406453,10000,0.633
+dual-annealing (scipy),ackley,3,1.159253005e-08,10000,0.745
+hawking-minimal,ackley,4,17.49614953,10000,0.356
+hawking-full,ackley,4,0.6966542037,10000,2.534
+random-search,ackley,4,17.82705634,10000,0.164
+simulated-annealing,ackley,4,0.09205333342,10000,0.356
+(1+1)-ES,ackley,4,3.734367823,10000,0.299
+PSO,ackley,4,3.081067179e-08,10000,0.200
+CMA-ES,ackley,4,1.364686142e-12,10000,0.335
+DE (scipy),ackley,4,0.247931487,10000,0.679
+dual-annealing (scipy),ackley,4,1.06793796e-08,10000,0.447
+hawking-minimal,ackley,5,16.4237305,10000,0.327
+hawking-full,ackley,5,1.959366003e-11,10000,2.824
+random-search,ackley,5,16.64273568,10000,0.215
+simulated-annealing,ackley,5,0.06269547239,10000,0.300
+(1+1)-ES,ackley,5,3.222381916,10000,0.304
+PSO,ackley,5,1.420029965e-07,10000,0.159
+CMA-ES,ackley,5,7.066791596e-12,10000,0.329
+DE (scipy),ackley,5,0.04163350666,10000,0.621
+dual-annealing (scipy),ackley,5,1.855271892e-08,10000,0.433
+hawking-minimal,ackley,6,16.43487823,10000,0.300
+hawking-full,ackley,6,2.788214104e-11,10000,2.560
+random-search,ackley,6,16.87204692,10000,0.170
+simulated-annealing,ackley,6,0.0587417482,10000,0.295
+(1+1)-ES,ackley,6,13.29154446,10000,0.351
+PSO,ackley,6,1.718812865e-07,10000,0.183
+CMA-ES,ackley,6,1.17172938e-11,10000,0.308
+DE (scipy),ackley,6,0.05267629792,10000,0.613
+dual-annealing (scipy),ackley,6,1.834577334e-08,10000,0.475
+hawking-minimal,ackley,7,15.68162026,10000,0.314
+hawking-full,ackley,7,1.837863195e-11,10000,2.743
+random-search,ackley,7,17.56701765,10000,0.288
+simulated-annealing,ackley,7,0.0748383482,10000,0.304
+(1+1)-ES,ackley,7,3.404158349,10000,0.322
+PSO,ackley,7,1.552004787e-07,10000,0.178
+CMA-ES,ackley,7,3.325784093e-12,10000,0.458
+DE (scipy),ackley,7,0.05426069142,10000,0.710
+dual-annealing (scipy),ackley,7,1.799484695e-08,10000,0.547
+hawking-minimal,ackley,8,17.9317239,10000,0.297
+hawking-full,ackley,8,4.64166483e-11,10000,3.126
+random-search,ackley,8,17.10651125,10000,0.203
+simulated-annealing,ackley,8,0.09603457299,10000,0.397
+(1+1)-ES,ackley,8,17.26737617,10000,0.356
+PSO,ackley,8,7.953685643e-07,10000,0.189
+CMA-ES,ackley,8,6.409539566e-12,10000,0.306
+DE (scipy),ackley,8,0.04720897284,10000,0.642
+dual-annealing (scipy),ackley,8,1.789947435e-08,10000,0.696
+hawking-minimal,ackley,9,16.56323603,10000,0.308
+hawking-full,ackley,9,2.068434313e-11,10000,3.174
+random-search,ackley,9,13.42048434,10000,0.198
+simulated-annealing,ackley,9,0.1176362113,10000,0.342
+(1+1)-ES,ackley,9,2.579927557,10000,0.323
+PSO,ackley,9,2.851565069e-07,10000,0.254
+CMA-ES,ackley,9,1.098232616e-12,10000,0.372
+DE (scipy),ackley,9,0.09666414784,10000,1.109
+dual-annealing (scipy),ackley,9,1.847318787e-08,10000,0.584
+hawking-minimal,ackley,10,15.30508883,10000,0.548
+hawking-full,ackley,10,1.155148503,10000,2.652
+random-search,ackley,10,16.48307531,10000,0.253
+simulated-annealing,ackley,10,0.1343053782,10000,0.370
+(1+1)-ES,ackley,10,3.222381916,10000,0.316
+PSO,ackley,10,1.155148503,10000,0.353
+CMA-ES,ackley,10,6.231903882e-12,10000,0.505
+DE (scipy),ackley,10,0.03002862419,10000,0.621
+dual-annealing (scipy),ackley,10,1.819405115e-08,10000,0.757
+hawking-minimal,ackley,11,16.21326503,10000,0.284
+hawking-full,ackley,11,1.915312353e-11,10000,3.067
+random-search,ackley,11,15.07900631,10000,0.179
+simulated-annealing,ackley,11,0.07022246421,10000,0.301
+(1+1)-ES,ackley,11,10.64500726,10000,0.419
+PSO,ackley,11,1.960493177e-07,10000,0.177
+CMA-ES,ackley,11,6.050715484e-12,10000,0.324
+DE (scipy),ackley,11,0.1719300058,10000,0.744
+dual-annealing (scipy),ackley,11,1.858098431e-08,10000,0.737
+hawking-minimal,ackley,12,16.81907299,10000,0.717
+hawking-full,ackley,12,1.240296754e-11,10000,2.703
+random-search,ackley,12,16.9305601,10000,0.182
+simulated-annealing,ackley,12,0.1054637326,10000,0.317
+(1+1)-ES,ackley,12,4.424487254,10000,0.372
+PSO,ackley,12,3.340350974e-08,10000,0.331
+CMA-ES,ackley,12,1.052002929e-11,10000,0.672
+DE (scipy),ackley,12,0.04866047959,10000,0.620
+dual-annealing (scipy),ackley,12,1.259747551e-08,10000,1.221
+hawking-minimal,ackley,13,16.64677372,10000,0.361
+hawking-full,ackley,13,1.155148503,10000,2.713
+random-search,ackley,13,17.30926451,10000,0.254
+simulated-annealing,ackley,13,16.91452415,10000,0.326
+(1+1)-ES,ackley,13,13.55180548,10000,0.350
+PSO,ackley,13,1.094923445e-07,10000,0.464
+CMA-ES,ackley,13,1.567190822e-12,10000,0.353
+DE (scipy),ackley,13,0.05162771242,10000,0.908
+dual-annealing (scipy),ackley,13,2.085135664e-08,10000,1.027
+hawking-minimal,ackley,14,16.97019293,10000,0.276
+hawking-full,ackley,14,1.767164193e-11,10000,2.768
+random-search,ackley,14,15.52072074,10000,0.172
+simulated-annealing,ackley,14,0.123794846,10000,0.583
+(1+1)-ES,ackley,14,4.662243802,10000,0.499
+PSO,ackley,14,1.413505832e-07,10000,0.451
+CMA-ES,ackley,14,3.698819029e-12,10000,0.396
+DE (scipy),ackley,14,0.01692508513,10000,0.985
+dual-annealing (scipy),ackley,14,1.857722554e-08,10000,0.631
+hawking-minimal,griewank,0,0.2483039839,10000,0.387
+hawking-full,griewank,0,0.1033676271,10000,1.277
+random-search,griewank,0,43.14715127,10000,0.225
+simulated-annealing,griewank,0,0.6509425655,10000,0.278
+(1+1)-ES,griewank,0,0.08358936609,10000,0.323
+PSO,griewank,0,0.1033684296,10000,0.165
+CMA-ES,griewank,0,0.001024252921,10000,0.435
+DE (scipy),griewank,0,0.5424886919,10000,0.816
+dual-annealing (scipy),griewank,0,0.02460268259,10000,0.616
+hawking-minimal,griewank,1,0.2970946554,10000,0.416
+hawking-full,griewank,1,0.0300772814,10000,1.878
+random-search,griewank,1,47.03565638,10000,0.235
+simulated-annealing,griewank,1,1.121847502,10000,0.311
+(1+1)-ES,griewank,1,0.06147482253,10000,0.338
+PSO,griewank,1,0.0221561493,10000,0.162
+CMA-ES,griewank,1,0.007396040334,10000,0.306
+DE (scipy),griewank,1,0.6742145705,10000,0.692
+dual-annealing (scipy),griewank,1,0.08873524216,10000,0.628
+hawking-minimal,griewank,2,0.2840355614,10000,0.370
+hawking-full,griewank,2,0.1181768774,10000,1.454
+random-search,griewank,2,33.17014195,10000,0.214
+simulated-annealing,griewank,2,0.9312996939,10000,0.314
+(1+1)-ES,griewank,2,0.1107244302,10000,0.303
+PSO,griewank,2,0.110670402,10000,0.168
+CMA-ES,griewank,2,1.617594947e-13,10000,0.323
+DE (scipy),griewank,2,0.763646489,10000,0.693
+dual-annealing (scipy),griewank,2,0.02948112424,10000,0.619
+hawking-minimal,griewank,3,0.3197881509,10000,0.466
+hawking-full,griewank,3,0.6521106039,10000,1.886
+random-search,griewank,3,47.09100269,10000,0.217
+simulated-annealing,griewank,3,0.8565952707,10000,0.276
+(1+1)-ES,griewank,3,0.06640473847,10000,0.301
+PSO,griewank,3,0.1919579302,10000,0.195
+CMA-ES,griewank,3,1.865174681e-13,10000,0.334
+DE (scipy),griewank,3,0.4503710209,10000,0.628
+dual-annealing (scipy),griewank,3,0.01967773499,10000,0.647
+hawking-minimal,griewank,4,0.1586659859,10000,0.321
+hawking-full,griewank,4,0.123784947,10000,1.685
+random-search,griewank,4,57.02773281,10000,0.168
+simulated-annealing,griewank,4,1.085663441,10000,0.328
+(1+1)-ES,griewank,4,0.05166904153,10000,0.364
+PSO,griewank,4,0.04436640482,10000,0.174
+CMA-ES,griewank,4,2.384759057e-13,10000,0.357
+DE (scipy),griewank,4,0.8700914118,10000,0.753
+dual-annealing (scipy),griewank,4,0.02215614405,10000,0.703
+hawking-minimal,griewank,5,0.2003898168,10000,0.472
+hawking-full,griewank,5,0.09839126378,10000,1.764
+random-search,griewank,5,40.31331536,10000,0.273
+simulated-annealing,griewank,5,1.112190552,10000,0.279
+(1+1)-ES,griewank,5,0.04428776022,10000,0.382
+PSO,griewank,5,0.1009329033,10000,0.177
+CMA-ES,griewank,5,1.159072838e-13,10000,0.392
+DE (scipy),griewank,5,0.6331994762,10000,0.945
+dual-annealing (scipy),griewank,5,0.0246444491,10000,1.099
+hawking-minimal,griewank,6,0.2452450079,10000,0.376
+hawking-full,griewank,6,0.3017265365,10000,2.222
+random-search,griewank,6,45.23724918,10000,0.293
+simulated-annealing,griewank,6,1.364362262,10000,0.623
+(1+1)-ES,griewank,6,0.02711272252,10000,0.783
+PSO,griewank,6,0.03687212743,10000,0.343
+CMA-ES,griewank,6,1.462163723e-13,10000,0.385
+DE (scipy),griewank,6,0.7314139014,10000,0.898
+dual-annealing (scipy),griewank,6,0.03200611055,10000,1.100
+hawking-minimal,griewank,7,0.1858677845,10000,0.354
+hawking-full,griewank,7,0.09108599283,10000,3.059
+random-search,griewank,7,56.78195774,10000,0.348
+simulated-annealing,griewank,7,0.6218714319,10000,0.425
+(1+1)-ES,griewank,7,0.05412782829,10000,0.610
+PSO,griewank,7,0.0246370614,10000,0.221
+CMA-ES,griewank,7,9.836575998e-14,10000,0.578
+DE (scipy),griewank,7,0.7599974242,10000,0.946
+dual-annealing (scipy),griewank,7,0.01722629407,10000,0.936
+hawking-minimal,griewank,8,0.1919395946,10000,0.550
+hawking-full,griewank,8,0.02218566086,10000,2.197
+random-search,griewank,8,45.94970994,10000,0.410
+simulated-annealing,griewank,8,1.178931011,10000,0.789
+(1+1)-ES,griewank,8,0.1304144131,10000,0.417
+PSO,griewank,8,0.05662362472,10000,0.206
+CMA-ES,griewank,8,7.505107646e-14,10000,0.518
+DE (scipy),griewank,8,0.8779663997,10000,0.713
+dual-annealing (scipy),griewank,8,0.09110307215,10000,0.932
+hawking-minimal,griewank,9,0.170613045,10000,0.340
+hawking-full,griewank,9,0.2312493766,10000,1.659
+random-search,griewank,9,17.03560977,10000,0.218
+simulated-annealing,griewank,9,1.158475401,10000,0.353
+(1+1)-ES,griewank,9,0.04930611745,10000,0.366
+PSO,griewank,9,0.09359135768,10000,0.230
+CMA-ES,griewank,9,0.007396040334,10000,0.354
+DE (scipy),griewank,9,0.6835411113,10000,0.789
+dual-annealing (scipy),griewank,9,0.009857284895,10000,0.937
+hawking-minimal,griewank,10,0.7365244273,10000,0.367
+hawking-full,griewank,10,0.0689112074,10000,1.664
+random-search,griewank,10,40.58508273,10000,0.302
+simulated-annealing,griewank,10,0.8922976188,10000,0.406
+(1+1)-ES,griewank,10,0.02705168125,10000,0.373
+PSO,griewank,10,0.1179928382,10000,0.173
+CMA-ES,griewank,10,1.838529329e-13,10000,0.407
+DE (scipy),griewank,10,0.7756486179,10000,0.867
+dual-annealing (scipy),griewank,10,0.07884599147,10000,0.553
+hawking-minimal,griewank,11,0.1840984163,10000,0.395
+hawking-full,griewank,11,0.1378424147,10000,1.488
+random-search,griewank,11,30.01332139,10000,0.178
+simulated-annealing,griewank,11,1.290821812,10000,0.674
+(1+1)-ES,griewank,11,0.05662593261,10000,0.401
+PSO,griewank,11,0.1010132768,10000,0.178
+CMA-ES,griewank,11,1.683098105e-13,10000,0.565
+DE (scipy),griewank,11,0.8089974869,10000,0.827
+dual-annealing (scipy),griewank,11,0.009864672191,10000,0.737
+hawking-minimal,griewank,12,0.3344672371,10000,0.477
+hawking-full,griewank,12,0.06372658329,10000,1.650
+random-search,griewank,12,45.10955852,10000,0.364
+simulated-annealing,griewank,12,0.4236546603,10000,0.323
+(1+1)-ES,griewank,12,0.0319423675,10000,0.374
+PSO,griewank,12,0.03937990025,10000,0.208
+CMA-ES,griewank,12,1.708633235e-13,10000,0.418
+DE (scipy),griewank,12,0.7503515187,10000,0.613
+dual-annealing (scipy),griewank,12,0.0393530684,10000,0.905
+hawking-minimal,griewank,13,0.1092617474,10000,0.489
+hawking-full,griewank,13,0.03441336662,10000,1.361
+random-search,griewank,13,46.25376388,10000,0.178
+simulated-annealing,griewank,13,2.237369472,10000,0.466
+(1+1)-ES,griewank,13,0.2264989487,10000,0.563
+PSO,griewank,13,0.03694621882,10000,0.187
+CMA-ES,griewank,13,2.424727086e-13,10000,0.299
+DE (scipy),griewank,13,0.8214078012,10000,0.650
+dual-annealing (scipy),griewank,13,0.0196899983,10000,0.700
+hawking-minimal,griewank,14,0.2873456305,10000,0.537
+hawking-full,griewank,14,0.1081821984,10000,1.356
+random-search,griewank,14,27.3122848,10000,0.181
+simulated-annealing,griewank,14,1.28054888,10000,0.328
+(1+1)-ES,griewank,14,0.06898624421,10000,0.308
+PSO,griewank,14,0.03936775192,10000,0.290
+CMA-ES,griewank,14,1.847411113e-13,10000,0.305
+DE (scipy),griewank,14,0.6002739276,10000,0.604
+dual-annealing (scipy),griewank,14,0.09593484605,10000,0.883
+hawking-minimal,schwefel,0,596.0560794,10000,0.222
+hawking-full,schwefel,0,2467.758514,10000,1.187
+random-search,schwefel,0,1671.657213,10000,0.127
+simulated-annealing,schwefel,0,1698.132725,10000,0.346
+(1+1)-ES,schwefel,0,1204.632056,10000,0.374
+PSO,schwefel,0,454.0164659,10000,0.139
+CMA-ES,schwefel,0,930.8039234,10000,0.290
+DE (scipy),schwefel,0,452.0737727,10000,0.605
+dual-annealing (scipy),schwefel,0,0.0001272799927,10000,0.748
+hawking-minimal,schwefel,1,1092.359511,10000,0.268
+hawking-full,schwefel,1,1737.247681,10000,1.007
+random-search,schwefel,1,1834.554226,10000,0.202
+simulated-annealing,schwefel,1,1520.567986,10000,0.346
+(1+1)-ES,schwefel,1,1243.610809,10000,0.244
+PSO,schwefel,1,651.4218449,10000,0.119
+CMA-ES,schwefel,1,1967.152023,10000,0.343
+DE (scipy),schwefel,1,273.9158602,10000,0.760
+dual-annealing (scipy),schwefel,1,0.0001272779637,10000,0.642
+hawking-minimal,schwefel,2,761.9963975,10000,0.562
+hawking-full,schwefel,2,1618.717468,10000,0.959
+random-search,schwefel,2,1823.455335,10000,0.120
+simulated-annealing,schwefel,2,1668.549898,10000,0.220
+(1+1)-ES,schwefel,2,1176.50032,10000,0.260
+PSO,schwefel,2,809.3314697,10000,0.164
+CMA-ES,schwefel,2,1327.22091,10000,0.487
+DE (scipy),schwefel,2,777.731497,10000,0.584
+dual-annealing (scipy),schwefel,2,0.0001272841419,10000,0.661
+hawking-minimal,schwefel,3,1115.223445,10000,0.252
+hawking-full,schwefel,3,1342.428486,10000,1.323
+random-search,schwefel,3,2050.337564,10000,0.203
+simulated-annealing,schwefel,3,1658.777066,10000,0.244
+(1+1)-ES,schwefel,3,1223.873809,10000,0.324
+PSO,schwefel,3,1027.988199,10000,0.132
+CMA-ES,schwefel,3,1850.702479,10000,0.310
+DE (scipy),schwefel,3,1195.543114,10000,0.646
+dual-annealing (scipy),schwefel,3,0.0001272802228,10000,0.757
+hawking-minimal,schwefel,4,993.4759085,10000,0.243
+hawking-full,schwefel,4,2309.780377,10000,1.285
+random-search,schwefel,4,1740.003204,10000,0.153
+simulated-annealing,schwefel,4,1992.273521,10000,0.231
+(1+1)-ES,schwefel,4,1085.701184,10000,0.265
+PSO,schwefel,4,1105.438183,10000,0.123
+CMA-ES,schwefel,4,1623.246892,10000,0.258
+DE (scipy),schwefel,4,711.6302635,10000,0.797
+dual-annealing (scipy),schwefel,4,0.0001272795225,10000,0.544
+hawking-minimal,schwefel,5,1188.735835,10000,0.262
+hawking-full,schwefel,5,1482.522461,10000,0.916
+random-search,schwefel,5,1836.723808,10000,0.121
+simulated-annealing,schwefel,5,1687.954434,10000,0.268
+(1+1)-ES,schwefel,5,967.262849,10000,0.276
+PSO,schwefel,5,1618.684567,10000,0.151
+CMA-ES,schwefel,5,1907.283251,10000,0.481
+DE (scipy),schwefel,5,597.3128491,10000,0.755
+dual-annealing (scipy),schwefel,5,0.0001272837171,10000,0.701
+hawking-minimal,schwefel,6,1189.01737,10000,0.235
+hawking-full,schwefel,6,1618.681857,10000,1.547
+random-search,schwefel,6,2073.150007,10000,0.130
+simulated-annealing,schwefel,6,1384.125734,10000,0.275
+(1+1)-ES,schwefel,6,1006.76975,10000,0.239
+PSO,schwefel,6,592.1918003,10000,0.137
+CMA-ES,schwefel,6,2083.065868,10000,0.268
+DE (scipy),schwefel,6,391.770925,10000,0.523
+dual-annealing (scipy),schwefel,6,0.0001272871323,10000,0.498
+hawking-minimal,schwefel,7,1031.511431,10000,0.236
+hawking-full,schwefel,7,1520.016133,10000,1.056
+random-search,schwefel,7,1816.743153,10000,0.125
+simulated-annealing,schwefel,7,1398.309695,10000,0.236
+(1+1)-ES,schwefel,7,947.5285586,10000,0.248
+PSO,schwefel,7,710.630135,10000,0.126
+CMA-ES,schwefel,7,2149.326628,10000,0.249
+DE (scipy),schwefel,7,783.076745,10000,0.551
+dual-annealing (scipy),schwefel,7,0.0001272787495,10000,0.423
+hawking-minimal,schwefel,8,707.2194283,10000,0.238
+hawking-full,schwefel,8,1638.451759,10000,0.947
+random-search,schwefel,8,1891.110225,10000,0.174
+simulated-annealing,schwefel,8,1006.978344,10000,0.231
+(1+1)-ES,schwefel,8,1322.783364,10000,0.292
+PSO,schwefel,8,1223.876518,10000,0.120
+CMA-ES,schwefel,8,1900.107496,10000,0.277
+DE (scipy),schwefel,8,550.1154359,10000,0.573
+dual-annealing (scipy),schwefel,8,0.0001272790068,10000,0.642
+hawking-minimal,schwefel,9,856.5660541,10000,0.304
+hawking-full,schwefel,9,1770.781466,10000,1.216
+random-search,schwefel,9,1303.380437,10000,0.153
+simulated-annealing,schwefel,9,968.497816,10000,0.279
+(1+1)-ES,schwefel,9,1373.279314,10000,0.375
+PSO,schwefel,9,949.0238637,10000,0.233
+CMA-ES,schwefel,9,1844.587361,10000,0.281
+DE (scipy),schwefel,9,226.4929345,10000,0.902
+dual-annealing (scipy),schwefel,9,0.000127277438,10000,0.604
+hawking-minimal,schwefel,10,1234.703344,10000,0.371
+hawking-full,schwefel,10,986.9998489,10000,1.324
+random-search,schwefel,10,1862.73801,10000,0.169
+simulated-annealing,schwefel,10,987.6177395,10000,0.394
+(1+1)-ES,schwefel,10,1381.819044,10000,0.357
+PSO,schwefel,10,355.3151311,10000,0.133
+CMA-ES,schwefel,10,1305.877682,10000,0.274
+DE (scipy),schwefel,10,988.448477,10000,0.665
+dual-annealing (scipy),schwefel,10,0.0001272791296,10000,0.550
+hawking-minimal,schwefel,11,1301.301394,10000,0.252
+hawking-full,schwefel,11,1306.879895,10000,1.512
+random-search,schwefel,11,1869.144287,10000,0.148
+simulated-annealing,schwefel,11,1816.356213,10000,0.252
+(1+1)-ES,schwefel,11,967.2630116,10000,0.363
+PSO,schwefel,11,454.0164659,10000,0.244
+CMA-ES,schwefel,11,2150.101987,10000,0.356
+DE (scipy),schwefel,11,179.6890552,10000,0.672
+dual-annealing (scipy),schwefel,11,0.0001272791878,10000,0.767
+hawking-minimal,schwefel,12,1024.097193,10000,0.543
+hawking-full,schwefel,12,1105.471085,10000,1.016
+random-search,schwefel,12,1871.383026,10000,0.123
+simulated-annealing,schwefel,12,1008.341337,10000,0.326
+(1+1)-ES,schwefel,12,1085.793062,10000,0.278
+PSO,schwefel,12,690.8931351,10000,0.188
+CMA-ES,schwefel,12,1901.192643,10000,0.321
+DE (scipy),schwefel,12,1278.430671,10000,0.703
+dual-annealing (scipy),schwefel,12,0.0001272811551,10000,0.521
+hawking-minimal,schwefel,13,1100.501617,10000,0.558
+hawking-full,schwefel,13,1658.361368,10000,1.088
+random-search,schwefel,13,1639.596801,10000,0.224
+simulated-annealing,schwefel,13,1246.400606,10000,0.527
+(1+1)-ES,schwefel,13,1006.734139,10000,0.330
+PSO,schwefel,13,927.7698044,10000,0.148
+CMA-ES,schwefel,13,1463.820208,10000,0.264
+DE (scipy),schwefel,13,854.6956627,10000,0.554
+dual-annealing (scipy),schwefel,13,0.0001272821464,10000,0.711
+hawking-minimal,schwefel,14,845.2668058,10000,0.256
+hawking-full,schwefel,14,1756.892803,10000,1.080
+random-search,schwefel,14,1936.686062,10000,0.193
+simulated-annealing,schwefel,14,1463.48623,10000,0.278
+(1+1)-ES,schwefel,14,986.9998489,10000,0.241
+PSO,schwefel,14,473.7534657,10000,0.128
+CMA-ES,schwefel,14,1830.349971,10000,0.242
+DE (scipy),schwefel,14,1381.736441,10000,0.580
+dual-annealing (scipy),schwefel,14,0.0001272818181,10000,0.516
+hawking-minimal,terrain,0,0.308858546,10000,0.338
+hawking-full,terrain,0,29.41796865,10000,1.215
+random-search,terrain,0,10.30103139,10000,0.161
+simulated-annealing,terrain,0,0.1669427685,10000,0.268
+(1+1)-ES,terrain,0,5.296917607e-07,10000,0.277
+PSO,terrain,0,0,10000,0.158
+CMA-ES,terrain,0,3.433342499e-11,10000,0.268
+DE (scipy),terrain,0,1.057287591e-10,10000,0.595
+dual-annealing (scipy),terrain,0,2.976016731e-07,10000,0.641
+hawking-minimal,terrain,1,39.04030205,10000,0.386
+hawking-full,terrain,1,0.02091193937,10000,1.237
+random-search,terrain,1,40.5784045,10000,0.156
+simulated-annealing,terrain,1,0.0231523381,10000,0.285
+(1+1)-ES,terrain,1,8.050515135e-07,10000,0.293
+PSO,terrain,1,0,10000,0.170
+CMA-ES,terrain,1,4.297362466e-11,10000,0.288
+DE (scipy),terrain,1,1.195985533e-10,10000,0.654
+dual-annealing (scipy),terrain,1,1.778664432e-05,10000,0.664
+hawking-minimal,terrain,2,0.09115841642,10000,0.296
+hawking-full,terrain,2,9.835048331e-09,10000,1.302
+random-search,terrain,2,7.898100839,10000,0.166
+simulated-annealing,terrain,2,0.2947335515,10000,0.280
+(1+1)-ES,terrain,2,7.718499546e-07,10000,0.387
+PSO,terrain,2,0,10000,0.227
+CMA-ES,terrain,2,80,10000,0.353
+DE (scipy),terrain,2,9.140421753e-11,10000,0.881
+dual-annealing (scipy),terrain,2,0.0002286979002,10000,0.696
+hawking-minimal,terrain,3,0.1937785733,10000,0.464
+hawking-full,terrain,3,9.928498912e-09,10000,1.345
+random-search,terrain,3,31.80900384,10000,0.155
+simulated-annealing,terrain,3,21.20503307,10000,0.271
+(1+1)-ES,terrain,3,8.516003618e-07,10000,0.268
+PSO,terrain,3,0,10000,0.158
+CMA-ES,terrain,3,9.322320693e-12,10000,0.243
+DE (scipy),terrain,3,1.65300662e-10,10000,0.698
+dual-annealing (scipy),terrain,3,0.0002016190654,10000,0.679
+hawking-minimal,terrain,4,0.1190028963,10000,0.330
+hawking-full,terrain,4,0.0002475679466,10000,1.827
+random-search,terrain,4,33.42889853,10000,0.158
+simulated-annealing,terrain,4,40.91696966,10000,0.269
+(1+1)-ES,terrain,4,1.082601784e-06,10000,0.329
+PSO,terrain,4,0,10000,0.151
+CMA-ES,terrain,4,43.64426183,10000,0.251
+DE (scipy),terrain,4,8.185452316e-11,10000,0.573
+dual-annealing (scipy),terrain,4,1.481771505e-07,10000,0.680
+hawking-minimal,terrain,5,0.435599198,10000,0.375
+hawking-full,terrain,5,1.189441718e-07,10000,1.394
+random-search,terrain,5,30.87644559,10000,0.195
+simulated-annealing,terrain,5,44.12614808,10000,0.283
+(1+1)-ES,terrain,5,7.053185982e-07,10000,0.280
+PSO,terrain,5,0,10000,0.199
+CMA-ES,terrain,5,9.094947018e-12,10000,0.353
+DE (scipy),terrain,5,1.293756213e-10,10000,0.601
+dual-annealing (scipy),terrain,5,2.334590363e-06,10000,0.776
+hawking-minimal,terrain,6,0.3049606556,10000,0.287
+hawking-full,terrain,6,8.302588375,10000,1.157
+random-search,terrain,6,16.40095867,10000,0.156
+simulated-annealing,terrain,6,0.1325252295,10000,0.288
+(1+1)-ES,terrain,6,7.643707249e-07,10000,0.278
+PSO,terrain,6,2.521369424e-08,10000,0.168
+CMA-ES,terrain,6,1.29602995e-11,10000,0.261
+DE (scipy),terrain,6,2.480646799e-10,10000,0.633
+dual-annealing (scipy),terrain,6,5.612327391e-05,10000,0.663
+hawking-minimal,terrain,7,29.21624324,10000,0.405
+hawking-full,terrain,7,1.612079359e-10,10000,1.417
+random-search,terrain,7,29.48712254,10000,0.175
+simulated-annealing,terrain,7,34.63394763,10000,0.262
+(1+1)-ES,terrain,7,4.001429943e-06,10000,0.412
+PSO,terrain,7,0,10000,0.242
+CMA-ES,terrain,7,3.346940503e-10,10000,0.314
+DE (scipy),terrain,7,2.380602382e-10,10000,0.819
+dual-annealing (scipy),terrain,7,0.0001907928283,10000,0.582
+hawking-minimal,terrain,8,0.1876835037,10000,0.268
+hawking-full,terrain,8,3.380976068e-07,10000,1.356
+random-search,terrain,8,29.27911905,10000,0.169
+simulated-annealing,terrain,8,19.54395993,10000,0.293
+(1+1)-ES,terrain,8,29.51755268,10000,0.306
+PSO,terrain,8,36,10000,0.154
+CMA-ES,terrain,8,2.364686225e-11,10000,0.306
+DE (scipy),terrain,8,1.491571311e-10,10000,0.625
+dual-annealing (scipy),terrain,8,36.00000123,10000,0.668
+hawking-minimal,terrain,9,0.3134463238,10000,0.383
+hawking-full,terrain,9,36.00000001,10000,1.184
+random-search,terrain,9,43.77198782,10000,0.199
+simulated-annealing,terrain,9,20.98503271,10000,0.276
+(1+1)-ES,terrain,9,29.00001071,10000,0.318
+PSO,terrain,9,0,10000,0.187
+CMA-ES,terrain,9,3.842615115e-11,10000,0.337
+DE (scipy),terrain,9,8.435563359e-11,10000,0.605
+dual-annealing (scipy),terrain,9,6.914578989e-06,10000,0.613
+hawking-minimal,terrain,10,36.06454756,10000,0.298
+hawking-full,terrain,10,1.870704637e-06,10000,1.023
+random-search,terrain,10,6.099567525,10000,0.215
+simulated-annealing,terrain,10,8.721353724,10000,0.377
+(1+1)-ES,terrain,10,1.857418283e-06,10000,0.286
+PSO,terrain,10,4.547473509e-13,10000,0.169
+CMA-ES,terrain,10,0.0006234850034,10000,0.299
+DE (scipy),terrain,10,2.887645678e-10,10000,0.587
+dual-annealing (scipy),terrain,10,5.850736216e-07,10000,0.629
+hawking-minimal,terrain,11,0.6718762017,10000,0.382
+hawking-full,terrain,11,0.0004497162922,10000,1.026
+random-search,terrain,11,30.50028802,10000,0.161
+simulated-annealing,terrain,11,10.33195438,10000,0.275
+(1+1)-ES,terrain,11,2.088556812e-06,10000,0.318
+PSO,terrain,11,3.410605132e-12,10000,0.155
+CMA-ES,terrain,11,80,10000,0.278
+DE (scipy),terrain,11,2.028173185e-10,10000,0.620
+dual-annealing (scipy),terrain,11,6.258305348e-06,10000,0.730
+hawking-minimal,terrain,12,0.2581507519,10000,0.359
+hawking-full,terrain,12,36.00000001,10000,1.453
+random-search,terrain,12,28.04012821,10000,0.192
+simulated-annealing,terrain,12,0.05447295512,10000,0.340
+(1+1)-ES,terrain,12,7.524231478e-07,10000,0.290
+PSO,terrain,12,0,10000,0.156
+CMA-ES,terrain,12,3.910827218e-11,10000,0.300
+DE (scipy),terrain,12,2.646629582e-10,10000,0.553
+dual-annealing (scipy),terrain,12,8.906656376e-06,10000,0.731
+hawking-minimal,terrain,13,29.20266747,10000,0.350
+hawking-full,terrain,13,5.198232884e-07,10000,1.036
+random-search,terrain,13,7.376478735,10000,0.168
+simulated-annealing,terrain,13,0.09548229915,10000,0.273
+(1+1)-ES,terrain,13,1.705021305e-06,10000,0.273
+PSO,terrain,13,0,10000,0.153
+CMA-ES,terrain,13,5.297806638e-11,10000,0.256
+DE (scipy),terrain,13,2.637534635e-10,10000,0.877
+dual-annealing (scipy),terrain,13,2.569258868e-07,10000,0.602
+hawking-minimal,terrain,14,13.91360715,10000,0.285
+hawking-full,terrain,14,3.644067535,10000,1.315
+random-search,terrain,14,29.58060095,10000,0.162
+simulated-annealing,terrain,14,2.095749289,10000,0.279
+(1+1)-ES,terrain,14,1.173678811e-06,10000,0.407
+PSO,terrain,14,0,10000,0.173
+CMA-ES,terrain,14,7.230482879e-11,10000,0.277
+DE (scipy),terrain,14,8.299139154e-11,10000,0.645
+dual-annealing (scipy),terrain,14,36.00086055,10000,0.662
+hawking-minimal,iris-kmeans,0,0.004657208395,10000,0.597
+hawking-full,iris-kmeans,0,3.330669074e-16,10000,1.845
+random-search,iris-kmeans,0,0.880992659,10000,0.365
+simulated-annealing,iris-kmeans,0,0.0193641218,10000,0.471
+(1+1)-ES,iris-kmeans,0,2.331468352e-15,10000,0.501
+PSO,iris-kmeans,0,3.292201328e-05,10000,0.366
+CMA-ES,iris-kmeans,0,4.396483178e-13,10000,0.578
+DE (scipy),iris-kmeans,0,0.0005895299546,10000,0.853
+dual-annealing (scipy),iris-kmeans,0,1.307953745e-12,10000,1.017
+hawking-minimal,iris-kmeans,1,0.007809566472,10000,0.491
+hawking-full,iris-kmeans,1,0.550274724,10000,1.310
+random-search,iris-kmeans,1,0.8169721901,10000,0.434
+simulated-annealing,iris-kmeans,1,0.0338176254,10000,0.550
+(1+1)-ES,iris-kmeans,1,1.110223025e-15,10000,0.625
+PSO,iris-kmeans,1,0.3413616033,10000,0.417
+CMA-ES,iris-kmeans,1,0.01234435578,10000,0.547
+DE (scipy),iris-kmeans,1,0.0003756542241,10000,0.796
+dual-annealing (scipy),iris-kmeans,1,1.21907151e-10,10000,0.819
+hawking-minimal,iris-kmeans,2,0.0009623395071,10000,0.524
+hawking-full,iris-kmeans,2,1.665334537e-15,10000,3.118
+random-search,iris-kmeans,2,0.8633185923,10000,0.503
+simulated-annealing,iris-kmeans,2,0.3504104477,10000,0.981
+(1+1)-ES,iris-kmeans,2,2.331468352e-15,10000,1.201
+PSO,iris-kmeans,2,0.03529574606,10000,0.391
+CMA-ES,iris-kmeans,2,0.01232164472,10000,0.845
+DE (scipy),iris-kmeans,2,0.0001488233383,10000,0.966
+dual-annealing (scipy),iris-kmeans,2,3.292201707e-05,10000,0.745
+hawking-minimal,iris-kmeans,3,0.0001920436215,10000,0.590
+hawking-full,iris-kmeans,3,3.292201328e-05,10000,1.933
+random-search,iris-kmeans,3,0.723292554,10000,0.379
+simulated-annealing,iris-kmeans,3,0.2011422949,10000,0.489
+(1+1)-ES,iris-kmeans,3,1.887379142e-15,10000,0.497
+PSO,iris-kmeans,3,3.292201328e-05,10000,0.369
+CMA-ES,iris-kmeans,3,0.03529574606,10000,0.919
+DE (scipy),iris-kmeans,3,0.0001023424612,10000,0.902
+dual-annealing (scipy),iris-kmeans,3,1.04478648e-11,10000,1.084
+hawking-minimal,iris-kmeans,4,0.005418616557,10000,0.855
+hawking-full,iris-kmeans,4,1.110223025e-15,10000,1.851
+random-search,iris-kmeans,4,0.8994108377,10000,0.416
+simulated-annealing,iris-kmeans,4,0.01195048424,10000,0.485
+(1+1)-ES,iris-kmeans,4,1.110223025e-15,10000,0.736
+PSO,iris-kmeans,4,3.441691376e-15,10000,0.371
+CMA-ES,iris-kmeans,4,0.03529744194,10000,0.506
+DE (scipy),iris-kmeans,4,0.001398740325,10000,1.048
+dual-annealing (scipy),iris-kmeans,4,3.57561758e-11,10000,0.779
+hawking-minimal,iris-kmeans,5,0.002490604609,10000,0.587
+hawking-full,iris-kmeans,5,1.110223025e-15,10000,1.785
+random-search,iris-kmeans,5,0.4052059833,10000,0.481
+simulated-annealing,iris-kmeans,5,0.009453694319,10000,0.622
+(1+1)-ES,iris-kmeans,5,1.110223025e-15,10000,0.930
+PSO,iris-kmeans,5,0.01231143376,10000,0.396
+CMA-ES,iris-kmeans,5,0.01231143376,10000,0.550
+DE (scipy),iris-kmeans,5,0.0002598353557,10000,0.867
+dual-annealing (scipy),iris-kmeans,5,5.89428506e-11,10000,1.207
+hawking-minimal,iris-kmeans,6,0.001011675911,10000,0.641
+hawking-full,iris-kmeans,6,7.217690893e-07,10000,1.562
+random-search,iris-kmeans,6,0.6947991108,10000,0.353
+simulated-annealing,iris-kmeans,6,0.02690418421,10000,0.747
+(1+1)-ES,iris-kmeans,6,1.110223025e-15,10000,0.673
+PSO,iris-kmeans,6,0.3568129153,10000,0.409
+CMA-ES,iris-kmeans,6,0.01267198013,10000,0.479
+DE (scipy),iris-kmeans,6,0.0006835175366,10000,0.823
+dual-annealing (scipy),iris-kmeans,6,1.932187743e-10,10000,0.650
+hawking-minimal,iris-kmeans,7,0.007743511175,10000,0.546
+hawking-full,iris-kmeans,7,3.292201328e-05,10000,2.068
+random-search,iris-kmeans,7,0.5689206265,10000,0.396
+simulated-annealing,iris-kmeans,7,0.00758454966,10000,0.478
+(1+1)-ES,iris-kmeans,7,2.331468352e-15,10000,0.499
+PSO,iris-kmeans,7,0.3672886179,10000,0.362
+CMA-ES,iris-kmeans,7,0.01231143376,10000,0.508
+DE (scipy),iris-kmeans,7,0.000249680655,10000,0.783
+dual-annealing (scipy),iris-kmeans,7,2.791733511e-11,10000,0.895
+hawking-minimal,iris-kmeans,8,0.002676023398,10000,0.733
+hawking-full,iris-kmeans,8,5.551115123e-16,10000,1.524
+random-search,iris-kmeans,8,0.7981235584,10000,0.407
+simulated-annealing,iris-kmeans,8,0.3601494216,10000,0.468
+(1+1)-ES,iris-kmeans,8,1.665334537e-15,10000,0.475
+PSO,iris-kmeans,8,0.01231143376,10000,0.528
+CMA-ES,iris-kmeans,8,0.03529574606,10000,0.546
+DE (scipy),iris-kmeans,8,9.976351731e-05,10000,0.787
+dual-annealing (scipy),iris-kmeans,8,9.123446443e-11,10000,0.974
+hawking-minimal,iris-kmeans,9,0.006694694364,10000,0.486
+hawking-full,iris-kmeans,9,3.292201328e-05,10000,1.100
+random-search,iris-kmeans,9,0.6288750348,10000,0.522
+simulated-annealing,iris-kmeans,9,0.5397946636,10000,0.475
+(1+1)-ES,iris-kmeans,9,1.110223025e-15,10000,0.504
+PSO,iris-kmeans,9,0.01231143376,10000,0.362
+CMA-ES,iris-kmeans,9,6.920020112e-13,10000,0.503
+DE (scipy),iris-kmeans,9,0.0001440445367,10000,0.798
+dual-annealing (scipy),iris-kmeans,9,3.29220782e-05,10000,0.963
+hawking-minimal,iris-kmeans,10,0.009083421317,10000,0.948
+hawking-full,iris-kmeans,10,7.771561172e-16,10000,1.866
+random-search,iris-kmeans,10,0.7630102077,10000,0.475
+simulated-annealing,iris-kmeans,10,0.1044539779,10000,0.472
+(1+1)-ES,iris-kmeans,10,1.110223025e-15,10000,0.513
+PSO,iris-kmeans,10,0.01234435578,10000,0.390
+CMA-ES,iris-kmeans,10,0.03560060593,10000,0.533
+DE (scipy),iris-kmeans,10,0.0004945048282,10000,0.804
+dual-annealing (scipy),iris-kmeans,10,3.292202756e-05,10000,1.221
+hawking-minimal,iris-kmeans,11,0.0002663474266,10000,0.526
+hawking-full,iris-kmeans,11,1.554312234e-15,10000,1.774
+random-search,iris-kmeans,11,0.4675914163,10000,0.537
+simulated-annealing,iris-kmeans,11,0.003773602012,10000,1.013
+(1+1)-ES,iris-kmeans,11,1.554312234e-15,10000,0.585
+PSO,iris-kmeans,11,3.292201329e-05,10000,0.725
+CMA-ES,iris-kmeans,11,1.515748546e-05,10000,0.465
+DE (scipy),iris-kmeans,11,0.0001900250174,10000,0.946
+dual-annealing (scipy),iris-kmeans,11,2.987099457e-11,10000,1.318
+hawking-minimal,iris-kmeans,12,0.001753469544,10000,0.712
+hawking-full,iris-kmeans,12,3.292201328e-05,10000,1.316
+random-search,iris-kmeans,12,0.5345097534,10000,0.412
+simulated-annealing,iris-kmeans,12,0.1500040862,10000,0.589
+(1+1)-ES,iris-kmeans,12,1.554312234e-15,10000,0.636
+PSO,iris-kmeans,12,0.02298431229,10000,0.467
+CMA-ES,iris-kmeans,12,0.01231143376,10000,0.606
+DE (scipy),iris-kmeans,12,0.00125729474,10000,0.947
+dual-annealing (scipy),iris-kmeans,12,3.870126442e-12,10000,0.831
+hawking-minimal,iris-kmeans,13,0.008429418156,10000,0.600
+hawking-full,iris-kmeans,13,3.292201328e-05,10000,1.940
+random-search,iris-kmeans,13,0.6769698614,10000,0.427
+simulated-annealing,iris-kmeans,13,0.5130308012,10000,0.529
+(1+1)-ES,iris-kmeans,13,2.331468352e-15,10000,0.797
+PSO,iris-kmeans,13,0,10000,0.445
+CMA-ES,iris-kmeans,13,0.01232067888,10000,0.706
+DE (scipy),iris-kmeans,13,0.0008591594942,10000,0.827
+dual-annealing (scipy),iris-kmeans,13,3.292201436e-05,10000,0.971
+hawking-minimal,iris-kmeans,14,0.004022770198,10000,0.625
+hawking-full,iris-kmeans,14,3.330669074e-16,10000,1.876
+random-search,iris-kmeans,14,0.6518875684,10000,0.497
+simulated-annealing,iris-kmeans,14,0.4785169912,10000,0.551
+(1+1)-ES,iris-kmeans,14,9.992007222e-16,10000,0.727
+PSO,iris-kmeans,14,0.3741525054,10000,0.472
+CMA-ES,iris-kmeans,14,0.01231143376,10000,0.470
+DE (scipy),iris-kmeans,14,0.0002095436,10000,1.008
+dual-annealing (scipy),iris-kmeans,14,1.253996906e-12,10000,0.657
+hawking-minimal,wine-kmeans,0,2.82413048,10000,0.812
+hawking-full,wine-kmeans,0,1.196077903e-09,10000,3.724
+random-search,wine-kmeans,0,9.58084964,10000,0.521
+simulated-annealing,wine-kmeans,0,4.499028421,10000,0.620
+(1+1)-ES,wine-kmeans,0,0.01012715876,10000,0.631
+PSO,wine-kmeans,0,3.15214973,10000,0.510
+CMA-ES,wine-kmeans,0,5.820626467,10000,1.153
+DE (scipy),wine-kmeans,0,5.218795148,10000,1.225
+dual-annealing (scipy),wine-kmeans,0,0.004675773517,10000,0.896
+hawking-minimal,wine-kmeans,1,3.963645289,10000,0.646
+hawking-full,wine-kmeans,1,1.747766359,10000,3.216
+random-search,wine-kmeans,1,10.55202125,10000,0.496
+simulated-annealing,wine-kmeans,1,5.84066414,10000,0.743
+(1+1)-ES,wine-kmeans,1,1.760727432,10000,0.649
+PSO,wine-kmeans,1,2.140896587,10000,0.519
+CMA-ES,wine-kmeans,1,5.820626467,10000,0.879
+DE (scipy),wine-kmeans,1,5.256886648,10000,1.492
+dual-annealing (scipy),wine-kmeans,1,0.0101271591,10000,1.133
+hawking-minimal,wine-kmeans,2,2.608135957,10000,0.930
+hawking-full,wine-kmeans,2,0.01144755101,10000,4.724
+random-search,wine-kmeans,2,9.506952194,10000,0.725
+simulated-annealing,wine-kmeans,2,5.861962964,10000,0.981
+(1+1)-ES,wine-kmeans,2,1.492139745e-13,10000,0.659
+PSO,wine-kmeans,2,0.004918211236,10000,0.512
+CMA-ES,wine-kmeans,2,5.663009129,10000,0.863
+DE (scipy),wine-kmeans,2,5.359295496,10000,1.103
+dual-annealing (scipy),wine-kmeans,2,4.946887344e-11,10000,1.104
+hawking-minimal,wine-kmeans,3,3.993947645,10000,0.950
+hawking-full,wine-kmeans,3,9.796814959e-07,10000,3.791
+random-search,wine-kmeans,3,10.75025971,10000,0.506
+simulated-annealing,wine-kmeans,3,6.68785823,10000,0.652
+(1+1)-ES,wine-kmeans,3,2.139496425,10000,0.656
+PSO,wine-kmeans,3,1.990867331,10000,0.521
+CMA-ES,wine-kmeans,3,5.820626467,10000,0.823
+DE (scipy),wine-kmeans,3,5.868177658,10000,1.171
+dual-annealing (scipy),wine-kmeans,3,1.517781456e-10,10000,1.290
+hawking-minimal,wine-kmeans,4,2.704204405,10000,0.683
+hawking-full,wine-kmeans,4,4.884021187e-09,10000,3.371
+random-search,wine-kmeans,4,10.09907442,10000,0.512
+simulated-annealing,wine-kmeans,4,7.248251498,10000,0.618
+(1+1)-ES,wine-kmeans,4,2.743987046e-05,10000,1.083
+PSO,wine-kmeans,4,0.9589573253,10000,0.828
+CMA-ES,wine-kmeans,4,5.820626467,10000,0.780
+DE (scipy),wine-kmeans,4,5.912723361,10000,1.048
+dual-annealing (scipy),wine-kmeans,4,1.08446585e-11,10000,1.311
+hawking-minimal,wine-kmeans,5,3.768330916,10000,0.957
+hawking-full,wine-kmeans,5,1.724764673,10000,5.375
+random-search,wine-kmeans,5,10.7770988,10000,0.761
+simulated-annealing,wine-kmeans,5,4.880510259,10000,0.681
+(1+1)-ES,wine-kmeans,5,1.469863578,10000,0.836
+PSO,wine-kmeans,5,1.906897204,10000,0.498
+CMA-ES,wine-kmeans,5,2.802770278,10000,0.804
+DE (scipy),wine-kmeans,5,4.005241205,10000,1.055
+dual-annealing (scipy),wine-kmeans,5,2.722622128e-11,10000,1.051
+hawking-minimal,wine-kmeans,6,2.120498809,10000,0.637
+hawking-full,wine-kmeans,6,0.6639640945,10000,3.473
+random-search,wine-kmeans,6,9.21988611,10000,1.060
+simulated-annealing,wine-kmeans,6,5.957264782,10000,2.110
+(1+1)-ES,wine-kmeans,6,1.777010574,10000,1.537
+PSO,wine-kmeans,6,0.01339293149,10000,1.513
+CMA-ES,wine-kmeans,6,3.975423347,10000,2.144
+DE (scipy),wine-kmeans,6,4.954658637,10000,1.281
+dual-annealing (scipy),wine-kmeans,6,0.01144755039,10000,1.991
+hawking-minimal,wine-kmeans,7,3.111860372,10000,1.414
+hawking-full,wine-kmeans,7,2.421965144e-07,10000,3.755
+random-search,wine-kmeans,7,9.72945216,10000,0.821
+simulated-annealing,wine-kmeans,7,5.810510185,10000,0.627
+(1+1)-ES,wine-kmeans,7,2.140895946,10000,0.653
+PSO,wine-kmeans,7,1.713463722,10000,0.493
+CMA-ES,wine-kmeans,7,1.064667843,10000,0.816
+DE (scipy),wine-kmeans,7,5.376190289,10000,1.079
+dual-annealing (scipy),wine-kmeans,7,0.01012715877,10000,1.639
+hawking-minimal,wine-kmeans,8,3.18583013,10000,0.681
+hawking-full,wine-kmeans,8,2.140895946,10000,6.023
+random-search,wine-kmeans,8,9.747468226,10000,0.525
+simulated-annealing,wine-kmeans,8,6.174916717,10000,0.702
+(1+1)-ES,wine-kmeans,8,0.01012715877,10000,0.662
+PSO,wine-kmeans,8,1.657955717,10000,0.515
+CMA-ES,wine-kmeans,8,5.820626467,10000,0.840
+DE (scipy),wine-kmeans,8,5.892783948,10000,1.322
+dual-annealing (scipy),wine-kmeans,8,0.01144755069,10000,1.629
+hawking-minimal,wine-kmeans,9,2.812113234,10000,1.335
+hawking-full,wine-kmeans,9,1.568598102,10000,4.520
+random-search,wine-kmeans,9,9.726036223,10000,0.958
+simulated-annealing,wine-kmeans,9,5.881180786,10000,0.835
+(1+1)-ES,wine-kmeans,9,1.733820092,10000,0.734
+PSO,wine-kmeans,9,0.0005181128456,10000,0.527
+CMA-ES,wine-kmeans,9,4.09274493,10000,0.921
+DE (scipy),wine-kmeans,9,4.650665556,10000,1.333
+dual-annealing (scipy),wine-kmeans,9,0.01012715879,10000,1.682
+hawking-minimal,wine-kmeans,10,2.891307803,10000,0.740
+hawking-full,wine-kmeans,10,1.813368299,10000,3.679
+random-search,wine-kmeans,10,10.43691047,10000,0.634
+simulated-annealing,wine-kmeans,10,6.642465424,10000,0.706
+(1+1)-ES,wine-kmeans,10,2.139496425,10000,1.276
+PSO,wine-kmeans,10,1.935074226,10000,1.113
+CMA-ES,wine-kmeans,10,5.820626467,10000,0.842
+DE (scipy),wine-kmeans,10,3.763154017,10000,1.184
+dual-annealing (scipy),wine-kmeans,10,3.806643889e-11,10000,1.776
+hawking-minimal,wine-kmeans,11,3.401787949,10000,0.682
+hawking-full,wine-kmeans,11,1.728486915,10000,3.274
+random-search,wine-kmeans,11,11.04028393,10000,0.557
+simulated-annealing,wine-kmeans,11,5.958614187,10000,0.603
+(1+1)-ES,wine-kmeans,11,1.73182961,10000,0.614
+PSO,wine-kmeans,11,1.7772171,10000,0.538
+CMA-ES,wine-kmeans,11,5.820626467,10000,0.864
+DE (scipy),wine-kmeans,11,5.393431693,10000,1.024
+dual-annealing (scipy),wine-kmeans,11,5.992610852e-10,10000,1.182
+hawking-minimal,wine-kmeans,12,2.899356656,10000,0.890
+hawking-full,wine-kmeans,12,1.730441226,10000,3.469
+random-search,wine-kmeans,12,9.56119109,10000,0.501
+simulated-annealing,wine-kmeans,12,6.505528462,10000,0.735
+(1+1)-ES,wine-kmeans,12,1.376676551e-13,10000,0.719
+PSO,wine-kmeans,12,0.1948384525,10000,0.548
+CMA-ES,wine-kmeans,12,2.140895946,10000,1.506
+DE (scipy),wine-kmeans,12,4.552892593,10000,1.377
+dual-annealing (scipy),wine-kmeans,12,1.091571278e-11,10000,1.357
+hawking-minimal,wine-kmeans,13,2.496535015,10000,0.673
+hawking-full,wine-kmeans,13,7.976648648e-07,10000,2.665
+random-search,wine-kmeans,13,10.44074955,10000,0.516
+simulated-annealing,wine-kmeans,13,6.006697536,10000,0.787
+(1+1)-ES,wine-kmeans,13,9.511946786e-10,10000,0.786
+PSO,wine-kmeans,13,0.375293852,10000,0.541
+CMA-ES,wine-kmeans,13,5.556111423,10000,0.830
+DE (scipy),wine-kmeans,13,4.11768004,10000,1.140
+dual-annealing (scipy),wine-kmeans,13,4.013775978e-10,10000,1.115
+hawking-minimal,wine-kmeans,14,3.397088936,10000,0.675
+hawking-full,wine-kmeans,14,2.467919735e-08,10000,2.700
+random-search,wine-kmeans,14,12.07887042,10000,0.575
+simulated-annealing,wine-kmeans,14,5.906110543,10000,0.740
+(1+1)-ES,wine-kmeans,14,1.743405763,10000,0.752
+PSO,wine-kmeans,14,2.139497292,10000,0.603
+CMA-ES,wine-kmeans,14,5.726430687,10000,0.948
+DE (scipy),wine-kmeans,14,4.477591084,10000,1.086
+dual-annealing (scipy),wine-kmeans,14,4.276712318e-10,10000,0.975

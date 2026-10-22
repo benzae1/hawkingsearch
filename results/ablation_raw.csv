@@ -1,0 +1,2566 @@
+algorithm,problem,seed,final_error,nfev,seconds
+default,sphere,0,3.315022372e-23,10000,1.295
+without gravity,sphere,0,7.08487733e-24,10000,1.534
+without gravitational_waves,sphere,0,2.288966691e-25,10000,2.801
+without area_theorem,sphere,0,1.118931502e-22,10000,3.606
+without page_curve,sphere,0,1.877733123e-22,10000,1.246
+without spin,sphere,0,1.085417448e-22,10000,1.219
+without spaghettification,sphere,0,5.201909658e-23,10000,1.326
+with slingshot,sphere,0,1.343501687e-22,10000,2.009
+with white_holes,sphere,0,3.321275215e-22,10000,1.610
+without penrose,sphere,0,5.298132953e-05,10000,1.861
+without penrose_page_dirs,sphere,0,7.968708332e-23,10000,1.494
+without penrose_adaptive,sphere,0,3.005693733e-11,10000,1.387
+without endgame,sphere,0,2.22950774e-12,10000,1.507
+without galactic_centre,sphere,0,1.220726121e-23,10000,2.263
+without levy_radiation,sphere,0,1.352299758e-22,10000,1.462
+without cmb_spawn,sphere,0,1.368228138e-22,10000,1.569
+without gw_adaptive,sphere,0,1.709842507e-22,10000,1.450
+every module on,sphere,0,9.582585373e-23,10000,2.368
+no modules,sphere,0,1.597172112e-05,10000,0.462
+default,sphere,1,6.085598586e-23,10000,1.572
+without gravity,sphere,1,8.235393095e-24,10000,1.666
+without gravitational_waves,sphere,1,1.300232098e-25,10000,3.322
+without area_theorem,sphere,1,8.154508268e-23,10000,4.101
+without page_curve,sphere,1,1.430031019e-22,10000,2.299
+without spin,sphere,1,4.137207681e-23,10000,1.477
+without spaghettification,sphere,1,1.280881601e-22,10000,2.046
+with slingshot,sphere,1,1.226255081e-22,10000,1.568
+with white_holes,sphere,1,6.015985792e-23,10000,1.524
+without penrose,sphere,1,3.026219352e-05,10000,1.784
+without penrose_page_dirs,sphere,1,5.577651207e-23,10000,2.173
+without penrose_adaptive,sphere,1,5.245903517e-11,10000,1.521
+without endgame,sphere,1,4.96327812e-19,10000,1.328
+without galactic_centre,sphere,1,1.458042303e-23,10000,2.406
+without levy_radiation,sphere,1,9.483022607e-23,10000,1.428
+without cmb_spawn,sphere,1,2.096739685e-22,10000,1.859
+without gw_adaptive,sphere,1,7.26517007e-23,10000,1.343
+every module on,sphere,1,1.460550809e-22,10000,2.345
+no modules,sphere,1,1.197043343e-05,10000,0.428
+default,sphere,2,1.266340315e-22,10000,1.478
+without gravity,sphere,2,1.757422747e-24,10000,1.597
+without gravitational_waves,sphere,2,2.658003711e-25,10000,4.164
+without area_theorem,sphere,2,1.201579236e-22,10000,5.256
+without page_curve,sphere,2,4.609555503e-23,10000,2.247
+without spin,sphere,2,4.373817595e-23,10000,2.020
+without spaghettification,sphere,2,9.699754016e-23,10000,1.201
+with slingshot,sphere,2,1.014469768e-22,10000,2.559
+with white_holes,sphere,2,3.023582286e-23,10000,1.691
+without penrose,sphere,2,2.083501379e-05,10000,3.003
+without penrose_page_dirs,sphere,2,2.188341101e-22,10000,2.529
+without penrose_adaptive,sphere,2,3.979936579e-11,10000,1.877
+without endgame,sphere,2,1.442288931e-16,10000,2.005
+without galactic_centre,sphere,2,9.696658525e-24,10000,2.198
+without levy_radiation,sphere,2,8.070113482e-23,10000,2.039
+without cmb_spawn,sphere,2,2.740556719e-22,10000,1.881
+without gw_adaptive,sphere,2,6.667944305e-23,10000,2.133
+every module on,sphere,2,4.369911724e-22,10000,1.871
+no modules,sphere,2,1.560826837e-05,10000,0.730
+default,sphere,3,4.690415008e-23,10000,2.183
+without gravity,sphere,3,6.385244482e-24,10000,3.128
+without gravitational_waves,sphere,3,3.046754365e-25,10000,3.674
+without area_theorem,sphere,3,1.031777479e-22,10000,5.105
+without page_curve,sphere,3,5.764789997e-23,10000,1.889
+without spin,sphere,3,9.427745783e-23,10000,2.102
+without spaghettification,sphere,3,9.364906464e-23,10000,1.301
+with slingshot,sphere,3,1.237270309e-22,10000,1.759
+with white_holes,sphere,3,7.031032761e-23,10000,1.588
+without penrose,sphere,3,3.103256054e-05,10000,2.125
+without penrose_page_dirs,sphere,3,9.686906942e-23,10000,1.486
+without penrose_adaptive,sphere,3,6.969944906e-11,10000,1.383
+without endgame,sphere,3,1.016786959e-12,10000,1.344
+without galactic_centre,sphere,3,3.927580044e-23,10000,1.391
+without levy_radiation,sphere,3,1.124980984e-22,10000,1.255
+without cmb_spawn,sphere,3,1.501454817e-22,10000,1.341
+without gw_adaptive,sphere,3,5.592414581e-23,10000,1.434
+every module on,sphere,3,1.20630008e-22,10000,1.628
+no modules,sphere,3,1.473988023e-05,10000,0.557
+default,sphere,4,3.761986386e-23,10000,1.799
+without gravity,sphere,4,5.0795298e-24,10000,1.645
+without gravitational_waves,sphere,4,1.301967592e-25,10000,2.591
+without area_theorem,sphere,4,1.202290355e-22,10000,3.564
+without page_curve,sphere,4,8.69851369e-23,10000,2.095
+without spin,sphere,4,9.188109719e-23,10000,1.463
+without spaghettification,sphere,4,7.564155611e-23,10000,1.189
+with slingshot,sphere,4,1.890545202e-22,10000,1.214
+with white_holes,sphere,4,9.63153293e-23,10000,1.587
+without penrose,sphere,4,2.573114129e-05,10000,1.694
+without penrose_page_dirs,sphere,4,1.721245049e-22,10000,1.678
+without penrose_adaptive,sphere,4,6.497400901e-11,10000,2.214
+without endgame,sphere,4,8.342537774e-15,10000,1.186
+without galactic_centre,sphere,4,2.325888221e-23,10000,1.167
+without levy_radiation,sphere,4,1.050338429e-22,10000,1.461
+without cmb_spawn,sphere,4,1.276993629e-22,10000,1.737
+without gw_adaptive,sphere,4,1.392482132e-22,10000,1.841
+every module on,sphere,4,1.233510511e-22,10000,1.850
+no modules,sphere,4,7.463303695e-06,10000,0.378
+default,sphere,5,1.290256921e-22,10000,1.226
+without gravity,sphere,5,4.749063345e-24,10000,1.850
+without gravitational_waves,sphere,5,1.225668966e-25,10000,2.866
+without area_theorem,sphere,5,1.821896909e-22,10000,3.102
+without page_curve,sphere,5,1.550114503e-22,10000,1.129
+without spin,sphere,5,9.181871801e-23,10000,1.921
+without spaghettification,sphere,5,1.655880437e-22,10000,1.134
+with slingshot,sphere,5,3.981597531e-23,10000,2.155
+with white_holes,sphere,5,1.295873413e-22,10000,2.019
+without penrose,sphere,5,3.734073129e-05,10000,1.424
+without penrose_page_dirs,sphere,5,1.075136303e-22,10000,1.060
+without penrose_adaptive,sphere,5,4.054282223e-11,10000,1.353
+without endgame,sphere,5,2.265280888e-18,10000,1.103
+without galactic_centre,sphere,5,1.275833498e-23,10000,2.395
+without levy_radiation,sphere,5,1.579531189e-22,10000,1.737
+without cmb_spawn,sphere,5,2.444402929e-22,10000,1.409
+without gw_adaptive,sphere,5,5.142371564e-23,10000,1.327
+every module on,sphere,5,4.630680961e-23,10000,1.961
+no modules,sphere,5,1.006167803e-05,10000,0.567
+default,sphere,6,5.977358823e-23,10000,1.727
+without gravity,sphere,6,4.064388089e-24,10000,2.243
+without gravitational_waves,sphere,6,1.635419097e-25,10000,2.770
+without area_theorem,sphere,6,1.553916663e-22,10000,3.493
+without page_curve,sphere,6,8.687237397e-23,10000,1.375
+without spin,sphere,6,2.445517645e-22,10000,1.245
+without spaghettification,sphere,6,7.81872915e-23,10000,1.135
+with slingshot,sphere,6,7.391225152e-23,10000,1.214
+with white_holes,sphere,6,1.108981994e-22,10000,1.285
+without penrose,sphere,6,3.221929951e-05,10000,1.337
+without penrose_page_dirs,sphere,6,1.137758693e-22,10000,1.049
+without penrose_adaptive,sphere,6,7.19735471e-11,10000,1.209
+without endgame,sphere,6,8.318663607e-11,10000,1.129
+without galactic_centre,sphere,6,1.480585423e-23,10000,1.688
+without levy_radiation,sphere,6,7.007499936e-23,10000,1.859
+without cmb_spawn,sphere,6,4.511562483e-22,10000,1.720
+without gw_adaptive,sphere,6,8.142256311e-23,10000,1.410
+every module on,sphere,6,6.459660413e-23,10000,1.482
+no modules,sphere,6,1.499174976e-05,10000,0.410
+default,sphere,7,1.89185397e-22,10000,1.442
+without gravity,sphere,7,1.317503498e-23,10000,2.135
+without gravitational_waves,sphere,7,2.154071476e-25,10000,2.576
+without area_theorem,sphere,7,2.567840239e-22,10000,4.434
+without page_curve,sphere,7,8.453585553e-23,10000,1.232
+without spin,sphere,7,1.598979995e-22,10000,1.084
+without spaghettification,sphere,7,1.973770864e-22,10000,1.121
+with slingshot,sphere,7,1.065232107e-22,10000,1.366
+with white_holes,sphere,7,7.044432675e-20,10000,1.520
+without penrose,sphere,7,5.428688462e-05,10000,1.339
+without penrose_page_dirs,sphere,7,8.960342383e-23,10000,1.050
+without penrose_adaptive,sphere,7,5.168212706e-11,10000,1.226
+without endgame,sphere,7,1.047011621e-13,10000,1.116
+without galactic_centre,sphere,7,1.556605424e-23,10000,1.648
+without levy_radiation,sphere,7,2.192585693e-22,10000,1.358
+without cmb_spawn,sphere,7,2.421097122e-22,10000,1.766
+without gw_adaptive,sphere,7,1.691939861e-22,10000,1.805
+every module on,sphere,7,7.479661429e-23,10000,1.254
+no modules,sphere,7,9.691542673e-06,10000,0.357
+default,sphere,8,7.20819893e-23,10000,1.757
+without gravity,sphere,8,8.015837328e-24,10000,2.118
+without gravitational_waves,sphere,8,2.6423606e-25,10000,2.215
+without area_theorem,sphere,8,1.275959803e-22,10000,3.123
+without page_curve,sphere,8,3.585191416e-22,10000,1.683
+without spin,sphere,8,2.14888003e-22,10000,1.619
+without spaghettification,sphere,8,8.41498154e-23,10000,1.135
+with slingshot,sphere,8,1.09809711e-22,10000,1.486
+with white_holes,sphere,8,3.087713782e-19,10000,1.279
+without penrose,sphere,8,3.522254564e-05,10000,1.616
+without penrose_page_dirs,sphere,8,3.201359112e-23,10000,1.313
+without penrose_adaptive,sphere,8,5.906598319e-11,10000,1.722
+without endgame,sphere,8,7.339630249e-18,10000,1.151
+without galactic_centre,sphere,8,2.640660368e-23,10000,1.453
+without levy_radiation,sphere,8,1.241184661e-22,10000,1.485
+without cmb_spawn,sphere,8,1.014674698e-22,10000,1.365
+without gw_adaptive,sphere,8,5.821227e-23,10000,1.462
+every module on,sphere,8,2.821484169e-22,10000,1.546
+no modules,sphere,8,9.706087575e-06,10000,0.468
+default,sphere,9,8.330633534e-23,10000,1.239
+without gravity,sphere,9,2.859374657e-24,10000,1.788
+without gravitational_waves,sphere,9,9.755527271e-26,10000,2.991
+without area_theorem,sphere,9,2.014113005e-22,10000,4.347
+without page_curve,sphere,9,4.633251859e-23,10000,1.498
+without spin,sphere,9,9.529148882e-23,10000,1.173
+without spaghettification,sphere,9,3.741254806e-23,10000,1.168
+with slingshot,sphere,9,7.538551868e-23,10000,1.439
+with white_holes,sphere,9,4.912584902e-23,10000,1.303
+without penrose,sphere,9,3.515681792e-05,10000,1.356
+without penrose_page_dirs,sphere,9,5.204404194e-23,10000,1.023
+without penrose_adaptive,sphere,9,2.769891988e-11,10000,1.755
+without endgame,sphere,9,1.347063882e-18,10000,1.661
+without galactic_centre,sphere,9,7.777610801e-24,10000,2.205
+without levy_radiation,sphere,9,5.671319919e-23,10000,1.728
+without cmb_spawn,sphere,9,4.090956687e-23,10000,1.626
+without gw_adaptive,sphere,9,1.613773811e-22,10000,1.753
+every module on,sphere,9,6.527902403e-23,10000,1.607
+no modules,sphere,9,1.345028517e-05,10000,0.399
+default,sphere,10,3.997294916e-23,10000,1.287
+without gravity,sphere,10,3.42499187e-24,10000,1.509
+without gravitational_waves,sphere,10,1.205986886e-25,10000,2.970
+without area_theorem,sphere,10,1.687247124e-22,10000,3.413
+without page_curve,sphere,10,5.917324615e-23,10000,1.322
+without spin,sphere,10,1.093785953e-22,10000,1.265
+without spaghettification,sphere,10,7.478118575e-23,10000,1.138
+with slingshot,sphere,10,8.194036747e-23,10000,1.153
+with white_holes,sphere,10,9.802255683e-23,10000,1.465
+without penrose,sphere,10,2.086426685e-05,10000,1.482
+without penrose_page_dirs,sphere,10,1.341052503e-22,10000,1.067
+without penrose_adaptive,sphere,10,4.117893412e-11,10000,1.185
+without endgame,sphere,10,6.769165695e-12,10000,1.122
+without galactic_centre,sphere,10,2.399821608e-20,10000,1.791
+without levy_radiation,sphere,10,5.702365383e-23,10000,1.689
+without cmb_spawn,sphere,10,1.386209402e-22,10000,1.406
+without gw_adaptive,sphere,10,4.508334551e-23,10000,1.222
+every module on,sphere,10,1.741643927e-22,10000,1.969
+no modules,sphere,10,2.042914182e-05,10000,0.526
+default,sphere,11,1.260700448e-22,10000,1.664
+without gravity,sphere,11,1.42481414e-23,10000,1.630
+without gravitational_waves,sphere,11,3.592717109e-25,10000,2.573
+without area_theorem,sphere,11,1.136994594e-22,10000,4.467
+without page_curve,sphere,11,1.628326433e-22,10000,1.660
+without spin,sphere,11,1.401464812e-22,10000,1.075
+without spaghettification,sphere,11,1.572730419e-22,10000,1.154
+with slingshot,sphere,11,8.85353677e-23,10000,1.193
+with white_holes,sphere,11,1.44115806e-22,10000,2.178
+without penrose,sphere,11,7.033924054e-05,10000,1.317
+without penrose_page_dirs,sphere,11,7.512475045e-23,10000,1.074
+without penrose_adaptive,sphere,11,6.81919412e-11,10000,1.460
+without endgame,sphere,11,4.726879403e-16,10000,1.347
+without galactic_centre,sphere,11,2.35835466e-23,10000,1.320
+without levy_radiation,sphere,11,4.685561226e-23,10000,1.418
+without cmb_spawn,sphere,11,1.389490795e-22,10000,1.223
+without gw_adaptive,sphere,11,1.367676905e-22,10000,1.139
+every module on,sphere,11,1.600492052e-22,10000,2.240
+no modules,sphere,11,8.239391324e-06,10000,0.564
+default,sphere,12,4.862079503e-23,10000,1.122
+without gravity,sphere,12,2.700102851e-24,10000,1.485
+without gravitational_waves,sphere,12,1.260236851e-25,10000,2.566
+without area_theorem,sphere,12,2.11690338e-22,10000,3.415
+without page_curve,sphere,12,1.106080745e-22,10000,1.635
+without spin,sphere,12,2.991997731e-22,10000,1.258
+without spaghettification,sphere,12,8.772906665e-23,10000,1.113
+with slingshot,sphere,12,5.657737865e-23,10000,1.212
+with white_holes,sphere,12,3.81792112e-23,10000,1.952
+without penrose,sphere,12,3.71351397e-05,10000,1.893
+without penrose_page_dirs,sphere,12,8.106636875e-23,10000,1.640
+without penrose_adaptive,sphere,12,3.28400323e-11,10000,1.675
+without endgame,sphere,12,5.519964333e-22,10000,1.124
+without galactic_centre,sphere,12,4.434121594e-23,10000,1.100
+without levy_radiation,sphere,12,5.162944268e-23,10000,1.258
+without cmb_spawn,sphere,12,1.495161237e-22,10000,1.112
+without gw_adaptive,sphere,12,2.325335648e-22,10000,1.341
+every module on,sphere,12,5.657737865e-23,10000,1.380
+no modules,sphere,12,1.228765338e-05,10000,0.411
+default,sphere,13,1.158618849e-22,10000,1.369
+without gravity,sphere,13,9.402164128e-24,10000,1.951
+without gravitational_waves,sphere,13,2.133679422e-25,10000,3.282
+without area_theorem,sphere,13,9.007481634e-23,10000,2.858
+without page_curve,sphere,13,3.867908791e-23,10000,1.138
+without spin,sphere,13,3.055236371e-22,10000,1.056
+without spaghettification,sphere,13,1.931022057e-22,10000,1.125
+with slingshot,sphere,13,1.193533668e-22,10000,1.434
+with white_holes,sphere,13,2.419498133e-22,10000,1.970
+without penrose,sphere,13,5.824118232e-05,10000,1.501
+without penrose_page_dirs,sphere,13,3.053154473e-23,10000,1.197
+without penrose_adaptive,sphere,13,1.134779528e-10,10000,1.242
+without endgame,sphere,13,8.955009329e-16,10000,1.092
+without galactic_centre,sphere,13,5.561557734e-24,10000,1.935
+without levy_radiation,sphere,13,9.816281866e-23,10000,1.947
+without cmb_spawn,sphere,13,3.178207835e-22,10000,1.098
+without gw_adaptive,sphere,13,2.085084675e-22,10000,1.181
+every module on,sphere,13,1.281385249e-22,10000,1.520
+no modules,sphere,13,1.548974247e-05,10000,0.459
+default,sphere,14,1.005428309e-22,10000,1.359
+without gravity,sphere,14,4.906136595e-24,10000,1.755
+without gravitational_waves,sphere,14,8.230738027e-26,10000,2.230
+without area_theorem,sphere,14,3.236411358e-23,10000,3.026
+without page_curve,sphere,14,1.682353347e-22,10000,1.826
+without spin,sphere,14,1.688026685e-22,10000,1.548
+without spaghettification,sphere,14,7.075566326e-23,10000,1.130
+with slingshot,sphere,14,6.885569729e-23,10000,1.158
+with white_holes,sphere,14,2.008248029e-22,10000,1.723
+without penrose,sphere,14,3.50296243e-05,10000,1.923
+without penrose_page_dirs,sphere,14,1.320768704e-22,10000,1.297
+without penrose_adaptive,sphere,14,4.021417684e-11,10000,1.408
+without endgame,sphere,14,1.317726959e-13,10000,1.083
+without galactic_centre,sphere,14,2.535250959e-23,10000,1.541
+without levy_radiation,sphere,14,1.262043279e-22,10000,1.419
+without cmb_spawn,sphere,14,3.099295807e-22,10000,1.377
+without gw_adaptive,sphere,14,1.59539164e-22,10000,1.618
+every module on,sphere,14,1.268273844e-22,10000,1.574
+no modules,sphere,14,1.273626864e-05,10000,0.354
+default,rosenbrock,0,0.4702894312,10000,1.133
+without gravity,rosenbrock,0,0.8300301754,10000,1.487
+without gravitational_waves,rosenbrock,0,1.213230557,10000,1.650
+without area_theorem,rosenbrock,0,0.8092995155,10000,2.383
+without page_curve,rosenbrock,0,0.3687261352,10000,1.268
+without spin,rosenbrock,0,0.7981579736,10000,1.241
+without spaghettification,rosenbrock,0,0.5443247452,10000,1.301
+with slingshot,rosenbrock,0,0.4158877925,10000,1.137
+with white_holes,rosenbrock,0,1.534058005,10000,1.406
+without penrose,rosenbrock,0,0.8945754909,10000,1.295
+without penrose_page_dirs,rosenbrock,0,1.400108539,10000,0.994
+without penrose_adaptive,rosenbrock,0,0.4122020083,10000,1.651
+without endgame,rosenbrock,0,0.6258954649,10000,1.706
+without galactic_centre,rosenbrock,0,0.2654047099,10000,1.003
+without levy_radiation,rosenbrock,0,0.6403369812,10000,1.091
+without cmb_spawn,rosenbrock,0,0.2042717247,10000,1.277
+without gw_adaptive,rosenbrock,0,1.628210824,10000,1.286
+every module on,rosenbrock,0,0.583436739,10000,2.167
+no modules,rosenbrock,0,37.19784002,10000,0.491
+default,rosenbrock,1,0.03813889371,10000,1.277
+without gravity,rosenbrock,1,0.3087861441,10000,1.548
+without gravitational_waves,rosenbrock,1,0.3138448129,10000,1.586
+without area_theorem,rosenbrock,1,0.05512249938,10000,2.475
+without page_curve,rosenbrock,1,0.03988363753,10000,1.084
+without spin,rosenbrock,1,0.1395310653,10000,1.304
+without spaghettification,rosenbrock,1,0.2678733824,10000,1.684
+with slingshot,rosenbrock,1,0.3011619146,10000,1.737
+with white_holes,rosenbrock,1,0.1147488416,10000,1.684
+without penrose,rosenbrock,1,0.8463577962,10000,1.540
+without penrose_page_dirs,rosenbrock,1,0.4949569171,10000,1.006
+without penrose_adaptive,rosenbrock,1,0.276258356,10000,1.173
+without endgame,rosenbrock,1,0.0855825252,10000,1.070
+without galactic_centre,rosenbrock,1,0.0591017443,10000,1.125
+without levy_radiation,rosenbrock,1,0.04354776359,10000,1.112
+without cmb_spawn,rosenbrock,1,0.0006538588779,10000,1.579
+without gw_adaptive,rosenbrock,1,0.4375434728,10000,1.251
+every module on,rosenbrock,1,6.973766253,10000,1.485
+no modules,rosenbrock,1,7.25953054,10000,0.450
+default,rosenbrock,2,0.0915456498,10000,1.382
+without gravity,rosenbrock,2,0.7841045696,10000,1.251
+without gravitational_waves,rosenbrock,2,0.9187439243,10000,1.315
+without area_theorem,rosenbrock,2,4.548874431,10000,3.288
+without page_curve,rosenbrock,2,0.09297200958,10000,1.618
+without spin,rosenbrock,2,0.3853028472,10000,1.286
+without spaghettification,rosenbrock,2,0.8962276167,10000,1.245
+with slingshot,rosenbrock,2,0.4535267143,10000,1.708
+with white_holes,rosenbrock,2,0.003506165952,10000,1.838
+without penrose,rosenbrock,2,1.85553166,10000,1.319
+without penrose_page_dirs,rosenbrock,2,1.987240656,10000,1.009
+without penrose_adaptive,rosenbrock,2,0.5595083723,10000,1.117
+without endgame,rosenbrock,2,0.1709366905,10000,1.102
+without galactic_centre,rosenbrock,2,4.438831149,10000,1.112
+without levy_radiation,rosenbrock,2,0.08850235565,10000,1.239
+without cmb_spawn,rosenbrock,2,0.005345350953,10000,1.646
+without gw_adaptive,rosenbrock,2,0.003826521832,10000,1.685
+every module on,rosenbrock,2,0.4276627302,10000,1.738
+no modules,rosenbrock,2,1.72893167,10000,0.460
+default,rosenbrock,3,49.5315078,10000,1.121
+without gravity,rosenbrock,3,0.2763112453,10000,0.981
+without gravitational_waves,rosenbrock,3,0.7322550226,10000,1.671
+without area_theorem,rosenbrock,3,77.12673701,10000,2.787
+without page_curve,rosenbrock,3,5.893441627,10000,1.093
+without spin,rosenbrock,3,0.4747921113,10000,1.062
+without spaghettification,rosenbrock,3,0.939554664,10000,1.254
+with slingshot,rosenbrock,3,0.8810609029,10000,1.346
+with white_holes,rosenbrock,3,2.211261783,10000,1.612
+without penrose,rosenbrock,3,0.8472268873,10000,1.946
+without penrose_page_dirs,rosenbrock,3,0.7998473959,10000,1.352
+without penrose_adaptive,rosenbrock,3,1.87499809,10000,1.578
+without endgame,rosenbrock,3,76.2290996,10000,1.084
+without galactic_centre,rosenbrock,3,2.978742177,10000,1.089
+without levy_radiation,rosenbrock,3,0.7750917615,10000,1.123
+without cmb_spawn,rosenbrock,3,0.3476638923,10000,1.206
+without gw_adaptive,rosenbrock,3,0.8638668281,10000,1.379
+every module on,rosenbrock,3,1.409971346,10000,2.056
+no modules,rosenbrock,3,1.926870571,10000,0.408
+default,rosenbrock,4,0.7231509164,10000,1.204
+without gravity,rosenbrock,4,0.03922344639,10000,1.066
+without gravitational_waves,rosenbrock,4,67.4986775,10000,1.200
+without area_theorem,rosenbrock,4,1.505542788,10000,2.773
+without page_curve,rosenbrock,4,0.5857709928,10000,1.667
+without spin,rosenbrock,4,0.3866694634,10000,1.482
+without spaghettification,rosenbrock,4,0.6596073194,10000,1.140
+with slingshot,rosenbrock,4,0.06525875128,10000,1.442
+with white_holes,rosenbrock,4,1.074398683,10000,1.978
+without penrose,rosenbrock,4,0.1903766914,10000,1.462
+without penrose_page_dirs,rosenbrock,4,0.9840565407,10000,1.135
+without penrose_adaptive,rosenbrock,4,0.4639812095,10000,1.810
+without endgame,rosenbrock,4,0.8985651716,10000,1.619
+without galactic_centre,rosenbrock,4,0.06566573614,10000,1.101
+without levy_radiation,rosenbrock,4,0.04062509029,10000,1.124
+without cmb_spawn,rosenbrock,4,0.3562357045,10000,1.060
+without gw_adaptive,rosenbrock,4,0.06719344779,10000,1.140
+every module on,rosenbrock,4,0.09187773091,10000,1.666
+no modules,rosenbrock,4,7.318903649,10000,0.456
+default,rosenbrock,5,0.004836888876,10000,1.419
+without gravity,rosenbrock,5,0.008478119896,10000,1.225
+without gravitational_waves,rosenbrock,5,0.01163259034,10000,1.085
+without area_theorem,rosenbrock,5,0.2553398715,10000,1.946
+without page_curve,rosenbrock,5,0.002133343589,10000,1.685
+without spin,rosenbrock,5,0.2259127043,10000,1.314
+without spaghettification,rosenbrock,5,0.1068535582,10000,1.274
+with slingshot,rosenbrock,5,0.02423582605,10000,1.289
+with white_holes,rosenbrock,5,0.03049199523,10000,1.498
+without penrose,rosenbrock,5,0.7254860806,10000,1.297
+without penrose_page_dirs,rosenbrock,5,0.3920759128,10000,1.172
+without penrose_adaptive,rosenbrock,5,0.4063080086,10000,1.257
+without endgame,rosenbrock,5,0.01781965421,10000,1.092
+without galactic_centre,rosenbrock,5,0.5584652994,10000,0.812
+without levy_radiation,rosenbrock,5,0.0009302327743,10000,1.111
+without cmb_spawn,rosenbrock,5,0.06875427776,10000,1.075
+without gw_adaptive,rosenbrock,5,0.08160881859,10000,1.315
+every module on,rosenbrock,5,0.1149100223,10000,1.613
+no modules,rosenbrock,5,1.561130745,10000,0.568
+default,rosenbrock,6,0.4518670981,10000,1.622
+without gravity,rosenbrock,6,0.6698368295,10000,1.473
+without gravitational_waves,rosenbrock,6,0.584191728,10000,1.653
+without area_theorem,rosenbrock,6,0.2612905572,10000,2.991
+without page_curve,rosenbrock,6,0.5900797442,10000,1.802
+without spin,rosenbrock,6,0.9425506822,10000,1.524
+without spaghettification,rosenbrock,6,0.7007290154,10000,1.552
+with slingshot,rosenbrock,6,0.2080942021,10000,1.097
+with white_holes,rosenbrock,6,0.7882845275,10000,1.447
+without penrose,rosenbrock,6,0.9192006284,10000,1.528
+without penrose_page_dirs,rosenbrock,6,0.6516248844,10000,1.132
+without penrose_adaptive,rosenbrock,6,0.2175219173,10000,1.121
+without endgame,rosenbrock,6,0.638895524,10000,1.100
+without galactic_centre,rosenbrock,6,0.01431286735,10000,1.182
+without levy_radiation,rosenbrock,6,1.175860553,10000,1.257
+without cmb_spawn,rosenbrock,6,0.01019668933,10000,1.308
+without gw_adaptive,rosenbrock,6,0.613040559,10000,1.274
+every module on,rosenbrock,6,0.4392559562,10000,1.388
+no modules,rosenbrock,6,9.626213638,10000,0.401
+default,rosenbrock,7,9.5191152,10000,1.106
+without gravity,rosenbrock,7,0.1885547149,10000,1.016
+without gravitational_waves,rosenbrock,7,0.7680354568,10000,1.532
+without area_theorem,rosenbrock,7,67.19069534,10000,2.829
+without page_curve,rosenbrock,7,3.059374244,10000,1.269
+without spin,rosenbrock,7,0.2323327065,10000,1.293
+without spaghettification,rosenbrock,7,0.001121863938,10000,1.844
+with slingshot,rosenbrock,7,0.1898759464,10000,1.679
+with white_holes,rosenbrock,7,68.1386714,10000,1.510
+without penrose,rosenbrock,7,1.0582126,10000,1.273
+without penrose_page_dirs,rosenbrock,7,0.09071835336,10000,1.051
+without penrose_adaptive,rosenbrock,7,0.0278885226,10000,1.126
+without endgame,rosenbrock,7,67.80972322,10000,1.116
+without galactic_centre,rosenbrock,7,0.308545897,10000,0.909
+without levy_radiation,rosenbrock,7,4.445138188,10000,1.895
+without cmb_spawn,rosenbrock,7,0.2517669743,10000,1.593
+without gw_adaptive,rosenbrock,7,0.001577542193,10000,1.376
+every module on,rosenbrock,7,0.3450624556,10000,1.669
+no modules,rosenbrock,7,7.910186269,10000,0.476
+default,rosenbrock,8,0.177022097,10000,1.348
+without gravity,rosenbrock,8,0.3739192254,10000,1.071
+without gravitational_waves,rosenbrock,8,0.0007296046738,10000,1.097
+without area_theorem,rosenbrock,8,0.2479880203,10000,2.333
+without page_curve,rosenbrock,8,0.1653876855,10000,1.295
+without spin,rosenbrock,8,4.525562123,10000,1.596
+without spaghettification,rosenbrock,8,0.1402225533,10000,1.582
+with slingshot,rosenbrock,8,3.986787974,10000,1.384
+with white_holes,rosenbrock,8,0.2845842411,10000,2.014
+without penrose,rosenbrock,8,4.217951123,10000,1.294
+without penrose_page_dirs,rosenbrock,8,0.5363101147,10000,0.988
+without penrose_adaptive,rosenbrock,8,0.09819048179,10000,1.286
+without endgame,rosenbrock,8,0.3207248824,10000,1.245
+without galactic_centre,rosenbrock,8,0.8628989727,10000,0.980
+without levy_radiation,rosenbrock,8,0.06034532153,10000,1.085
+without cmb_spawn,rosenbrock,8,0.1643423011,10000,1.058
+without gw_adaptive,rosenbrock,8,4.190688604,10000,1.134
+every module on,rosenbrock,8,4.000696045,10000,1.440
+no modules,rosenbrock,8,9.529990716,10000,0.391
+default,rosenbrock,9,0.1154904208,10000,1.239
+without gravity,rosenbrock,9,0.6868826597,10000,1.321
+without gravitational_waves,rosenbrock,9,0.195724967,10000,1.151
+without area_theorem,rosenbrock,9,0.08343534741,10000,2.519
+without page_curve,rosenbrock,9,0.1014944723,10000,1.494
+without spin,rosenbrock,9,0.8557179878,10000,1.584
+without spaghettification,rosenbrock,9,0.0056479347,10000,1.474
+with slingshot,rosenbrock,9,4.061170178,10000,1.605
+with white_holes,rosenbrock,9,0.6477674875,10000,1.351
+without penrose,rosenbrock,9,1.650327254,10000,1.298
+without penrose_page_dirs,rosenbrock,9,1.229168715,10000,1.190
+without penrose_adaptive,rosenbrock,9,4.19953326,10000,1.323
+without endgame,rosenbrock,9,0.9871342581,10000,1.067
+without galactic_centre,rosenbrock,9,0.1617620047,10000,1.043
+without levy_radiation,rosenbrock,9,0.1640025925,10000,1.097
+without cmb_spawn,rosenbrock,9,0.03390622311,10000,1.069
+without gw_adaptive,rosenbrock,9,0.1706158301,10000,1.351
+every module on,rosenbrock,9,0.8236973839,10000,1.691
+no modules,rosenbrock,9,8.365123605,10000,0.583
+default,rosenbrock,10,0.1598345542,10000,1.714
+without gravity,rosenbrock,10,0.09326881881,10000,1.001
+without gravitational_waves,rosenbrock,10,0.7273997437,10000,1.121
+without area_theorem,rosenbrock,10,0.3321259638,10000,2.991
+without page_curve,rosenbrock,10,0.1543528705,10000,1.540
+without spin,rosenbrock,10,0.1558348181,10000,1.300
+without spaghettification,rosenbrock,10,0.03385193782,10000,1.383
+with slingshot,rosenbrock,10,0.04357191906,10000,1.181
+with white_holes,rosenbrock,10,0.3887257651,10000,1.420
+without penrose,rosenbrock,10,0.5252804287,10000,1.764
+without penrose_page_dirs,rosenbrock,10,0.4978481569,10000,1.183
+without penrose_adaptive,rosenbrock,10,0.278451723,10000,1.781
+without endgame,rosenbrock,10,0.2645351588,10000,1.560
+without galactic_centre,rosenbrock,10,4.739342663,10000,0.937
+without levy_radiation,rosenbrock,10,0.1765658046,10000,1.090
+without cmb_spawn,rosenbrock,10,0.2940114016,10000,1.285
+without gw_adaptive,rosenbrock,10,0.141821241,10000,1.308
+every module on,rosenbrock,10,0.05775516625,10000,2.092
+no modules,rosenbrock,10,11.03969511,10000,0.561
+default,rosenbrock,11,0.0005735067052,10000,1.153
+without gravity,rosenbrock,11,0.1517972008,10000,0.986
+without gravitational_waves,rosenbrock,11,0.2086059449,10000,1.333
+without area_theorem,rosenbrock,11,0.01031114204,10000,2.533
+without page_curve,rosenbrock,11,0.000317704473,10000,1.139
+without spin,rosenbrock,11,0.08435360122,10000,1.061
+without spaghettification,rosenbrock,11,0.2179767444,10000,1.241
+with slingshot,rosenbrock,11,0.06945668915,10000,1.295
+with white_holes,rosenbrock,11,0.00369991528,10000,2.095
+without penrose,rosenbrock,11,0.4937875208,10000,2.814
+without penrose_page_dirs,rosenbrock,11,5.796851868,10000,0.986
+without penrose_adaptive,rosenbrock,11,0.1365401462,10000,1.319
+without endgame,rosenbrock,11,0.001385210875,10000,1.123
+without galactic_centre,rosenbrock,11,4.008254159,10000,1.312
+without levy_radiation,rosenbrock,11,0.0002712818401,10000,1.136
+without cmb_spawn,rosenbrock,11,0.06654050272,10000,2.807
+without gw_adaptive,rosenbrock,11,0.261138454,10000,1.140
+every module on,rosenbrock,11,0.2178446962,10000,1.841
+no modules,rosenbrock,11,7.90504955,10000,0.462
+default,rosenbrock,12,0.8854788834,10000,1.715
+without gravity,rosenbrock,12,0.4996994385,10000,1.157
+without gravitational_waves,rosenbrock,12,0.9372646598,10000,1.944
+without area_theorem,rosenbrock,12,0.605428267,10000,4.469
+without page_curve,rosenbrock,12,0.6984880453,10000,1.721
+without spin,rosenbrock,12,1.360766502,10000,2.874
+without spaghettification,rosenbrock,12,1.068047122,10000,2.561
+with slingshot,rosenbrock,12,1.00786173,10000,2.368
+with white_holes,rosenbrock,12,0.7656782983,10000,2.559
+without penrose,rosenbrock,12,1.428353877,10000,2.914
+without penrose_page_dirs,rosenbrock,12,0.609611521,10000,1.850
+without penrose_adaptive,rosenbrock,12,1.090878475,10000,3.033
+without endgame,rosenbrock,12,1.088494026,10000,2.625
+without galactic_centre,rosenbrock,12,3.100279486,10000,1.111
+without levy_radiation,rosenbrock,12,0.1189742313,10000,1.368
+without cmb_spawn,rosenbrock,12,0.0997237529,10000,1.406
+without gw_adaptive,rosenbrock,12,0.2812278736,10000,1.237
+every module on,rosenbrock,12,1.603124786,10000,3.199
+no modules,rosenbrock,12,11.20917016,10000,0.453
+default,rosenbrock,13,0.4090144091,10000,1.292
+without gravity,rosenbrock,13,0.5486217179,10000,1.219
+without gravitational_waves,rosenbrock,13,0.02385216499,10000,2.306
+without area_theorem,rosenbrock,13,0.4963779174,10000,2.362
+without page_curve,rosenbrock,13,0.3680083516,10000,2.060
+without spin,rosenbrock,13,0.4092839393,10000,2.977
+without spaghettification,rosenbrock,13,0.1973297873,10000,1.304
+with slingshot,rosenbrock,13,0.007032775746,10000,2.810
+with white_holes,rosenbrock,13,0.5687388861,10000,2.773
+without penrose,rosenbrock,13,0.2589821827,10000,2.371
+without penrose_page_dirs,rosenbrock,13,0.5279646536,10000,1.076
+without penrose_adaptive,rosenbrock,13,0.2435560427,10000,1.184
+without endgame,rosenbrock,13,0.5683419012,10000,1.128
+without galactic_centre,rosenbrock,13,4.593230801e-06,10000,1.113
+without levy_radiation,rosenbrock,13,0.3746665401,10000,1.165
+without cmb_spawn,rosenbrock,13,0.08405059992,10000,1.126
+without gw_adaptive,rosenbrock,13,4.841987594,10000,1.337
+every module on,rosenbrock,13,0.03288969181,10000,1.603
+no modules,rosenbrock,13,9.330121356,10000,0.894
+default,rosenbrock,14,0.2992973067,10000,3.434
+without gravity,rosenbrock,14,0.7812426167,10000,1.215
+without gravitational_waves,rosenbrock,14,0.2651366376,10000,1.295
+without area_theorem,rosenbrock,14,0.4134593919,10000,2.432
+without page_curve,rosenbrock,14,0.2644434348,10000,1.228
+without spin,rosenbrock,14,0.3606102969,10000,1.113
+without spaghettification,rosenbrock,14,0.2595598144,10000,1.105
+with slingshot,rosenbrock,14,0.2406547521,10000,2.306
+with white_holes,rosenbrock,14,0.1588109316,10000,1.673
+without penrose,rosenbrock,14,0.4182547994,10000,1.327
+without penrose_page_dirs,rosenbrock,14,0.5722442631,10000,1.053
+without penrose_adaptive,rosenbrock,14,0.5604501308,10000,2.352
+without endgame,rosenbrock,14,0.4403198666,10000,2.171
+without galactic_centre,rosenbrock,14,0.08387059255,10000,1.034
+without levy_radiation,rosenbrock,14,0.2206493916,10000,1.168
+without cmb_spawn,rosenbrock,14,0.006366543744,10000,3.121
+without gw_adaptive,rosenbrock,14,0.1273911028,10000,2.265
+every module on,rosenbrock,14,0.1398099252,10000,2.802
+no modules,rosenbrock,14,7.080319295,10000,0.469
+default,rastrigin,0,8.954626476,10000,1.903
+without gravity,rastrigin,0,12.93445772,10000,0.793
+without gravitational_waves,rastrigin,0,9.949580495,10000,3.916
+without area_theorem,rastrigin,0,8.954626476,10000,4.608
+without page_curve,rastrigin,0,8.954626476,10000,2.002
+without spin,rastrigin,0,6.964708362,10000,3.794
+without spaghettification,rastrigin,0,8.954626476,10000,2.099
+with slingshot,rastrigin,0,9.949585533,10000,1.532
+with white_holes,rastrigin,0,8.954626476,10000,1.755
+without penrose,rastrigin,0,6.964895088,10000,2.165
+without penrose_page_dirs,rastrigin,0,7.959667419,10000,2.866
+without penrose_adaptive,rastrigin,0,6.964708363,10000,5.979
+without endgame,rastrigin,0,8.955503157,10000,4.639
+without galactic_centre,rastrigin,0,38.80326176,10000,0.979
+without levy_radiation,rastrigin,0,15.9193298,10000,1.380
+without cmb_spawn,rastrigin,0,16.9142737,10000,1.022
+without gw_adaptive,rastrigin,0,8.954626476,10000,2.030
+every module on,rastrigin,0,9.949585533,10000,1.661
+no modules,rastrigin,0,30.81121007,10000,0.393
+default,rastrigin,1,4.974795285,10000,1.803
+without gravity,rastrigin,1,7.959667419,10000,0.883
+without gravitational_waves,rastrigin,1,4.974795285,10000,2.286
+without area_theorem,rastrigin,1,5.969754343,10000,4.801
+without page_curve,rastrigin,1,4.974795285,10000,1.793
+without spin,rastrigin,1,4.974795285,10000,1.732
+without spaghettification,rastrigin,1,5.969754343,10000,3.886
+with slingshot,rastrigin,1,8.954626476,10000,3.157
+with white_holes,rastrigin,1,4.974795285,10000,3.926
+without penrose,rastrigin,1,6.964910556,10000,2.283
+without penrose_page_dirs,rastrigin,1,3.979836228,10000,2.767
+without penrose_adaptive,rastrigin,1,3.979836229,10000,3.648
+without endgame,rastrigin,1,4.977345989,10000,2.299
+without galactic_centre,rastrigin,1,30.84359938,10000,1.172
+without levy_radiation,rastrigin,1,9.949585533,10000,2.019
+without cmb_spawn,rastrigin,1,9.949585533,10000,1.008
+without gw_adaptive,rastrigin,1,8.846173623,10000,1.824
+every module on,rastrigin,1,8.954626476,10000,2.305
+no modules,rastrigin,1,45.78128299,10000,1.067
+default,rastrigin,2,9.949598613,10000,3.309
+without gravity,rastrigin,2,16.91428886,10000,0.874
+without gravitational_waves,rastrigin,2,9.949585533,10000,2.309
+without area_theorem,rastrigin,2,9.949585533,10000,2.461
+without page_curve,rastrigin,2,9.949598613,10000,2.075
+without spin,rastrigin,2,9.949585533,10000,1.378
+without spaghettification,rastrigin,2,9.949585533,10000,1.453
+with slingshot,rastrigin,2,3.979836228,10000,3.423
+with white_holes,rastrigin,2,9.949598613,10000,1.861
+without penrose,rastrigin,2,11.01849851,10000,2.695
+without penrose_page_dirs,rastrigin,2,10.94454459,10000,3.340
+without penrose_adaptive,rastrigin,2,9.949585534,10000,3.462
+without endgame,rastrigin,2,9.949598613,10000,3.123
+without galactic_centre,rastrigin,2,58.70231654,10000,1.039
+without levy_radiation,rastrigin,2,9.949598613,10000,3.025
+without cmb_spawn,rastrigin,2,11.93949861,10000,1.162
+without gw_adaptive,rastrigin,2,9.949585533,10000,2.140
+every module on,rastrigin,2,3.979836228,10000,2.342
+no modules,rastrigin,2,44.64282246,10000,0.380
+default,rastrigin,3,8.954626476,10000,0.921
+without gravity,rastrigin,3,10.94454459,10000,2.261
+without gravitational_waves,rastrigin,3,12.93445767,10000,2.893
+without area_theorem,rastrigin,3,8.954626476,10000,1.351
+without page_curve,rastrigin,3,7.959667419,10000,1.007
+without spin,rastrigin,3,4.974795285,10000,5.066
+without spaghettification,rastrigin,3,31.83863437,10000,2.338
+with slingshot,rastrigin,3,11.93949861,10000,1.751
+with white_holes,rastrigin,3,8.954626476,10000,1.409
+without penrose,rastrigin,3,6.140799716,10000,2.274
+without penrose_page_dirs,rastrigin,3,31.83863437,10000,1.531
+without penrose_adaptive,rastrigin,3,8.954626478,10000,1.597
+without endgame,rastrigin,3,8.967167424,10000,3.061
+without galactic_centre,rastrigin,3,43.77807238,10000,1.032
+without levy_radiation,rastrigin,3,9.949585533,10000,2.037
+without cmb_spawn,rastrigin,3,13.92941672,10000,2.824
+without gw_adaptive,rastrigin,3,31.83863437,10000,3.556
+every module on,rastrigin,3,11.93949861,10000,2.052
+no modules,rastrigin,3,26.84803494,10000,0.386
+default,rastrigin,4,4.974795285,10000,2.119
+without gravity,rastrigin,4,6.9647134,10000,0.778
+without gravitational_waves,rastrigin,4,8.954626476,10000,1.471
+without area_theorem,rastrigin,4,4.974795285,10000,2.757
+without page_curve,rastrigin,4,4.974795285,10000,1.851
+without spin,rastrigin,4,8.718256809,10000,0.932
+without spaghettification,rastrigin,4,4.974795285,10000,2.029
+with slingshot,rastrigin,4,9.949585533,10000,1.726
+with white_holes,rastrigin,4,4.974795285,10000,2.652
+without penrose,rastrigin,4,6.965178239,10000,1.935
+without penrose_page_dirs,rastrigin,4,5.969754343,10000,1.267
+without penrose_adaptive,rastrigin,4,7.959667421,10000,1.550
+without endgame,rastrigin,4,4.97785328,10000,2.198
+without galactic_centre,rastrigin,4,8.954626476,10000,3.593
+without levy_radiation,rastrigin,4,18.90420193,10000,3.805
+without cmb_spawn,rastrigin,4,10.94453955,10000,1.751
+without gw_adaptive,rastrigin,4,4.974795285,10000,1.889
+every module on,rastrigin,4,9.949585533,10000,5.566
+no modules,rastrigin,4,41.75459212,10000,0.937
+default,rastrigin,5,7.959672457,10000,2.824
+without gravity,rastrigin,5,3.979836228,10000,0.856
+without gravitational_waves,rastrigin,5,21.88907407,10000,2.438
+without area_theorem,rastrigin,5,7.959672457,10000,0.881
+without page_curve,rastrigin,5,7.959672457,10000,1.971
+without spin,rastrigin,5,10.94453955,10000,2.902
+without spaghettification,rastrigin,5,18.90420193,10000,3.942
+with slingshot,rastrigin,5,6.964708362,10000,2.552
+with white_holes,rastrigin,5,7.959672457,10000,1.250
+without penrose,rastrigin,5,12.93474455,10000,2.276
+without penrose_page_dirs,rastrigin,5,21.88907407,10000,3.939
+without penrose_adaptive,rastrigin,5,18.90420248,10000,3.495
+without endgame,rastrigin,5,7.959672457,10000,0.872
+without galactic_centre,rastrigin,5,43.77804697,10000,2.923
+without levy_radiation,rastrigin,5,4.974795285,10000,2.214
+without cmb_spawn,rastrigin,5,6.964708362,10000,1.018
+without gw_adaptive,rastrigin,5,10.98830686,10000,2.126
+every module on,rastrigin,5,6.964708362,10000,1.879
+no modules,rastrigin,5,45.07890181,10000,0.462
+default,rastrigin,6,8.954626476,10000,1.644
+without gravity,rastrigin,6,5.969749305,10000,0.854
+without gravitational_waves,rastrigin,6,8.954626476,10000,1.063
+without area_theorem,rastrigin,6,8.954626476,10000,1.800
+without page_curve,rastrigin,6,8.954626476,10000,1.994
+without spin,rastrigin,6,8.954626476,10000,2.768
+without spaghettification,rastrigin,6,8.954626476,10000,2.756
+with slingshot,rastrigin,6,7.959667419,10000,1.381
+with white_holes,rastrigin,6,8.954626476,10000,1.590
+without penrose,rastrigin,6,5.970034178,10000,3.511
+without penrose_page_dirs,rastrigin,6,7.959667419,10000,1.692
+without penrose_adaptive,rastrigin,6,8.954626477,10000,3.955
+without endgame,rastrigin,6,8.954626476,10000,2.523
+without galactic_centre,rastrigin,6,27.85878802,10000,1.285
+without levy_radiation,rastrigin,6,9.949585533,10000,3.802
+without cmb_spawn,rastrigin,6,13.92941672,10000,3.926
+without gw_adaptive,rastrigin,6,9.437535543,10000,1.932
+every module on,rastrigin,6,7.959667419,10000,1.502
+no modules,rastrigin,6,41.02143662,10000,0.390
+default,rastrigin,7,6.964708362,10000,2.289
+without gravity,rastrigin,7,1.989918114,10000,1.553
+without gravitational_waves,rastrigin,7,10.94453955,10000,5.223
+without area_theorem,rastrigin,7,7.959667419,10000,2.850
+without page_curve,rastrigin,7,6.964708362,10000,1.577
+without spin,rastrigin,7,5.969754343,10000,3.491
+without spaghettification,rastrigin,7,4.974795285,10000,2.299
+with slingshot,rastrigin,7,17.90924791,10000,1.030
+with white_holes,rastrigin,7,6.964708362,10000,1.856
+without penrose,rastrigin,7,7.959993136,10000,2.662
+without penrose_page_dirs,rastrigin,7,8.921953074,10000,1.583
+without penrose_adaptive,rastrigin,7,7.95966742,10000,1.790
+without endgame,rastrigin,7,6.964708362,10000,1.768
+without galactic_centre,rastrigin,7,45.76792469,10000,0.997
+without levy_radiation,rastrigin,7,16.91426866,10000,0.912
+without cmb_spawn,rastrigin,7,5.969754343,10000,1.269
+without gw_adaptive,rastrigin,7,8.995835721,10000,1.907
+every module on,rastrigin,7,17.90924791,10000,1.070
+no modules,rastrigin,7,58.46643485,10000,0.382
+default,rastrigin,8,18.90418174,10000,1.801
+without gravity,rastrigin,8,11.93949861,10000,0.913
+without gravitational_waves,rastrigin,8,18.90418174,10000,1.689
+without area_theorem,rastrigin,8,18.90418174,10000,2.174
+without page_curve,rastrigin,8,18.90418174,10000,5.852
+without spin,rastrigin,8,6.9647134,10000,2.975
+without spaghettification,rastrigin,8,18.90418174,10000,3.338
+with slingshot,rastrigin,8,14.92437578,10000,2.845
+with white_holes,rastrigin,8,18.90418174,10000,1.421
+without penrose,rastrigin,8,12.93608697,10000,1.826
+without penrose_page_dirs,rastrigin,8,16.91428886,10000,3.330
+without penrose_adaptive,rastrigin,8,18.90418174,10000,5.887
+without endgame,rastrigin,8,18.90418174,10000,1.849
+without galactic_centre,rastrigin,8,16.91426866,10000,1.070
+without levy_radiation,rastrigin,8,12.93445767,10000,1.888
+without cmb_spawn,rastrigin,8,13.92941672,10000,1.000
+without gw_adaptive,rastrigin,8,18.90418174,10000,1.893
+every module on,rastrigin,8,14.92437578,10000,4.542
+no modules,rastrigin,8,38.06985243,10000,0.444
+default,rastrigin,9,7.959672457,10000,2.229
+without gravity,rastrigin,9,3.979836228,10000,0.918
+without gravitational_waves,rastrigin,9,7.959672457,10000,2.517
+without area_theorem,rastrigin,9,6.9647134,10000,5.431
+without page_curve,rastrigin,9,7.959672457,10000,2.675
+without spin,rastrigin,9,7.959667419,10000,2.298
+without spaghettification,rastrigin,9,7.959672457,10000,2.117
+with slingshot,rastrigin,9,4.974795285,10000,1.754
+with white_holes,rastrigin,9,7.959672457,10000,1.916
+without penrose,rastrigin,9,9.949841127,10000,2.461
+without penrose_page_dirs,rastrigin,9,9.949585533,10000,3.059
+without penrose_adaptive,rastrigin,9,5.969754344,10000,2.339
+without endgame,rastrigin,9,7.960055848,10000,2.484
+without galactic_centre,rastrigin,9,37.8083027,10000,0.947
+without levy_radiation,rastrigin,9,8.954626476,10000,0.913
+without cmb_spawn,rastrigin,9,34.82344573,10000,1.136
+without gw_adaptive,rastrigin,9,5.969754343,10000,1.657
+every module on,rastrigin,9,4.974795285,10000,1.748
+no modules,rastrigin,9,45.66293875,10000,0.395
+default,rastrigin,10,9.949585533,10000,5.346
+without gravity,rastrigin,10,1.989918114,10000,2.679
+without gravitational_waves,rastrigin,10,9.949585533,10000,3.036
+without area_theorem,rastrigin,10,9.949585533,10000,3.018
+without page_curve,rastrigin,10,9.949585533,10000,1.816
+without spin,rastrigin,10,9.949585533,10000,6.522
+without spaghettification,rastrigin,10,9.949585533,10000,2.380
+with slingshot,rastrigin,10,2.984877171,10000,4.761
+with white_holes,rastrigin,10,9.949585533,10000,2.161
+without penrose,rastrigin,10,9.949850068,10000,2.167
+without penrose_page_dirs,rastrigin,10,6.9647134,10000,1.511
+without penrose_adaptive,rastrigin,10,9.949585534,10000,2.602
+without endgame,rastrigin,10,9.949585543,10000,2.356
+without galactic_centre,rastrigin,10,51.73768915,10000,0.999
+without levy_radiation,rastrigin,10,6.964708362,10000,2.668
+without cmb_spawn,rastrigin,10,3.979836228,10000,1.547
+without gw_adaptive,rastrigin,10,9.949585533,10000,1.860
+every module on,rastrigin,10,2.984877171,10000,1.888
+no modules,rastrigin,10,37.43572564,10000,1.671
+default,rastrigin,11,4.974795285,10000,1.142
+without gravity,rastrigin,11,6.9647134,10000,3.394
+without gravitational_waves,rastrigin,11,3.979836228,10000,4.471
+without area_theorem,rastrigin,11,4.974795285,10000,1.058
+without page_curve,rastrigin,11,22.88401293,10000,0.972
+without spin,rastrigin,11,4.974795285,10000,2.515
+without spaghettification,rastrigin,11,5.969749305,10000,2.350
+with slingshot,rastrigin,11,10.94453955,10000,1.900
+with white_holes,rastrigin,11,4.974795285,10000,1.018
+without penrose,rastrigin,11,8.954961128,10000,2.896
+without penrose_page_dirs,rastrigin,11,10.94453955,10000,2.684
+without penrose_adaptive,rastrigin,11,4.974795289,10000,1.259
+without endgame,rastrigin,11,5.259125284,10000,1.212
+without galactic_centre,rastrigin,11,10.94454459,10000,1.111
+without levy_radiation,rastrigin,11,22.88401293,10000,1.013
+without cmb_spawn,rastrigin,11,14.92437578,10000,1.028
+without gw_adaptive,rastrigin,11,4.618276912,10000,1.938
+every module on,rastrigin,11,10.94453955,10000,2.831
+no modules,rastrigin,11,56.12397725,10000,0.970
+default,rastrigin,12,10.94453955,10000,2.171
+without gravity,rastrigin,12,9.949580495,10000,0.917
+without gravitational_waves,rastrigin,12,10.94453955,10000,3.559
+without area_theorem,rastrigin,12,10.94453955,10000,2.845
+without page_curve,rastrigin,12,10.94453955,10000,2.866
+without spin,rastrigin,12,11.93949861,10000,2.912
+without spaghettification,rastrigin,12,10.94453955,10000,1.898
+with slingshot,rastrigin,12,10.94453955,10000,2.161
+with white_holes,rastrigin,12,10.94453955,10000,2.201
+without penrose,rastrigin,12,23.72918158,10000,4.395
+without penrose_page_dirs,rastrigin,12,10.94453955,10000,1.865
+without penrose_adaptive,rastrigin,12,10.94453955,10000,4.237
+without endgame,rastrigin,12,10.94516826,10000,4.125
+without galactic_centre,rastrigin,12,19.89914079,10000,1.375
+without levy_radiation,rastrigin,12,7.959667419,10000,1.920
+without cmb_spawn,rastrigin,12,16.91428886,10000,1.006
+without gw_adaptive,rastrigin,12,7.959667419,10000,2.891
+every module on,rastrigin,12,10.94453955,10000,3.199
+no modules,rastrigin,12,49.02671219,10000,0.428
+default,rastrigin,13,13.92941672,10000,0.919
+without gravity,rastrigin,13,10.94454459,10000,1.155
+without gravitational_waves,rastrigin,13,14.92437578,10000,0.914
+without area_theorem,rastrigin,13,13.92941672,10000,2.899
+without page_curve,rastrigin,13,13.92941672,10000,2.140
+without spin,rastrigin,13,7.959667419,10000,3.908
+without spaghettification,rastrigin,13,9.949585533,10000,2.414
+with slingshot,rastrigin,13,5.969754343,10000,1.719
+with white_holes,rastrigin,13,13.92941672,10000,1.000
+without penrose,rastrigin,13,8.955091491,10000,2.481
+without penrose_page_dirs,rastrigin,13,13.92939653,10000,1.509
+without penrose_adaptive,rastrigin,13,7.626644186,10000,2.326
+without endgame,rastrigin,13,6.294907588,10000,1.214
+without galactic_centre,rastrigin,13,48.75275625,10000,0.968
+without levy_radiation,rastrigin,13,12.93445767,10000,3.327
+without cmb_spawn,rastrigin,13,5.969754343,10000,1.045
+without gw_adaptive,rastrigin,13,8.954626476,10000,5.138
+every module on,rastrigin,13,5.969754343,10000,1.681
+no modules,rastrigin,13,52.0766446,10000,0.374
+default,rastrigin,14,5.969754343,10000,1.796
+without gravity,rastrigin,14,7.959667632,10000,0.787
+without gravitational_waves,rastrigin,14,28.85376223,10000,1.242
+without area_theorem,rastrigin,14,4.974795285,10000,2.182
+without page_curve,rastrigin,14,28.85376223,10000,2.197
+without spin,rastrigin,14,11.93949861,10000,3.078
+without spaghettification,rastrigin,14,5.969754343,10000,2.305
+with slingshot,rastrigin,14,6.9647134,10000,2.901
+with white_holes,rastrigin,14,5.969754343,10000,1.693
+without penrose,rastrigin,14,5.970003076,10000,2.566
+without penrose_page_dirs,rastrigin,14,3.979836228,10000,2.500
+without penrose_adaptive,rastrigin,14,28.85377361,10000,0.931
+without endgame,rastrigin,14,5.979355817,10000,3.352
+without galactic_centre,rastrigin,14,14.92437074,10000,1.928
+without levy_radiation,rastrigin,14,5.969754343,10000,2.570
+without cmb_spawn,rastrigin,14,6.964708362,10000,1.196
+without gw_adaptive,rastrigin,14,5.969754343,10000,2.059
+every module on,rastrigin,14,6.9647134,10000,1.656
+no modules,rastrigin,14,49.19547818,10000,0.442
+default,ackley,0,2.4780622e-11,10000,2.731
+without gravity,ackley,0,4.029776267,10000,5.179
+without gravitational_waves,ackley,0,2.316848792,10000,6.127
+without area_theorem,ackley,0,2.316848912,10000,5.118
+without page_curve,ackley,0,2.4780622e-11,10000,3.610
+without spin,ackley,0,3.361622092e-11,10000,3.892
+without spaghettification,ackley,0,1.786704118e-11,10000,2.363
+with slingshot,ackley,0,2.457101189e-11,10000,4.763
+with white_holes,ackley,0,2.4780622e-11,10000,2.886
+without penrose,ackley,0,1.1552057,10000,4.502
+without penrose_page_dirs,ackley,0,0.01366133117,10000,3.735
+without penrose_adaptive,ackley,0,1.361387049e-05,10000,2.951
+without endgame,ackley,0,0.2442184774,10000,2.758
+without galactic_centre,ackley,0,14.16461416,10000,0.805
+without levy_radiation,ackley,0,0.04756022289,10000,2.345
+without cmb_spawn,ackley,0,1.19346618,10000,1.260
+without gw_adaptive,ackley,0,1.094012415,10000,3.150
+every module on,ackley,0,2.457101189e-11,10000,2.256
+no modules,ackley,0,18.0353146,10000,0.479
+default,ackley,1,0.08281908459,10000,2.936
+without gravity,ackley,1,3.222381916,10000,2.157
+without gravitational_waves,ackley,1,4.029303772,10000,4.313
+without area_theorem,ackley,1,2.015826484,10000,3.129
+without page_curve,ackley,1,0.08281908459,10000,3.462
+without spin,ackley,1,1.518494293,10000,4.019
+without spaghettification,ackley,1,1.352562506e-11,10000,4.624
+with slingshot,ackley,1,1.820810169e-11,10000,3.789
+with white_holes,ackley,1,0.08281908459,10000,2.768
+without penrose,ackley,1,0.003975499793,10000,4.375
+without penrose_page_dirs,ackley,1,1.325206611e-11,10000,2.222
+without penrose_adaptive,ackley,1,0.07991011387,10000,2.365
+without endgame,ackley,1,0.08281908459,10000,3.360
+without galactic_centre,ackley,1,2.013315236,10000,3.165
+without levy_radiation,ackley,1,0.2335130911,10000,3.803
+without cmb_spawn,ackley,1,1.836442109e-11,10000,1.070
+without gw_adaptive,ackley,1,0.8092670101,10000,4.845
+every module on,ackley,1,1.820810169e-11,10000,2.731
+no modules,ackley,1,19.43906559,10000,0.394
+default,ackley,2,2.596367565e-11,10000,2.666
+without gravity,ackley,2,1.646223633,10000,2.422
+without gravitational_waves,ackley,2,2.013315236,10000,3.852
+without area_theorem,ackley,2,2.102012092,10000,3.583
+without page_curve,ackley,2,2.596367565e-11,10000,5.102
+without spin,ackley,2,1.559330443e-11,10000,2.907
+without spaghettification,ackley,2,2.469890958e-11,10000,3.193
+with slingshot,ackley,2,0.05344640953,10000,2.750
+with white_holes,ackley,2,2.596367565e-11,10000,3.437
+without penrose,ackley,2,1.646292329,10000,2.939
+without penrose_page_dirs,ackley,2,1.81832327e-11,10000,2.677
+without penrose_adaptive,ackley,2,1.473374408e-05,10000,4.337
+without endgame,ackley,2,0.3116593343,10000,3.683
+without galactic_centre,ackley,2,1.155148503,10000,4.498
+without levy_radiation,ackley,2,1.713518216e-11,10000,2.401
+without cmb_spawn,ackley,2,3.379030389e-11,10000,1.041
+without gw_adaptive,ackley,2,4.466871317e-11,10000,2.370
+every module on,ackley,2,0.05344640953,10000,3.304
+no modules,ackley,2,17.3453539,10000,0.399
+default,ackley,3,2.362599005e-11,10000,2.936
+without gravity,ackley,3,4.424219682,10000,1.796
+without gravitational_waves,ackley,3,2.814349981,10000,5.197
+without area_theorem,ackley,3,0.01029523423,10000,3.162
+without page_curve,ackley,3,2.362599005e-11,10000,3.470
+without spin,ackley,3,1.968922642,10000,3.583
+without spaghettification,ackley,3,2.258859766e-11,10000,4.060
+with slingshot,ackley,3,1.646223633,10000,3.740
+with white_holes,ackley,3,2.362599005e-11,10000,2.438
+without penrose,ackley,3,2.013421009,10000,2.962
+without penrose_page_dirs,ackley,3,0.278352288,10000,2.935
+without penrose_adaptive,ackley,3,1.236678898e-05,10000,4.996
+without endgame,ackley,3,0.04982598091,10000,3.130
+without galactic_centre,ackley,3,2.013418464,10000,2.784
+without levy_radiation,ackley,3,2.390310172e-11,10000,5.112
+without cmb_spawn,ackley,3,0.5181820423,10000,1.038
+without gw_adaptive,ackley,3,1.075329126,10000,3.456
+every module on,ackley,3,1.646223633,10000,2.382
+no modules,ackley,3,18.02497093,10000,0.400
+default,ackley,4,0.6966542037,10000,3.528
+without gravity,ackley,4,4.633182726e-12,10000,2.239
+without gravitational_waves,ackley,4,3.574026898,10000,4.381
+without area_theorem,ackley,4,1.659624122,10000,3.019
+without page_curve,ackley,4,0.6966542037,10000,3.128
+without spin,ackley,4,2.546984845e-11,10000,3.965
+without spaghettification,ackley,4,1.195005191,10000,3.344
+with slingshot,ackley,4,2.984323899e-11,10000,3.909
+with white_holes,ackley,4,0.6966542037,10000,2.885
+without penrose,ackley,4,1.622784937,10000,4.647
+without penrose_page_dirs,ackley,4,1.764322022e-11,10000,4.983
+without penrose_adaptive,ackley,4,0.000235396086,10000,3.593
+without endgame,ackley,4,0.1878960486,10000,3.428
+without galactic_centre,ackley,4,2.579927557,10000,2.836
+without levy_radiation,ackley,4,0.1936088324,10000,2.635
+without cmb_spawn,ackley,4,1.823297069e-11,10000,2.613
+without gw_adaptive,ackley,4,1.646223633,10000,3.863
+every module on,ackley,4,2.984323899e-11,10000,2.605
+no modules,ackley,4,18.14975817,10000,0.556
+default,ackley,5,1.959366003e-11,10000,2.399
+without gravity,ackley,5,3.734200266,10000,1.991
+without gravitational_waves,ackley,5,3.404158349,10000,5.335
+without area_theorem,ackley,5,2.469486543,10000,3.593
+without page_curve,ackley,5,1.959366003e-11,10000,2.639
+without spin,ackley,5,1.534031905,10000,2.798
+without spaghettification,ackley,5,3.158051598e-11,10000,3.193
+with slingshot,ackley,5,3.407452098e-11,10000,3.313
+with white_holes,ackley,5,1.959366003e-11,10000,3.038
+without penrose,ackley,5,0.00484887005,10000,2.989
+without penrose_page_dirs,ackley,5,0.1183520165,10000,3.832
+without penrose_adaptive,ackley,5,0.2002095564,10000,2.643
+without endgame,ackley,5,0.0715288012,10000,4.106
+without galactic_centre,ackley,5,1.155148503,10000,3.444
+without levy_radiation,ackley,5,0.04730642144,10000,2.652
+without cmb_spawn,ackley,5,0.266046882,10000,1.248
+without gw_adaptive,ackley,5,1.155148503,10000,2.345
+every module on,ackley,5,3.407452098e-11,10000,3.488
+no modules,ackley,5,19.14486915,10000,0.960
+default,ackley,6,2.788214104e-11,10000,5.024
+without gravity,ackley,6,4.000799692e-12,10000,2.082
+without gravitational_waves,ackley,6,2.579927557,10000,3.809
+without area_theorem,ackley,6,2.316848792,10000,4.205
+without page_curve,ackley,6,2.788214104e-11,10000,2.627
+without spin,ackley,6,0.4828596379,10000,3.666
+without spaghettification,ackley,6,1.659382289,10000,3.053
+with slingshot,ackley,6,0.05313759796,10000,4.284
+with white_holes,ackley,6,2.788214104e-11,10000,3.699
+without penrose,ackley,6,2.013382105,10000,4.011
+without penrose_page_dirs,ackley,6,2.48836507e-11,10000,2.954
+without penrose_adaptive,ackley,6,1.506682164e-05,10000,3.878
+without endgame,ackley,6,0.1066668032,10000,2.882
+without galactic_centre,ackley,6,1.155148503,10000,6.218
+without levy_radiation,ackley,6,0.07056126743,10000,2.644
+without cmb_spawn,ackley,6,0.783290474,10000,1.118
+without gw_adaptive,ackley,6,0.6958550499,10000,2.335
+every module on,ackley,6,0.05313759796,10000,2.186
+no modules,ackley,6,18.75178634,10000,0.447
+default,ackley,7,1.837863195e-11,10000,5.563
+without gravity,ackley,7,2.316848792,10000,3.672
+without gravitational_waves,ackley,7,4.029303772,10000,4.199
+without area_theorem,ackley,7,1.653019669,10000,3.713
+without page_curve,ackley,7,1.837863195e-11,10000,3.440
+without spin,ackley,7,1.155148503,10000,3.040
+without spaghettification,ackley,7,2.614486405e-11,10000,3.754
+with slingshot,ackley,7,0.6868938335,10000,3.128
+with white_holes,ackley,7,1.837863195e-11,10000,3.053
+without penrose,ackley,7,0.004152733059,10000,4.443
+without penrose_page_dirs,ackley,7,1.530553462e-11,10000,3.550
+without penrose_adaptive,ackley,7,1.831899473e-05,10000,3.811
+without endgame,ackley,7,0.1627639195,10000,2.733
+without galactic_centre,ackley,7,1.646223633,10000,4.665
+without levy_radiation,ackley,7,3.805711302e-11,10000,2.464
+without cmb_spawn,ackley,7,0.1886569352,10000,1.053
+without gw_adaptive,ackley,7,1.521764949,10000,2.995
+every module on,ackley,7,0.6868938335,10000,3.460
+no modules,ackley,7,18.68479415,10000,0.383
+default,ackley,8,4.64166483e-11,10000,2.386
+without gravity,ackley,8,2.316848792,10000,2.169
+without gravitational_waves,ackley,8,2.013315236,10000,6.998
+without area_theorem,ackley,8,1.837729164,10000,2.969
+without page_curve,ackley,8,4.64166483e-11,10000,2.699
+without spin,ackley,8,2.466693516e-11,10000,2.706
+without spaghettification,ackley,8,3.671773996e-11,10000,3.221
+with slingshot,ackley,8,2.200950533e-11,10000,3.091
+with white_holes,ackley,8,4.64166483e-11,10000,3.221
+without penrose,ackley,8,1.906672722,10000,2.918
+without penrose_page_dirs,ackley,8,1.979616471e-11,10000,2.283
+without penrose_adaptive,ackley,8,1.10955678e-05,10000,2.978
+without endgame,ackley,8,0.1219458372,10000,2.834
+without galactic_centre,ackley,8,1.677635808e-11,10000,3.433
+without levy_radiation,ackley,8,2.137001687e-11,10000,3.980
+without cmb_spawn,ackley,8,3.052891273e-11,10000,1.853
+without gw_adaptive,ackley,8,1.59985385,10000,5.073
+every module on,ackley,8,2.200950533e-11,10000,2.560
+no modules,ackley,8,18.80767013,10000,0.399
+default,ackley,9,2.068434313e-11,10000,3.660
+without gravity,ackley,9,2.013315236,10000,1.809
+without gravitational_waves,ackley,9,2.316848792,10000,4.535
+without area_theorem,ackley,9,1.108169528,10000,3.434
+without page_curve,ackley,9,2.068434313e-11,10000,4.038
+without spin,ackley,9,7.676748126e-11,10000,3.739
+without spaghettification,ackley,9,2.051381287e-11,10000,2.821
+with slingshot,ackley,9,1.652597903,10000,2.344
+with white_holes,ackley,9,2.068434313e-11,10000,2.416
+without penrose,ackley,9,2.013425808,10000,5.254
+without penrose_page_dirs,ackley,9,0.1196156407,10000,2.503
+without penrose_adaptive,ackley,9,1.801833667e-05,10000,2.447
+without endgame,ackley,9,0.09478200692,10000,3.196
+without galactic_centre,ackley,9,1.646223633,10000,2.835
+without levy_radiation,ackley,9,1.50923718e-11,10000,3.869
+without cmb_spawn,ackley,9,1.98459027e-11,10000,2.439
+without gw_adaptive,ackley,9,2.445021963e-11,10000,2.329
+every module on,ackley,9,1.652597903,10000,2.779
+no modules,ackley,9,17.9507564,10000,0.653
+default,ackley,10,1.155148503,10000,2.748
+without gravity,ackley,10,3.026594277,10000,1.703
+without gravitational_waves,ackley,10,3.885758271,10000,3.464
+without area_theorem,ackley,10,1.646430421,10000,5.061
+without page_curve,ackley,10,1.155148503,10000,2.604
+without spin,ackley,10,0.5499750879,10000,7.117
+without spaghettification,ackley,10,0.1100017031,10000,4.565
+with slingshot,ackley,10,1.953681661e-11,10000,2.159
+with white_holes,ackley,10,1.155148503,10000,4.475
+without penrose,ackley,10,1.634117006,10000,3.960
+without penrose_page_dirs,ackley,10,0.06774259601,10000,2.231
+without penrose_adaptive,ackley,10,1.672712115e-05,10000,2.804
+without endgame,ackley,10,0.1398112313,10000,4.207
+without galactic_centre,ackley,10,2.285505118e-11,10000,3.353
+without levy_radiation,ackley,10,2.276268063e-11,10000,3.453
+without cmb_spawn,ackley,10,0.4161596897,10000,1.156
+without gw_adaptive,ackley,10,1.398360756,10000,2.345
+every module on,ackley,10,1.953681661e-11,10000,2.176
+no modules,ackley,10,15.6838503,10000,0.386
+default,ackley,11,1.915312353e-11,10000,8.241
+without gravity,ackley,11,2.579927557,10000,2.418
+without gravitational_waves,ackley,11,2.579927557,10000,3.585
+without area_theorem,ackley,11,2.813736169,10000,6.889
+without page_curve,ackley,11,1.915312353e-11,10000,6.628
+without spin,ackley,11,0.7553203831,10000,5.322
+without spaghettification,ackley,11,1.957234375e-11,10000,3.393
+with slingshot,ackley,11,1.226101281,10000,2.558
+with white_holes,ackley,11,1.915312353e-11,10000,2.387
+without penrose,ackley,11,1.646293135,10000,2.884
+without penrose_page_dirs,ackley,11,1.73021597e-11,10000,4.118
+without penrose_adaptive,ackley,11,1.259330695e-05,10000,4.267
+without endgame,ackley,11,0.2251750458,10000,2.698
+without galactic_centre,ackley,11,2.527800191e-11,10000,5.296
+without levy_radiation,ackley,11,2.231859142e-11,10000,2.403
+without cmb_spawn,ackley,11,4.004307996e-11,10000,1.073
+without gw_adaptive,ackley,11,1.951905304e-11,10000,2.330
+every module on,ackley,11,1.226101281,10000,2.140
+no modules,ackley,11,18.58069625,10000,0.464
+default,ackley,12,1.240296754e-11,10000,2.705
+without gravity,ackley,12,3.222381916,10000,2.063
+without gravitational_waves,ackley,12,1.155148503,10000,6.042
+without area_theorem,ackley,12,1.647220801,10000,4.302
+without page_curve,ackley,12,1.240296754e-11,10000,4.775
+without spin,ackley,12,3.928990466e-11,10000,3.076
+without spaghettification,ackley,12,2.160804868e-11,10000,4.010
+with slingshot,ackley,12,1.069055955e-11,10000,2.191
+with white_holes,ackley,12,1.240296754e-11,10000,5.561
+without penrose,ackley,12,0.003664495011,10000,2.839
+without penrose_page_dirs,ackley,12,1.737676669e-11,10000,2.819
+without penrose_adaptive,ackley,12,1.307653782e-05,10000,2.441
+without endgame,ackley,12,0.03679393947,10000,3.781
+without galactic_centre,ackley,12,2.883426831e-11,10000,2.845
+without levy_radiation,ackley,12,1.240296754e-11,10000,3.588
+without cmb_spawn,ackley,12,1.155148503,10000,3.164
+without gw_adaptive,ackley,12,2.216227202e-11,10000,3.120
+every module on,ackley,12,1.069055955e-11,10000,3.663
+no modules,ackley,12,19.51709938,10000,0.474
+default,ackley,13,1.155148503,10000,2.800
+without gravity,ackley,13,2.316848792,10000,1.819
+without gravitational_waves,ackley,13,1.646223633,10000,4.829
+without area_theorem,ackley,13,2.078863874,10000,3.321
+without page_curve,ackley,13,1.155148503,10000,2.846
+without spin,ackley,13,2.013315236,10000,3.606
+without spaghettification,ackley,13,2.862821091e-11,10000,2.568
+with slingshot,ackley,13,1.646353987,10000,3.143
+with white_holes,ackley,13,1.155148503,10000,2.868
+without penrose,ackley,13,1.508553127,10000,3.268
+without penrose_page_dirs,ackley,13,1.504973923e-11,10000,2.831
+without penrose_adaptive,ackley,13,1.457989515e-05,10000,2.814
+without endgame,ackley,13,0.1252094997,10000,4.082
+without galactic_centre,ackley,13,2.317258702,10000,2.821
+without levy_radiation,ackley,13,2.386757458e-11,10000,3.688
+without cmb_spawn,ackley,13,3.629496703e-11,10000,1.113
+without gw_adaptive,ackley,13,2.926769938e-11,10000,2.736
+every module on,ackley,13,1.646353987,10000,3.546
+no modules,ackley,13,18.46403301,10000,0.714
+default,ackley,14,1.767164193e-11,10000,4.326
+without gravity,ackley,14,3.222381916,10000,2.737
+without gravitational_waves,ackley,14,3.404158349,10000,5.503
+without area_theorem,ackley,14,2.013315236,10000,3.225
+without page_curve,ackley,14,1.767164193e-11,10000,3.734
+without spin,ackley,14,0.7898372929,10000,3.752
+without spaghettification,ackley,14,2.278754963e-11,10000,3.222
+with slingshot,ackley,14,2.450382119e-10,10000,2.998
+with white_holes,ackley,14,1.767164193e-11,10000,2.750
+without penrose,ackley,14,1.155291753,10000,3.743
+without penrose_page_dirs,ackley,14,0.1573859073,10000,2.852
+without penrose_adaptive,ackley,14,1.293933871e-05,10000,2.409
+without endgame,ackley,14,0.1390423894,10000,4.316
+without galactic_centre,ackley,14,2.579927557,10000,4.575
+without levy_radiation,ackley,14,2.347677608e-11,10000,3.726
+without cmb_spawn,ackley,14,2.172173552e-11,10000,1.122
+without gw_adaptive,ackley,14,1.327059698,10000,2.465
+every module on,ackley,14,2.450382119e-10,10000,2.564
+no modules,ackley,14,17.11402439,10000,0.740
+default,griewank,0,0.1033676271,10000,2.292
+without gravity,griewank,0,0.1999772398,10000,1.883
+without gravitational_waves,griewank,0,0.2878580648,10000,2.259
+without area_theorem,griewank,0,0.450030205,10000,4.872
+without page_curve,griewank,0,0.4402564914,10000,1.444
+without spin,griewank,0,0.2552634723,10000,1.598
+without spaghettification,griewank,0,0.6226389581,10000,1.964
+with slingshot,griewank,0,0.1947387346,10000,1.285
+with white_holes,griewank,0,0.4035586272,10000,1.733
+without penrose,griewank,0,0.3281490302,10000,1.615
+without penrose_page_dirs,griewank,0,0.3128270273,10000,1.522
+without penrose_adaptive,griewank,0,0.2236627237,10000,1.883
+without endgame,griewank,0,0.1104180088,10000,1.536
+without galactic_centre,griewank,0,0.07375175182,10000,2.540
+without levy_radiation,griewank,0,0.4402564914,10000,1.734
+without cmb_spawn,griewank,0,0.1525827059,10000,1.423
+without gw_adaptive,griewank,0,0.4869055019,10000,1.253
+every module on,griewank,0,1.393381521e-09,10000,1.386
+no modules,griewank,0,0.19315552,10000,0.472
+default,griewank,1,0.0300772814,10000,2.062
+without gravity,griewank,1,0.1514807259,10000,1.920
+without gravitational_waves,griewank,1,1.076116954,10000,2.002
+without area_theorem,griewank,1,0.09342951093,10000,3.385
+without page_curve,griewank,1,0.135444922,10000,1.399
+without spin,griewank,1,0.1992066812,10000,2.014
+without spaghettification,griewank,1,0.03182060077,10000,1.644
+with slingshot,griewank,1,0.177241852,10000,1.780
+with white_holes,griewank,1,0.04729617905,10000,1.760
+without penrose,griewank,1,0.517849048,10000,1.505
+without penrose_page_dirs,griewank,1,0.1744814806,10000,1.764
+without penrose_adaptive,griewank,1,0.3419657002,10000,1.488
+without endgame,griewank,1,0.0300772814,10000,1.374
+without galactic_centre,griewank,1,0.1476308267,10000,2.402
+without levy_radiation,griewank,1,0.05422123996,10000,1.919
+without cmb_spawn,griewank,1,0.2189064889,10000,1.432
+without gw_adaptive,griewank,1,0.2583705402,10000,1.458
+every module on,griewank,1,0,10000,1.769
+no modules,griewank,1,0.07090883304,10000,0.756
+default,griewank,2,0.1181768774,10000,2.128
+without gravity,griewank,2,0.2042912732,10000,3.079
+without gravitational_waves,griewank,2,0.5910095313,10000,2.943
+without area_theorem,griewank,2,0.05417205444,10000,3.478
+without page_curve,griewank,2,0.3422217832,10000,1.332
+without spin,griewank,2,0.3024001794,10000,1.991
+without spaghettification,griewank,2,0.1057849122,10000,1.473
+with slingshot,griewank,2,0.2657509207,10000,1.333
+with white_holes,griewank,2,0.03938735197,10000,2.476
+without penrose,griewank,2,0.4874852126,10000,1.799
+without penrose_page_dirs,griewank,2,0.1870476375,10000,1.465
+without penrose_adaptive,griewank,2,0.1181065889,10000,1.844
+without endgame,griewank,2,0.1181821912,10000,1.350
+without galactic_centre,griewank,2,0.2166122634,10000,1.372
+without levy_radiation,griewank,2,0.2311270587,10000,1.787
+without cmb_spawn,griewank,2,0.1075482432,10000,1.698
+without gw_adaptive,griewank,2,0.09839354601,10000,2.389
+every module on,griewank,2,0.2629036365,10000,1.819
+no modules,griewank,2,0.3690310291,10000,0.495
+default,griewank,3,0.6521106039,10000,1.464
+without gravity,griewank,3,0.152548421,10000,2.064
+without gravitational_waves,griewank,3,0.4998379577,10000,2.021
+without area_theorem,griewank,3,0.2954975877,10000,5.345
+without page_curve,griewank,3,0.6521106039,10000,1.876
+without spin,griewank,3,0.4059737946,10000,1.645
+without spaghettification,griewank,3,0.08360402599,10000,2.088
+with slingshot,griewank,3,0.1079832714,10000,1.765
+with white_holes,griewank,3,0.1746087917,10000,1.630
+without penrose,griewank,3,0.4605072929,10000,1.936
+without penrose_page_dirs,griewank,3,0.2805335003,10000,1.296
+without penrose_adaptive,griewank,3,0.01478025012,10000,1.997
+without endgame,griewank,3,0.6521106039,10000,1.461
+without galactic_centre,griewank,3,0.1033874391,10000,2.641
+without levy_radiation,griewank,3,0.2043722638,10000,1.455
+without cmb_spawn,griewank,3,0.04726466073,10000,2.269
+without gw_adaptive,griewank,3,0.069061345,10000,1.919
+every module on,griewank,3,0.1125079825,10000,1.713
+no modules,griewank,3,0.1473152135,10000,0.660
+default,griewank,4,0.123784947,10000,1.584
+without gravity,griewank,4,0.04181431192,10000,2.117
+without gravitational_waves,griewank,4,0.2754271723,10000,2.229
+without area_theorem,griewank,4,0.1500799234,10000,4.006
+without page_curve,griewank,4,0.04937273138,10000,1.515
+without spin,griewank,4,0.1625018536,10000,2.024
+without spaghettification,griewank,4,0.05906508096,10000,1.946
+with slingshot,griewank,4,0.05690048356,10000,1.922
+with white_holes,griewank,4,0.0786791063,10000,1.700
+without penrose,griewank,4,0.4822117666,10000,1.650
+without penrose_page_dirs,griewank,4,0.4696614919,10000,1.990
+without penrose_adaptive,griewank,4,0.1575288102,10000,2.215
+without endgame,griewank,4,0.123784947,10000,1.602
+without galactic_centre,griewank,4,0.3053718718,10000,2.186
+without levy_radiation,griewank,4,0.123784947,10000,1.265
+without cmb_spawn,griewank,4,0.01920329954,10000,2.041
+without gw_adaptive,griewank,4,0.2459018809,10000,1.692
+every module on,griewank,4,0.0572654188,10000,2.543
+no modules,griewank,4,0.08462183268,10000,0.529
+default,griewank,5,0.09839126378,10000,1.577
+without gravity,griewank,5,0.174758611,10000,2.269
+without gravitational_waves,griewank,5,0.4820974714,10000,2.685
+without area_theorem,griewank,5,0.1705531145,10000,5.988
+without page_curve,griewank,5,0.09839126378,10000,1.499
+without spin,griewank,5,0.3248677804,10000,1.578
+without spaghettification,griewank,5,0.01232098888,10000,1.984
+with slingshot,griewank,5,0.1210124218,10000,1.589
+with white_holes,griewank,5,0.09839126378,10000,2.072
+without penrose,griewank,5,0.2762645246,10000,2.318
+without penrose_page_dirs,griewank,5,0.1845938726,10000,1.430
+without penrose_adaptive,griewank,5,0.2371506746,10000,1.609
+without endgame,griewank,5,0.0984044147,10000,1.589
+without galactic_centre,griewank,5,0.2090785686,10000,2.740
+without levy_radiation,griewank,5,0.09839126378,10000,1.864
+without cmb_spawn,griewank,5,0.3177327914,10000,1.801
+without gw_adaptive,griewank,5,0.06151905109,10000,1.592
+every module on,griewank,5,0.3310080408,10000,1.906
+no modules,griewank,5,0.08310389379,10000,0.636
+default,griewank,6,0.3017265365,10000,1.587
+without gravity,griewank,6,0.0935767238,10000,3.039
+without gravitational_waves,griewank,6,1.036629669,10000,3.106
+without area_theorem,griewank,6,0.2808407753,10000,4.851
+without page_curve,griewank,6,0.3017265365,10000,2.204
+without spin,griewank,6,0.2511876126,10000,1.781
+without spaghettification,griewank,6,0.08132941689,10000,1.456
+with slingshot,griewank,6,0.1961191681,10000,1.687
+with white_holes,griewank,6,0.2191374486,10000,2.231
+without penrose,griewank,6,0.1620097144,10000,1.820
+without penrose_page_dirs,griewank,6,0.2262927311,10000,1.520
+without penrose_adaptive,griewank,6,0.06888350488,10000,1.542
+without endgame,griewank,6,0.3017265365,10000,1.657
+without galactic_centre,griewank,6,0.1789988322,10000,2.914
+without levy_radiation,griewank,6,0.1304537852,10000,1.487
+without cmb_spawn,griewank,6,0.6911609115,10000,1.389
+without gw_adaptive,griewank,6,0.1332376557,10000,1.554
+every module on,griewank,6,0.1961191681,10000,1.657
+no modules,griewank,6,0.133692714,10000,0.549
+default,griewank,7,0.09108599283,10000,2.184
+without gravity,griewank,7,0.2043725578,10000,2.516
+without gravitational_waves,griewank,7,0.1206405104,10000,3.914
+without area_theorem,griewank,7,0.0664121274,10000,3.859
+without page_curve,griewank,7,0.09108599283,10000,2.530
+without spin,griewank,7,0.5515678128,10000,1.370
+without spaghettification,griewank,7,9.094973474e-05,10000,1.289
+with slingshot,griewank,7,0.0934957343,10000,1.363
+with white_holes,griewank,7,0.09351532993,10000,1.414
+without penrose,griewank,7,1.320056993,10000,2.012
+without penrose_page_dirs,griewank,7,0.1377440254,10000,1.507
+without penrose_adaptive,griewank,7,0.06150644606,10000,1.499
+without endgame,griewank,7,0.09108599315,10000,1.678
+without galactic_centre,griewank,7,0.07623993117,10000,2.110
+without levy_radiation,griewank,7,0.09108599283,10000,1.454
+without cmb_spawn,griewank,7,0.1305150824,10000,2.381
+without gw_adaptive,griewank,7,0.3813932643,10000,2.402
+every module on,griewank,7,0.08358199502,10000,1.572
+no modules,griewank,7,0.4495855309,10000,0.518
+default,griewank,8,0.02218566086,10000,2.300
+without gravity,griewank,8,0.2041413907,10000,2.626
+without gravitational_waves,griewank,8,0.1868243284,10000,2.310
+without area_theorem,griewank,8,0.6033279622,10000,3.168
+without page_curve,griewank,8,0.1179977491,10000,2.058
+without spin,griewank,8,0.2472660672,10000,1.335
+without spaghettification,griewank,8,0.2142126179,10000,2.469
+with slingshot,griewank,8,0.179692069,10000,2.105
+with white_holes,griewank,8,0.1058288713,10000,1.701
+without penrose,griewank,8,0.2558439694,10000,1.560
+without penrose_page_dirs,griewank,8,0.2204292014,10000,1.272
+without penrose_adaptive,griewank,8,0.2115196936,10000,1.298
+without endgame,griewank,8,0.02427266221,10000,1.423
+without galactic_centre,griewank,8,0.1095010278,10000,1.632
+without levy_radiation,griewank,8,0.05654745634,10000,1.832
+without cmb_spawn,griewank,8,0.6964294387,10000,1.791
+without gw_adaptive,griewank,8,0.08617570837,10000,1.416
+every module on,griewank,8,0.1524699522,10000,1.557
+no modules,griewank,8,0.09669340357,10000,0.502
+default,griewank,9,0.2312493766,10000,1.446
+without gravity,griewank,9,0.03202081548,10000,2.606
+without gravitational_waves,griewank,9,0.7800679115,10000,2.617
+without area_theorem,griewank,9,0.1966965168,10000,4.754
+without page_curve,griewank,9,0.08856335799,10000,2.218
+without spin,griewank,9,0.2384981286,10000,2.052
+without spaghettification,griewank,9,0.04796532302,10000,2.137
+with slingshot,griewank,9,0.04427064591,10000,2.473
+with white_holes,griewank,9,0.0271253844,10000,2.517
+without penrose,griewank,9,0.06442002253,10000,1.414
+without penrose_page_dirs,griewank,9,0.2116011885,10000,1.263
+without penrose_adaptive,griewank,9,0.06145320542,10000,1.497
+without endgame,griewank,9,0.1902570425,10000,1.332
+without galactic_centre,griewank,9,0.3440645848,10000,1.592
+without levy_radiation,griewank,9,0.2902313618,10000,1.434
+without cmb_spawn,griewank,9,0.2635719959,10000,1.849
+without gw_adaptive,griewank,9,0.1500872395,10000,1.272
+every module on,griewank,9,0.1133176295,10000,1.564
+no modules,griewank,9,0.2424694338,10000,0.503
+default,griewank,10,0.0689112074,10000,1.730
+without gravity,griewank,10,0.2933074588,10000,2.332
+without gravitational_waves,griewank,10,1.059241077,10000,2.395
+without area_theorem,griewank,10,0.145223623,10000,4.448
+without page_curve,griewank,10,0.1353542155,10000,1.428
+without spin,griewank,10,0.1649775311,10000,1.814
+without spaghettification,griewank,10,0.05727343522,10000,1.380
+with slingshot,griewank,10,0.07622517852,10000,1.365
+with white_holes,griewank,10,0.1304853528,10000,1.409
+without penrose,griewank,10,0.2033631146,10000,1.505
+without penrose_page_dirs,griewank,10,0.2933268324,10000,1.254
+without penrose_adaptive,griewank,10,0.3617083515,10000,1.360
+without endgame,griewank,10,0.0689112074,10000,1.901
+without galactic_centre,griewank,10,0.1995114411,10000,3.051
+without levy_radiation,griewank,10,0.1476235517,10000,1.757
+without cmb_spawn,griewank,10,3.330669074e-16,10000,1.313
+without gw_adaptive,griewank,10,0.1214572584,10000,1.305
+every module on,griewank,10,0.130360316,10000,1.433
+no modules,griewank,10,0.2944410224,10000,0.550
+default,griewank,11,0.1378424147,10000,1.393
+without gravity,griewank,11,0.127872241,10000,1.570
+without gravitational_waves,griewank,11,0.1476235517,10000,2.904
+without area_theorem,griewank,11,0.5041404869,10000,4.413
+without page_curve,griewank,11,0.1378424147,10000,1.171
+without spin,griewank,11,0.05905774449,10000,2.088
+without spaghettification,griewank,11,0.2780451414,10000,2.273
+with slingshot,griewank,11,0.1504388442,10000,1.435
+with white_holes,griewank,11,0.1378424274,10000,1.851
+without penrose,griewank,11,0.3837418672,10000,2.116
+without penrose_page_dirs,griewank,11,0.09729440298,10000,1.193
+without penrose_adaptive,griewank,11,0.5206744796,10000,1.235
+without endgame,griewank,11,0.1378424147,10000,1.882
+without galactic_centre,griewank,11,0.08366780478,10000,1.881
+without levy_radiation,griewank,11,0.06153874521,10000,1.425
+without cmb_spawn,griewank,11,0.1303112455,10000,2.034
+without gw_adaptive,griewank,11,0,10000,2.328
+every module on,griewank,11,0.1504388442,10000,1.535
+no modules,griewank,11,0.1113995584,10000,0.915
+default,griewank,12,0.06372658329,10000,1.438
+without gravity,griewank,12,0.3037039646,10000,1.821
+without gravitational_waves,griewank,12,0.1993933522,10000,2.597
+without area_theorem,griewank,12,0.09605029908,10000,4.586
+without page_curve,griewank,12,0.374026457,10000,1.307
+without spin,griewank,12,0.0320060695,10000,1.448
+without spaghettification,griewank,12,0.05174682057,10000,1.333
+with slingshot,griewank,12,0.1205079275,10000,1.731
+with white_holes,griewank,12,0.007396040334,10000,2.289
+without penrose,griewank,12,0.2986158239,10000,1.760
+without penrose_page_dirs,griewank,12,0.06399249958,10000,1.141
+without penrose_adaptive,griewank,12,0.06939306382,10000,1.676
+without endgame,griewank,12,0.06372658329,10000,2.038
+without galactic_centre,griewank,12,0.9124537535,10000,1.484
+without levy_radiation,griewank,12,0.374026457,10000,2.063
+without cmb_spawn,griewank,12,0.1894229543,10000,2.046
+without gw_adaptive,griewank,12,0.03938547842,10000,1.815
+every module on,griewank,12,0.2616071833,10000,2.092
+no modules,griewank,12,0.1707540201,10000,0.512
+default,griewank,13,0.03441336662,10000,1.421
+without gravity,griewank,13,0.1623233375,10000,2.168
+without gravitational_waves,griewank,13,0.05162496637,10000,3.381
+without area_theorem,griewank,13,0.2806978198,10000,3.832
+without page_curve,griewank,13,0.0344133629,10000,2.232
+without spin,griewank,13,0.1351505821,10000,2.129
+without spaghettification,griewank,13,0.1181306482,10000,1.428
+with slingshot,griewank,13,0.5064915783,10000,1.427
+with white_holes,griewank,13,0.04090974257,10000,2.499
+without penrose,griewank,13,0.2113261807,10000,1.627
+without penrose_page_dirs,griewank,13,0.1402349989,10000,1.115
+without penrose_adaptive,griewank,13,0.02703055088,10000,1.380
+without endgame,griewank,13,0.03441336662,10000,1.207
+without galactic_centre,griewank,13,0.07146225898,10000,2.644
+without levy_radiation,griewank,13,0.06641946421,10000,2.178
+without cmb_spawn,griewank,13,0.1201846986,10000,1.352
+without gw_adaptive,griewank,13,0.08531298215,10000,1.472
+every module on,griewank,13,0.5064915783,10000,1.423
+no modules,griewank,13,0.1433333298,10000,0.476
+default,griewank,14,0.1081821984,10000,1.758
+without gravity,griewank,14,0.06641940094,10000,1.981
+without gravitational_waves,griewank,14,0.364031626,10000,3.008
+without area_theorem,griewank,14,6.530187681e-06,10000,3.495
+without page_curve,griewank,14,0.2015503737,10000,1.238
+without spin,griewank,14,0.04429757904,10000,1.326
+without spaghettification,griewank,14,0.05909709494,10000,1.251
+with slingshot,griewank,14,0.297565649,10000,1.944
+with white_holes,griewank,14,0.2093760576,10000,1.867
+without penrose,griewank,14,0.1762563937,10000,2.201
+without penrose_page_dirs,griewank,14,0.09597403405,10000,1.135
+without penrose_adaptive,griewank,14,0.2214885997,10000,1.706
+without endgame,griewank,14,0.108630046,10000,1.967
+without galactic_centre,griewank,14,0.0443073829,10000,1.876
+without levy_radiation,griewank,14,0.09347112761,10000,2.127
+without cmb_spawn,griewank,14,0.2539441637,10000,2.220
+without gw_adaptive,griewank,14,0.3230673346,10000,1.919
+every module on,griewank,14,0.1377982867,10000,2.480
+no modules,griewank,14,0.7024741392,10000,0.901
+default,schwefel,0,2467.758514,10000,1.150
+without gravity,schwefel,0,2487.896172,10000,1.039
+without gravitational_waves,schwefel,0,2467.758514,10000,1.087
+without area_theorem,schwefel,0,2467.758514,10000,1.029
+without page_curve,schwefel,0,2467.758514,10000,1.107
+without spin,schwefel,0,2151.79002,10000,1.041
+without spaghettification,schwefel,0,2467.758514,10000,1.549
+with slingshot,schwefel,0,2329.413279,10000,1.721
+with white_holes,schwefel,0,2467.758514,10000,1.601
+without penrose,schwefel,0,1780.67706,10000,1.858
+without penrose_page_dirs,schwefel,0,1113.148532,10000,1.491
+without penrose_adaptive,schwefel,0,2467.761734,10000,0.983
+without endgame,schwefel,0,2467.758514,10000,0.838
+without galactic_centre,schwefel,0,1285.747124,10000,1.089
+without levy_radiation,schwefel,0,2052.988369,10000,1.255
+without cmb_spawn,schwefel,0,574.7816205,10000,0.873
+without gw_adaptive,schwefel,0,2467.758514,10000,1.023
+every module on,schwefel,0,2329.413279,10000,1.154
+no modules,schwefel,0,242.9554019,10000,0.414
+default,schwefel,1,1737.247681,10000,0.985
+without gravity,schwefel,1,1737.247681,10000,1.352
+without gravitational_waves,schwefel,1,1737.247681,10000,1.647
+without area_theorem,schwefel,1,1737.247681,10000,1.182
+without page_curve,schwefel,1,1299.116258,10000,1.954
+without spin,schwefel,1,1500.246232,10000,1.087
+without spaghettification,schwefel,1,1737.247681,10000,1.020
+with slingshot,schwefel,1,1500.246232,10000,2.330
+with white_holes,schwefel,1,1737.247681,10000,1.687
+without penrose,schwefel,1,1514.82012,10000,1.778
+without penrose_page_dirs,schwefel,1,1638.454468,10000,0.799
+without penrose_adaptive,schwefel,1,1638.454495,10000,1.314
+without endgame,schwefel,1,1737.247681,10000,1.062
+without galactic_centre,schwefel,1,1401.542188,10000,1.167
+without levy_radiation,schwefel,1,2073.398954,10000,1.019
+without cmb_spawn,schwefel,1,2112.285828,10000,1.185
+without gw_adaptive,schwefel,1,1737.247681,10000,1.152
+every module on,schwefel,1,1500.246232,10000,1.803
+no modules,schwefel,1,1251.556938,10000,0.406
+default,schwefel,2,1618.717468,10000,1.049
+without gravity,schwefel,2,1618.717468,10000,0.849
+without gravitational_waves,schwefel,2,1618.717468,10000,1.329
+without area_theorem,schwefel,2,1618.717468,10000,1.868
+without page_curve,schwefel,2,1618.717468,10000,1.641
+without spin,schwefel,2,1649.628634,10000,1.334
+without spaghettification,schwefel,2,1618.717468,10000,1.041
+with slingshot,schwefel,2,1302.840853,10000,2.132
+with white_holes,schwefel,2,1618.717468,10000,1.689
+without penrose,schwefel,2,1649.628634,10000,1.048
+without penrose_page_dirs,schwefel,2,1618.717468,10000,1.411
+without penrose_adaptive,schwefel,2,1618.717636,10000,1.731
+without endgame,schwefel,2,1618.717468,10000,1.127
+without galactic_centre,schwefel,2,1302.876464,10000,1.691
+without levy_radiation,schwefel,2,1934.650351,10000,2.060
+without cmb_spawn,schwefel,2,2172.01112,10000,1.096
+without gw_adaptive,schwefel,2,1618.717468,10000,1.077
+every module on,schwefel,2,1302.840853,10000,1.514
+no modules,schwefel,2,1258.548718,10000,0.439
+default,schwefel,3,1342.428486,10000,0.996
+without gravity,schwefel,3,2151.79002,10000,0.792
+without gravitational_waves,schwefel,3,1342.428486,10000,1.825
+without area_theorem,schwefel,3,1342.428486,10000,1.522
+without page_curve,schwefel,3,1362.566144,10000,1.114
+without spin,schwefel,3,1641.249408,10000,0.939
+without spaghettification,schwefel,3,1342.428486,10000,0.961
+with slingshot,schwefel,3,1243.635272,10000,1.142
+with white_holes,schwefel,3,1342.428486,10000,1.583
+without penrose,schwefel,3,1618.918935,10000,1.884
+without penrose_page_dirs,schwefel,3,1441.221699,10000,0.974
+without penrose_adaptive,schwefel,3,1342.428486,10000,1.092
+without endgame,schwefel,3,1342.428486,10000,1.570
+without galactic_centre,schwefel,3,1305.295056,10000,1.416
+without levy_radiation,schwefel,3,2013.617395,10000,1.104
+without cmb_spawn,schwefel,3,1559.979961,10000,1.676
+without gw_adaptive,schwefel,3,1243.635272,10000,1.134
+every module on,schwefel,3,1243.635272,10000,1.249
+no modules,schwefel,3,1116.210722,10000,0.409
+default,schwefel,4,2309.780377,10000,0.925
+without gravity,schwefel,4,2448.389271,10000,0.787
+without gravitational_waves,schwefel,4,2171.435142,10000,0.985
+without area_theorem,schwefel,4,2309.780377,10000,0.944
+without page_curve,schwefel,4,1480.601111,10000,1.030
+without spin,schwefel,4,884.6710512,10000,0.942
+without spaghettification,schwefel,4,2210.987163,10000,1.224
+with slingshot,schwefel,4,1658.361368,10000,1.060
+with white_holes,schwefel,4,2309.780377,10000,1.197
+without penrose,schwefel,4,894.3821109,10000,1.858
+without penrose_page_dirs,schwefel,4,1816.176405,10000,1.606
+without penrose_adaptive,schwefel,4,2448.505249,10000,1.485
+without endgame,schwefel,4,2309.780377,10000,1.017
+without galactic_centre,schwefel,4,1618.717468,10000,1.002
+without levy_radiation,schwefel,4,1452.014014,10000,1.019
+without cmb_spawn,schwefel,4,1737.155803,10000,1.043
+without gw_adaptive,schwefel,4,2210.987163,10000,1.481
+every module on,schwefel,4,1658.361368,10000,1.911
+no modules,schwefel,4,1298.685328,10000,0.641
+default,schwefel,5,1482.522461,10000,0.950
+without gravity,schwefel,5,1384.511857,10000,0.816
+without gravitational_waves,schwefel,5,1482.558576,10000,1.019
+without area_theorem,schwefel,5,1482.522461,10000,1.099
+without page_curve,schwefel,5,1383.824642,10000,1.465
+without spin,schwefel,5,1485.665038,10000,0.995
+without spaghettification,schwefel,5,1362.162776,10000,1.766
+with slingshot,schwefel,5,1559.612204,10000,1.209
+with white_holes,schwefel,5,1482.522461,10000,1.315
+without penrose,schwefel,5,1491.881981,10000,1.266
+without penrose_page_dirs,schwefel,5,1485.735563,10000,1.502
+without penrose_adaptive,schwefel,5,1482.727256,10000,1.694
+without endgame,schwefel,5,1483.593699,10000,1.050
+without galactic_centre,schwefel,5,1403.843984,10000,1.434
+without levy_radiation,schwefel,5,1737.120192,10000,0.945
+without cmb_spawn,schwefel,5,2171.696921,10000,0.933
+without gw_adaptive,schwefel,5,1482.823203,10000,0.863
+every module on,schwefel,5,1559.612204,10000,1.111
+no modules,schwefel,5,913.83737,10000,0.368
+default,schwefel,6,1618.681857,10000,1.154
+without gravity,schwefel,6,1559.487424,10000,1.299
+without gravitational_waves,schwefel,6,1618.681857,10000,2.615
+without area_theorem,schwefel,6,1618.681857,10000,1.325
+without page_curve,schwefel,6,1618.681857,10000,1.307
+without spin,schwefel,6,1791.669332,10000,1.771
+without spaghettification,schwefel,6,1618.681857,10000,1.994
+with slingshot,schwefel,6,1914.824182,10000,1.912
+with white_holes,schwefel,6,1618.681857,10000,1.274
+without penrose,schwefel,6,1806.318025,10000,1.408
+without penrose_page_dirs,schwefel,6,1827.881439,10000,1.424
+without penrose_adaptive,schwefel,6,1618.681857,10000,1.735
+without endgame,schwefel,6,1618.681857,10000,1.824
+without galactic_centre,schwefel,6,1204.139518,10000,0.972
+without levy_radiation,schwefel,6,1421.279188,10000,1.537
+without cmb_spawn,schwefel,6,1559.476277,10000,0.970
+without gw_adaptive,schwefel,6,1618.681857,10000,1.323
+every module on,schwefel,6,1914.824182,10000,1.468
+no modules,schwefel,6,1145.724478,10000,0.393
+default,schwefel,7,1520.016133,10000,1.605
+without gravity,schwefel,7,1520.016133,10000,0.779
+without gravitational_waves,schwefel,7,1520.016133,10000,2.187
+without area_theorem,schwefel,7,1520.016133,10000,1.208
+without page_curve,schwefel,7,1520.016133,10000,2.073
+without spin,schwefel,7,1520.016133,10000,2.097
+without spaghettification,schwefel,7,1520.016133,10000,1.487
+with slingshot,schwefel,7,1342.347754,10000,1.469
+with white_holes,schwefel,7,1520.016133,10000,1.224
+without penrose,schwefel,7,1520.020761,10000,2.069
+without penrose_page_dirs,schwefel,7,1520.016133,10000,1.721
+without penrose_adaptive,schwefel,7,1520.016145,10000,1.365
+without endgame,schwefel,7,1520.016133,10000,1.212
+without galactic_centre,schwefel,7,1107.848306,10000,0.946
+without levy_radiation,schwefel,7,1796.364093,10000,1.198
+without cmb_spawn,schwefel,7,1875.364039,10000,1.061
+without gw_adaptive,schwefel,7,1520.016133,10000,1.243
+every module on,schwefel,7,1342.347754,10000,1.344
+no modules,schwefel,7,1087.345817,10000,0.437
+default,schwefel,8,1638.451759,10000,1.034
+without gravity,schwefel,8,1816.120138,10000,1.264
+without gravitational_waves,schwefel,8,1638.451759,10000,1.755
+without area_theorem,schwefel,8,1638.451759,10000,1.188
+without page_curve,schwefel,8,1638.451759,10000,1.405
+without spin,schwefel,8,1559.692935,10000,1.067
+without spaghettification,schwefel,8,1638.451759,10000,0.978
+with slingshot,schwefel,8,1638.451759,10000,1.284
+with white_holes,schwefel,8,1638.451759,10000,1.313
+without penrose,schwefel,8,1516.318379,10000,1.393
+without penrose_page_dirs,schwefel,8,1638.451759,10000,1.137
+without penrose_adaptive,schwefel,8,1638.452071,10000,1.040
+without endgame,schwefel,8,1638.451759,10000,1.192
+without galactic_centre,schwefel,8,1324.910485,10000,0.963
+without levy_radiation,schwefel,8,1520.108012,10000,0.912
+without cmb_spawn,schwefel,8,2092.595587,10000,0.979
+without gw_adaptive,schwefel,8,1638.451759,10000,1.731
+every module on,schwefel,8,1638.451759,10000,1.830
+no modules,schwefel,8,1466.163556,10000,0.856
+default,schwefel,9,1770.781466,10000,1.007
+without gravity,schwefel,9,1697.557154,10000,0.733
+without gravitational_waves,schwefel,9,1770.781466,10000,1.435
+without area_theorem,schwefel,9,1770.781466,10000,1.103
+without page_curve,schwefel,9,1638.546346,10000,1.553
+without spin,schwefel,9,1441.173869,10000,1.015
+without spaghettification,schwefel,9,1770.781466,10000,1.840
+with slingshot,schwefel,9,1593.498808,10000,1.102
+with white_holes,schwefel,9,1770.781466,10000,1.384
+without penrose,schwefel,9,1770.781466,10000,1.283
+without penrose_page_dirs,schwefel,9,1770.781466,10000,1.754
+without penrose_adaptive,schwefel,9,730.4783626,10000,1.130
+without endgame,schwefel,9,1770.781466,10000,1.137
+without galactic_centre,schwefel,9,1404.061338,10000,1.561
+without levy_radiation,schwefel,9,1930.13574,10000,1.694
+without cmb_spawn,schwefel,9,1660.359407,10000,1.162
+without gw_adaptive,schwefel,9,1770.781466,10000,1.098
+every module on,schwefel,9,1593.498808,10000,1.906
+no modules,schwefel,9,996.8247384,10000,0.432
+default,schwefel,10,986.9998489,10000,1.374
+without gravity,schwefel,10,1164.668228,10000,0.775
+without gravitational_waves,schwefel,10,986.9998489,10000,2.525
+without area_theorem,schwefel,10,986.9998489,10000,1.990
+without page_curve,schwefel,10,1164.668228,10000,1.066
+without spin,schwefel,10,1164.668228,10000,1.051
+without spaghettification,schwefel,10,986.9998489,10000,1.338
+with slingshot,schwefel,10,986.9998489,10000,1.000
+with white_holes,schwefel,10,986.9998489,10000,2.033
+without penrose,schwefel,10,1165.51224,10000,0.969
+without penrose_page_dirs,schwefel,10,1164.668228,10000,1.204
+without penrose_adaptive,schwefel,10,986.9998489,10000,1.373
+without endgame,schwefel,10,986.9998489,10000,1.516
+without galactic_centre,schwefel,10,986.9998489,10000,0.904
+without levy_radiation,schwefel,10,1796.533993,10000,1.014
+without cmb_spawn,schwefel,10,1974.029763,10000,1.228
+without gw_adaptive,schwefel,10,986.9998489,10000,1.493
+every module on,schwefel,10,986.9998489,10000,1.209
+no modules,schwefel,10,1149.830985,10000,0.627
+default,schwefel,11,1306.879895,10000,1.479
+without gravity,schwefel,11,1127.897977,10000,1.398
+without gravitational_waves,schwefel,11,1306.878289,10000,1.593
+without area_theorem,schwefel,11,1306.879902,10000,1.260
+without page_curve,schwefel,11,1305.858217,10000,1.203
+without spin,schwefel,11,1132.171281,10000,1.352
+without spaghettification,schwefel,11,1306.880185,10000,0.911
+with slingshot,schwefel,11,1131.556579,10000,1.482
+with white_holes,schwefel,11,1306.879895,10000,1.397
+without penrose,schwefel,11,1126.862278,10000,1.524
+without penrose_page_dirs,schwefel,11,1234.953647,10000,1.102
+without penrose_adaptive,schwefel,11,1304.458143,10000,0.925
+without endgame,schwefel,11,1306.879948,10000,1.021
+without galactic_centre,schwefel,11,1127.983102,10000,1.727
+without levy_radiation,schwefel,11,1131.864176,10000,1.030
+without cmb_spawn,schwefel,11,1641.011146,10000,0.899
+without gw_adaptive,schwefel,11,1306.88111,10000,1.436
+every module on,schwefel,11,1131.556579,10000,1.284
+no modules,schwefel,11,1155.828747,10000,0.757
+default,schwefel,12,1105.471085,10000,1.844
+without gravity,schwefel,12,1105.471085,10000,0.831
+without gravitational_waves,schwefel,12,1105.471085,10000,1.020
+without area_theorem,schwefel,12,1105.471085,10000,1.748
+without page_curve,schwefel,12,1105.471085,10000,1.833
+without spin,schwefel,12,1163.114178,10000,1.243
+without spaghettification,schwefel,12,1105.471085,10000,1.723
+with slingshot,schwefel,12,1105.471085,10000,2.020
+with white_holes,schwefel,12,1105.471085,10000,1.541
+without penrose,schwefel,12,1163.114178,10000,1.787
+without penrose_page_dirs,schwefel,12,1263.953979,10000,1.097
+without penrose_adaptive,schwefel,12,1105.472029,10000,1.463
+without endgame,schwefel,12,1105.471085,10000,1.528
+without galactic_centre,schwefel,12,1105.471085,10000,1.075
+without levy_radiation,schwefel,12,1066.056062,10000,1.307
+without cmb_spawn,schwefel,12,1189.754723,10000,1.043
+without gw_adaptive,schwefel,12,1105.471085,10000,1.512
+every module on,schwefel,12,1105.471085,10000,1.614
+no modules,schwefel,12,581.4659468,10000,0.544
+default,schwefel,13,1658.361368,10000,1.271
+without gravity,schwefel,13,1460.774942,10000,0.886
+without gravitational_waves,schwefel,13,1658.361368,10000,1.735
+without area_theorem,schwefel,13,1658.361368,10000,1.505
+without page_curve,schwefel,13,1658.361368,10000,1.412
+without spin,schwefel,13,1577.198241,10000,1.008
+without spaghettification,schwefel,13,1658.361368,10000,1.703
+with slingshot,schwefel,13,1559.568155,10000,1.417
+with white_holes,schwefel,13,1658.361368,10000,1.778
+without penrose,schwefel,13,1332.026926,10000,1.600
+without penrose_page_dirs,schwefel,13,1559.568155,10000,0.948
+without penrose_adaptive,schwefel,13,1658.361571,10000,0.950
+without endgame,schwefel,13,1658.361368,10000,1.706
+without galactic_centre,schwefel,13,1302.920512,10000,1.674
+without levy_radiation,schwefel,13,1243.724441,10000,1.245
+without cmb_spawn,schwefel,13,1345.250852,10000,1.716
+without gw_adaptive,schwefel,13,1658.361368,10000,1.355
+every module on,schwefel,13,1559.568155,10000,1.678
+no modules,schwefel,13,901.7490194,10000,0.431
+default,schwefel,14,1756.892803,10000,1.264
+without gravity,schwefel,14,1441.12982,10000,0.830
+without gravitational_waves,schwefel,14,1756.892803,10000,1.451
+without area_theorem,schwefel,14,1756.892803,10000,1.765
+without page_curve,schwefel,14,1756.892803,10000,1.593
+without spin,schwefel,14,1818.420094,10000,0.877
+without spaghettification,schwefel,14,1756.892803,10000,1.300
+with slingshot,schwefel,14,1618.684567,10000,1.065
+with white_holes,schwefel,14,1756.892803,10000,1.374
+without penrose,schwefel,14,1796.596646,10000,1.667
+without penrose_page_dirs,schwefel,14,1796.444824,10000,1.011
+without penrose_adaptive,schwefel,14,1756.892803,10000,1.718
+without endgame,schwefel,14,1756.892803,10000,1.247
+without galactic_centre,schwefel,14,1468.08613,10000,1.477
+without levy_radiation,schwefel,14,1796.364093,10000,1.372
+without cmb_spawn,schwefel,14,1065.964184,10000,1.016
+without gw_adaptive,schwefel,14,1756.892803,10000,1.204
+every module on,schwefel,14,1618.684567,10000,1.410
+no modules,schwefel,14,1301.074933,10000,0.428
+default,terrain,0,29.41796865,10000,1.417
+without gravity,terrain,0,0.08646913283,10000,1.074
+without gravitational_waves,terrain,0,2.080810191e-08,10000,1.182
+without area_theorem,terrain,0,39.52527893,10000,1.887
+without page_curve,terrain,0,18.07388563,10000,1.338
+without spin,terrain,0,2.981831056,10000,1.258
+without spaghettification,terrain,0,41.56021306,10000,1.452
+with slingshot,terrain,0,2.129104359e-08,10000,1.242
+with white_holes,terrain,0,32.8448948,10000,1.501
+without penrose,terrain,0,2.029880659,10000,1.502
+without penrose_page_dirs,terrain,0,1.207718014e-08,10000,1.351
+without penrose_adaptive,terrain,0,0.01220022062,10000,1.568
+without endgame,terrain,0,0.3099956474,10000,1.709
+without galactic_centre,terrain,0,32.20108737,10000,2.199
+without levy_radiation,terrain,0,0.08122032591,10000,1.381
+without cmb_spawn,terrain,0,12.02212788,10000,1.633
+without gw_adaptive,terrain,0,36.00000261,10000,1.696
+every module on,terrain,0,2.129104359e-08,10000,1.430
+no modules,terrain,0,0.8060929718,10000,0.711
+default,terrain,1,0.02091193937,10000,2.077
+without gravity,terrain,1,1.954238087e-07,10000,1.677
+without gravitational_waves,terrain,1,8.320491816e-07,10000,2.080
+without area_theorem,terrain,1,3.300715434e-08,10000,2.103
+without page_curve,terrain,1,6.101625559e-05,10000,1.537
+without spin,terrain,1,11.05459285,10000,1.312
+without spaghettification,terrain,1,23.43281388,10000,1.222
+with slingshot,terrain,1,6.141269183,10000,1.263
+with white_holes,terrain,1,0.02091193937,10000,1.252
+without penrose,terrain,1,36.00146704,10000,1.400
+without penrose_page_dirs,terrain,1,36.00000384,10000,1.084
+without penrose_adaptive,terrain,1,24.59080584,10000,2.297
+without endgame,terrain,1,0.02091193937,10000,1.556
+without galactic_centre,terrain,1,3.528067576,10000,2.127
+without levy_radiation,terrain,1,1.276634976e-08,10000,1.897
+without cmb_spawn,terrain,1,0.0006321665919,10000,1.271
+without gw_adaptive,terrain,1,4.044977686e-10,10000,2.171
+every module on,terrain,1,3.435828148e-06,10000,1.646
+no modules,terrain,1,1.320377335,10000,0.464
+default,terrain,2,9.835048331e-09,10000,1.854
+without gravity,terrain,2,7.164510407e-07,10000,1.596
+without gravitational_waves,terrain,2,1.869011612e-10,10000,1.749
+without area_theorem,terrain,2,3.337208909e-08,10000,2.849
+without page_curve,terrain,2,4.221958534e-07,10000,2.225
+without spin,terrain,2,1.304556463e-08,10000,1.843
+without spaghettification,terrain,2,0.002518219895,10000,1.943
+with slingshot,terrain,2,0.0001018152807,10000,1.611
+with white_holes,terrain,2,9.330899502e-06,10000,1.397
+without penrose,terrain,2,0.04913018759,10000,2.132
+without penrose_page_dirs,terrain,2,1.528860594e-08,10000,1.570
+without penrose_adaptive,terrain,2,0.0130879535,10000,1.541
+without endgame,terrain,2,3.846344043e-08,10000,2.335
+without galactic_centre,terrain,2,1.587045517e-08,10000,1.650
+without levy_radiation,terrain,2,0.0002259439768,10000,1.543
+without cmb_spawn,terrain,2,9.747062267,10000,2.033
+without gw_adaptive,terrain,2,0.001639765667,10000,1.478
+every module on,terrain,2,0.0001018152807,10000,1.476
+no modules,terrain,2,8.895170259,10000,0.566
+default,terrain,3,9.928498912e-09,10000,1.448
+without gravity,terrain,3,21.30451537,10000,1.555
+without gravitational_waves,terrain,3,1.555008566e-09,10000,1.944
+without area_theorem,terrain,3,5.849642548e-08,10000,2.559
+without page_curve,terrain,3,0.0005880615133,10000,2.130
+without spin,terrain,3,1.747384886e-07,10000,2.909
+without spaghettification,terrain,3,45.48614032,10000,2.075
+with slingshot,terrain,3,38.28895862,10000,1.480
+with white_holes,terrain,3,2.017259249e-09,10000,1.595
+without penrose,terrain,3,0.07177132773,10000,1.763
+without penrose_page_dirs,terrain,3,1.718262865e-08,10000,1.246
+without penrose_adaptive,terrain,3,0.008849149983,10000,1.640
+without endgame,terrain,3,1.287127043e-05,10000,1.796
+without galactic_centre,terrain,3,1.437433639e-08,10000,2.706
+without levy_radiation,terrain,3,8.069312603,10000,2.106
+without cmb_spawn,terrain,3,0.05844666274,10000,1.066
+without gw_adaptive,terrain,3,0.1725994443,10000,1.484
+every module on,terrain,3,38.28895862,10000,2.384
+no modules,terrain,3,2.825943111,10000,0.715
+default,terrain,4,0.0002475679466,10000,1.936
+without gravity,terrain,4,36.00038529,10000,1.035
+without gravitational_waves,terrain,4,6.375785233e-09,10000,1.213
+without area_theorem,terrain,4,7.075527719e-08,10000,2.245
+without page_curve,terrain,4,2.055321602e-08,10000,1.543
+without spin,terrain,4,1.265243554e-08,10000,1.574
+without spaghettification,terrain,4,49.13741327,10000,1.940
+with slingshot,terrain,4,36.00000006,10000,2.299
+with white_holes,terrain,4,0.001011390873,10000,2.193
+without penrose,terrain,4,0.01926917195,10000,2.236
+without penrose_page_dirs,terrain,4,36,10000,1.236
+without penrose_adaptive,terrain,4,0.00669541096,10000,1.594
+without endgame,terrain,4,0.0002475679466,10000,1.478
+without galactic_centre,terrain,4,1.086307479,10000,1.415
+without levy_radiation,terrain,4,8.421693565e-09,10000,2.178
+without cmb_spawn,terrain,4,4.269993497e-07,10000,1.553
+without gw_adaptive,terrain,4,2.70611759,10000,1.204
+every module on,terrain,4,36.00000006,10000,2.166
+no modules,terrain,4,3.490001556,10000,0.515
+default,terrain,5,1.189441718e-07,10000,1.842
+without gravity,terrain,5,0.00107526487,10000,1.056
+without gravitational_waves,terrain,5,36,10000,1.254
+without area_theorem,terrain,5,10.85888919,10000,2.291
+without page_curve,terrain,5,1.301689281e-07,10000,1.282
+without spin,terrain,5,32.29662022,10000,1.551
+without spaghettification,terrain,5,36.0000232,10000,1.880
+with slingshot,terrain,5,36.00000141,10000,1.384
+with white_holes,terrain,5,0.001949693542,10000,1.996
+without penrose,terrain,5,32.25092162,10000,1.263
+without penrose_page_dirs,terrain,5,10.4603072,10000,1.108
+without penrose_adaptive,terrain,5,1.907207576,10000,1.361
+without endgame,terrain,5,1.189441718e-07,10000,2.164
+without galactic_centre,terrain,5,1.134185368e-08,10000,1.900
+without levy_radiation,terrain,5,2.173192115e-08,10000,2.357
+without cmb_spawn,terrain,5,3.107652446e-08,10000,1.562
+without gw_adaptive,terrain,5,0.002701393879,10000,1.519
+every module on,terrain,5,3.591600489e-06,10000,1.394
+no modules,terrain,5,0.5820052239,10000,0.811
+default,terrain,6,8.302588375,10000,1.449
+without gravity,terrain,6,13.08281362,10000,1.382
+without gravitational_waves,terrain,6,4.981075108e-09,10000,1.655
+without area_theorem,terrain,6,36.30008583,10000,2.407
+without page_curve,terrain,6,4.522713522,10000,2.320
+without spin,terrain,6,29.68887465,10000,1.624
+without spaghettification,terrain,6,36.00000002,10000,1.388
+with slingshot,terrain,6,34.6629953,10000,1.566
+with white_holes,terrain,6,1.243279257e-09,10000,1.273
+without penrose,terrain,6,3.558042147,10000,1.741
+without penrose_page_dirs,terrain,6,36.028647,10000,1.167
+without penrose_adaptive,terrain,6,0.264826554,10000,2.218
+without endgame,terrain,6,8.302588375,10000,1.199
+without galactic_centre,terrain,6,36.00000002,10000,1.676
+without levy_radiation,terrain,6,7.016524251e-09,10000,1.523
+without cmb_spawn,terrain,6,3.978469944,10000,1.626
+without gw_adaptive,terrain,6,16.34130795,10000,1.884
+every module on,terrain,6,7.286561347,10000,2.485
+no modules,terrain,6,10.45782714,10000,0.723
+default,terrain,7,1.612079359e-10,10000,3.919
+without gravity,terrain,7,36.00000016,10000,1.453
+without gravitational_waves,terrain,7,5.820766091e-10,10000,2.902
+without area_theorem,terrain,7,1.768762559e-08,10000,2.483
+without page_curve,terrain,7,1.433568286e-08,10000,4.849
+without spin,terrain,7,5.10863174e-09,10000,3.171
+without spaghettification,terrain,7,8.62928573e-09,10000,3.336
+with slingshot,terrain,7,6.326445146e-09,10000,2.047
+with white_holes,terrain,7,1.612079359e-10,10000,1.784
+without penrose,terrain,7,0.09204213854,10000,3.123
+without penrose_page_dirs,terrain,7,1.430930752e-08,10000,1.803
+without penrose_adaptive,terrain,7,0.01017995688,10000,4.229
+without endgame,terrain,7,7.359926713e-08,10000,4.826
+without galactic_centre,terrain,7,8.859160516e-09,10000,2.626
+without levy_radiation,terrain,7,0.00523300623,10000,1.650
+without cmb_spawn,terrain,7,0.004479330417,10000,1.442
+without gw_adaptive,terrain,7,2.888068593e-07,10000,1.735
+every module on,terrain,7,6.326445146e-09,10000,4.183
+no modules,terrain,7,0.8522651908,10000,1.079
+default,terrain,8,3.380976068e-07,10000,1.564
+without gravity,terrain,8,1.606042133e-06,10000,1.142
+without gravitational_waves,terrain,8,1.150176558e-07,10000,1.297
+without area_theorem,terrain,8,18.10980415,10000,1.760
+without page_curve,terrain,8,1.658479505e-07,10000,1.542
+without spin,terrain,8,1.312059794e-08,10000,1.975
+without spaghettification,terrain,8,3.005804047e-06,10000,3.732
+with slingshot,terrain,8,0.001535273961,10000,1.794
+with white_holes,terrain,8,36.00000001,10000,1.279
+without penrose,terrain,8,2.859985931,10000,1.515
+without penrose_page_dirs,terrain,8,36.00000414,10000,1.264
+without penrose_adaptive,terrain,8,0.03187524565,10000,1.535
+without endgame,terrain,8,9.682978543e-07,10000,1.351
+without galactic_centre,terrain,8,1.161849923e-07,10000,1.253
+without levy_radiation,terrain,8,36.5420968,10000,1.064
+without cmb_spawn,terrain,8,0.01453371655,10000,1.797
+without gw_adaptive,terrain,8,0.1106630311,10000,1.894
+every module on,terrain,8,0.001535273961,10000,3.949
+no modules,terrain,8,1.075407987,10000,0.502
+default,terrain,9,36.00000001,10000,2.342
+without gravity,terrain,9,5.255408269e-07,10000,1.795
+without gravitational_waves,terrain,9,36,10000,1.172
+without area_theorem,terrain,9,32.73352833,10000,2.788
+without page_curve,terrain,9,36.00000001,10000,1.539
+without spin,terrain,9,2.312256129e-07,10000,1.884
+without spaghettification,terrain,9,11.3917818,10000,2.028
+with slingshot,terrain,9,0.0194863547,10000,1.996
+with white_holes,terrain,9,36.00000001,10000,1.354
+without penrose,terrain,9,2.336600936,10000,2.276
+without penrose_page_dirs,terrain,9,33.93129553,10000,1.141
+without penrose_adaptive,terrain,9,0.8654181077,10000,2.404
+without endgame,terrain,9,4.385847374,10000,3.488
+without galactic_centre,terrain,9,1.556213647e-08,10000,2.681
+without levy_radiation,terrain,9,29.40983393,10000,2.090
+without cmb_spawn,terrain,9,1.669495623e-05,10000,2.126
+without gw_adaptive,terrain,9,0.0003193227017,10000,1.761
+every module on,terrain,9,0.0194863547,10000,1.480
+no modules,terrain,9,0.1786578023,10000,0.546
+default,terrain,10,1.870704637e-06,10000,1.742
+without gravity,terrain,10,1.889474072,10000,1.437
+without gravitational_waves,terrain,10,18.4046187,10000,1.158
+without area_theorem,terrain,10,3.98181244,10000,3.522
+without page_curve,terrain,10,32.48612401,10000,1.965
+without spin,terrain,10,3.400894393,10000,2.588
+without spaghettification,terrain,10,38.00000281,10000,1.694
+with slingshot,terrain,10,1.510984021e-06,10000,1.632
+with white_holes,terrain,10,31.60626661,10000,1.383
+without penrose,terrain,10,70.36477837,10000,2.049
+without penrose_page_dirs,terrain,10,32.72562597,10000,1.361
+without penrose_adaptive,terrain,10,1.376390915,10000,1.936
+without endgame,terrain,10,5.211313692e-06,10000,2.694
+without galactic_centre,terrain,10,3.310615284e-07,10000,1.978
+without levy_radiation,terrain,10,6.850279988e-07,10000,2.305
+without cmb_spawn,terrain,10,1.120891964,10000,1.317
+without gw_adaptive,terrain,10,3.489440585,10000,1.484
+every module on,terrain,10,40.95178667,10000,2.225
+no modules,terrain,10,2.324220501,10000,0.463
+default,terrain,11,0.0004497162922,10000,1.556
+without gravity,terrain,11,36,10000,1.123
+without gravitational_waves,terrain,11,5.830088412e-08,10000,1.862
+without area_theorem,terrain,11,23.11050675,10000,3.376
+without page_curve,terrain,11,0.0007299739029,10000,2.997
+without spin,terrain,11,0.07506067097,10000,2.738
+without spaghettification,terrain,11,4.720983043e-06,10000,1.647
+with slingshot,terrain,11,4.459934644e-09,10000,1.908
+with white_holes,terrain,11,0.000575543608,10000,1.543
+without penrose,terrain,11,0.7571222094,10000,1.864
+without penrose_page_dirs,terrain,11,7.794668894,10000,1.349
+without penrose_adaptive,terrain,11,34.4762646,10000,1.728
+without endgame,terrain,11,0.0004497162922,10000,1.388
+without galactic_centre,terrain,11,33.04420402,10000,1.512
+without levy_radiation,terrain,11,29.66156152,10000,1.370
+without cmb_spawn,terrain,11,22.06646339,10000,1.144
+without gw_adaptive,terrain,11,36.00000003,10000,2.725
+every module on,terrain,11,4.459934644e-09,10000,1.621
+no modules,terrain,11,14.01490296,10000,0.566
+default,terrain,12,36.00000001,10000,1.729
+without gravity,terrain,12,2.495241461e-06,10000,2.043
+without gravitational_waves,terrain,12,2.517322173e-08,10000,2.011
+without area_theorem,terrain,12,34.36249932,10000,3.500
+without page_curve,terrain,12,6.393641979e-05,10000,1.388
+without spin,terrain,12,8.768279258e-08,10000,1.730
+without spaghettification,terrain,12,40.40434443,10000,3.462
+with slingshot,terrain,12,7.180933926e-05,10000,1.882
+with white_holes,terrain,12,36.00000001,10000,1.998
+without penrose,terrain,12,5.774340315,10000,3.138
+without penrose_page_dirs,terrain,12,5.787729463,10000,1.212
+without penrose_adaptive,terrain,12,36.00003621,10000,2.666
+without endgame,terrain,12,32.43139802,10000,1.553
+without galactic_centre,terrain,12,36,10000,1.325
+without levy_radiation,terrain,12,0.004142986434,10000,1.488
+without cmb_spawn,terrain,12,20.51719245,10000,2.027
+without gw_adaptive,terrain,12,1.527002041e-06,10000,1.576
+every module on,terrain,12,1.176908881e-08,10000,2.052
+no modules,terrain,12,4.051170474,10000,0.497
+default,terrain,13,5.198232884e-07,10000,1.519
+without gravity,terrain,13,3.537454631e-07,10000,1.523
+without gravitational_waves,terrain,13,3.668719728e-07,10000,1.412
+without area_theorem,terrain,13,14.57952259,10000,3.281
+without page_curve,terrain,13,36.00000028,10000,2.760
+without spin,terrain,13,10.25357878,10000,1.797
+without spaghettification,terrain,13,36.77496944,10000,1.671
+with slingshot,terrain,13,0.0001319164419,10000,1.461
+with white_holes,terrain,13,28.33679737,10000,1.833
+without penrose,terrain,13,4.395332104,10000,3.093
+without penrose_page_dirs,terrain,13,1.024062158e-06,10000,1.890
+without penrose_adaptive,terrain,13,0.08070059633,10000,2.524
+without endgame,terrain,13,1.332145985e-07,10000,1.511
+without galactic_centre,terrain,13,13.25107487,10000,1.701
+without levy_radiation,terrain,13,6.306723694,10000,1.815
+without cmb_spawn,terrain,13,36.00000064,10000,1.431
+without gw_adaptive,terrain,13,0.02487486217,10000,1.785
+every module on,terrain,13,0.0001319164419,10000,1.734
+no modules,terrain,13,8.112640041,10000,0.568
+default,terrain,14,3.644067535,10000,2.277
+without gravity,terrain,14,7.580722719,10000,1.160
+without gravitational_waves,terrain,14,5.025435712e-08,10000,1.469
+without area_theorem,terrain,14,37.52103855,10000,2.278
+without page_curve,terrain,14,1.061812327e-08,10000,3.270
+without spin,terrain,14,3.810867159,10000,1.509
+without spaghettification,terrain,14,1.008652362e-08,10000,1.808
+with slingshot,terrain,14,20.38628064,10000,1.745
+with white_holes,terrain,14,14.12050963,10000,2.171
+without penrose,terrain,14,1.990467228,10000,1.654
+without penrose_page_dirs,terrain,14,37.42717485,10000,2.472
+without penrose_adaptive,terrain,14,5.554332707,10000,1.621
+without endgame,terrain,14,3.644067535,10000,1.746
+without galactic_centre,terrain,14,0.3840809645,10000,1.541
+without levy_radiation,terrain,14,0.004572245111,10000,1.735
+without cmb_spawn,terrain,14,2.928250069e-07,10000,1.351
+without gw_adaptive,terrain,14,6.521024488e-06,10000,1.588
+every module on,terrain,14,0.194365013,10000,1.510
+no modules,terrain,14,36.53402844,10000,0.587
+default,iris-kmeans,0,3.330669074e-16,10000,2.267
+without gravity,iris-kmeans,0,1.554312234e-15,10000,1.855
+without gravitational_waves,iris-kmeans,0,2.109423747e-15,10000,5.661
+without area_theorem,iris-kmeans,0,0.001743498243,10000,5.102
+without page_curve,iris-kmeans,0,5.551115123e-16,10000,2.328
+without spin,iris-kmeans,0,3.292201328e-05,10000,2.449
+without spaghettification,iris-kmeans,0,3.292201328e-05,10000,2.110
+with slingshot,iris-kmeans,0,2.011857793e-05,10000,1.997
+with white_holes,iris-kmeans,0,3.330669074e-16,10000,3.785
+without penrose,iris-kmeans,0,3.960958723e-07,10000,2.742
+without penrose_page_dirs,iris-kmeans,0,1.554312234e-15,10000,1.603
+without penrose_adaptive,iris-kmeans,0,2.63711275e-12,10000,2.302
+without endgame,iris-kmeans,0,8.037631338e-07,10000,1.971
+without galactic_centre,iris-kmeans,0,7.771561172e-16,10000,2.892
+without levy_radiation,iris-kmeans,0,0,10000,2.148
+without cmb_spawn,iris-kmeans,0,2.220446049e-16,10000,3.423
+without gw_adaptive,iris-kmeans,0,1.110223025e-15,10000,2.594
+every module on,iris-kmeans,0,2.011857793e-05,10000,2.212
+no modules,iris-kmeans,0,0.0001126242049,10000,0.795
+default,iris-kmeans,1,0.550274724,10000,1.420
+without gravity,iris-kmeans,1,3.330669074e-16,10000,1.768
+without gravitational_waves,iris-kmeans,1,0.550274724,10000,7.145
+without area_theorem,iris-kmeans,1,0.550274724,10000,1.377
+without page_curve,iris-kmeans,1,0,10000,1.760
+without spin,iris-kmeans,1,3.292201328e-05,10000,1.520
+without spaghettification,iris-kmeans,1,0.550274724,10000,1.624
+with slingshot,iris-kmeans,1,0,10000,2.445
+with white_holes,iris-kmeans,1,0.550274724,10000,1.525
+without penrose,iris-kmeans,1,3.487985281e-05,10000,1.961
+without penrose_page_dirs,iris-kmeans,1,5.551115123e-16,10000,1.479
+without penrose_adaptive,iris-kmeans,1,0.02458354791,10000,1.483
+without endgame,iris-kmeans,1,0.550274724,10000,2.386
+without galactic_centre,iris-kmeans,1,0,10000,3.822
+without levy_radiation,iris-kmeans,1,3.774758284e-15,10000,1.741
+without cmb_spawn,iris-kmeans,1,3.292201328e-05,10000,2.414
+without gw_adaptive,iris-kmeans,1,3.330669074e-16,10000,2.477
+every module on,iris-kmeans,1,0,10000,1.662
+no modules,iris-kmeans,1,0.0002007923104,10000,0.730
+default,iris-kmeans,2,1.665334537e-15,10000,2.481
+without gravity,iris-kmeans,2,3.330669074e-16,10000,1.462
+without gravitational_waves,iris-kmeans,2,3.292201328e-05,10000,3.483
+without area_theorem,iris-kmeans,2,1.554312234e-15,10000,3.489
+without page_curve,iris-kmeans,2,5.551115123e-16,10000,3.391
+without spin,iris-kmeans,2,7.771561172e-16,10000,1.895
+without spaghettification,iris-kmeans,2,3.292201328e-05,10000,2.528
+with slingshot,iris-kmeans,2,3.292201328e-05,10000,3.816
+with white_holes,iris-kmeans,2,2.331468352e-15,10000,2.372
+without penrose,iris-kmeans,2,1.749864609e-06,10000,4.317
+without penrose_page_dirs,iris-kmeans,2,1.276828721e-08,10000,1.695
+without penrose_adaptive,iris-kmeans,2,2.775238352e-05,10000,1.875
+without endgame,iris-kmeans,2,3.818390049e-12,10000,2.587
+without galactic_centre,iris-kmeans,2,0.5459831629,10000,1.890
+without levy_radiation,iris-kmeans,2,3.292201328e-05,10000,1.995
+without cmb_spawn,iris-kmeans,2,2.331468352e-15,10000,3.404
+without gw_adaptive,iris-kmeans,2,3.330669074e-16,10000,3.023
+every module on,iris-kmeans,2,3.292201328e-05,10000,1.628
+no modules,iris-kmeans,2,9.969625388e-05,10000,0.828
+default,iris-kmeans,3,3.292201328e-05,10000,2.180
+without gravity,iris-kmeans,3,3.330669074e-16,10000,1.689
+without gravitational_waves,iris-kmeans,3,3.292201328e-05,10000,5.969
+without area_theorem,iris-kmeans,3,7.771561172e-16,10000,4.208
+without page_curve,iris-kmeans,3,3.292201328e-05,10000,2.365
+without spin,iris-kmeans,3,3.330669074e-16,10000,2.273
+without spaghettification,iris-kmeans,3,3.292201328e-05,10000,1.063
+with slingshot,iris-kmeans,3,3.292201328e-05,10000,1.654
+with white_holes,iris-kmeans,3,3.292201328e-05,10000,2.383
+without penrose,iris-kmeans,3,7.064757214e-07,10000,4.065
+without penrose_page_dirs,iris-kmeans,3,1.110223025e-15,10000,1.824
+without penrose_adaptive,iris-kmeans,3,2.237388386e-09,10000,1.078
+without endgame,iris-kmeans,3,3.292328384e-05,10000,2.328
+without galactic_centre,iris-kmeans,3,3.292201328e-05,10000,1.710
+without levy_radiation,iris-kmeans,3,9.992007222e-16,10000,3.125
+without cmb_spawn,iris-kmeans,3,1.110223025e-15,10000,1.647
+without gw_adaptive,iris-kmeans,3,3.292201328e-05,10000,1.180
+every module on,iris-kmeans,3,3.292201328e-05,10000,1.890
+no modules,iris-kmeans,3,0.0002201237662,10000,0.710
+default,iris-kmeans,4,1.110223025e-15,10000,2.609
+without gravity,iris-kmeans,4,3.330669074e-16,10000,1.782
+without gravitational_waves,iris-kmeans,4,3.292201328e-05,10000,3.618
+without area_theorem,iris-kmeans,4,3.292201328e-05,10000,5.221
+without page_curve,iris-kmeans,4,1.110223025e-15,10000,1.853
+without spin,iris-kmeans,4,3.292201328e-05,10000,2.289
+without spaghettification,iris-kmeans,4,1.554312234e-15,10000,1.858
+with slingshot,iris-kmeans,4,3.292201328e-05,10000,3.102
+with white_holes,iris-kmeans,4,1.110223025e-15,10000,2.585
+without penrose,iris-kmeans,4,3.321118658e-05,10000,2.504
+without penrose_page_dirs,iris-kmeans,4,3.330669074e-16,10000,1.578
+without penrose_adaptive,iris-kmeans,4,3.292201469e-05,10000,2.334
+without endgame,iris-kmeans,4,5.720691318e-06,10000,2.288
+without galactic_centre,iris-kmeans,4,1.110223025e-15,10000,1.659
+without levy_radiation,iris-kmeans,4,3.330669074e-16,10000,2.325
+without cmb_spawn,iris-kmeans,4,5.551115123e-16,10000,2.272
+without gw_adaptive,iris-kmeans,4,7.771561172e-16,10000,1.725
+every module on,iris-kmeans,4,3.292201328e-05,10000,2.083
+no modules,iris-kmeans,4,0.000662959543,10000,1.087
+default,iris-kmeans,5,1.110223025e-15,10000,1.543
+without gravity,iris-kmeans,5,3.292201328e-05,10000,1.502
+without gravitational_waves,iris-kmeans,5,0.3413616033,10000,2.934
+without area_theorem,iris-kmeans,5,3.292201328e-05,10000,2.326
+without page_curve,iris-kmeans,5,0,10000,2.841
+without spin,iris-kmeans,5,7.771561172e-16,10000,1.626
+without spaghettification,iris-kmeans,5,2.220446049e-16,10000,2.013
+with slingshot,iris-kmeans,5,0.3413616033,10000,1.889
+with white_holes,iris-kmeans,5,3.330669074e-16,10000,2.257
+without penrose,iris-kmeans,5,3.389971686e-05,10000,2.848
+without penrose_page_dirs,iris-kmeans,5,2.220446049e-16,10000,2.970
+without penrose_adaptive,iris-kmeans,5,3.403610727e-12,10000,3.347
+without endgame,iris-kmeans,5,6.295641786e-11,10000,1.711
+without galactic_centre,iris-kmeans,5,3.292201328e-05,10000,2.081
+without levy_radiation,iris-kmeans,5,7.771561172e-16,10000,2.011
+without cmb_spawn,iris-kmeans,5,1.554312234e-15,10000,1.696
+without gw_adaptive,iris-kmeans,5,7.771561172e-16,10000,2.075
+every module on,iris-kmeans,5,0.3413616033,10000,2.154
+no modules,iris-kmeans,5,0.0001990587416,10000,0.675
+default,iris-kmeans,6,7.217690893e-07,10000,2.612
+without gravity,iris-kmeans,6,3.292201328e-05,10000,2.062
+without gravitational_waves,iris-kmeans,6,1.554312234e-15,10000,3.406
+without area_theorem,iris-kmeans,6,0,10000,4.090
+without page_curve,iris-kmeans,6,3.330669074e-16,10000,1.619
+without spin,iris-kmeans,6,1.887379142e-15,10000,1.795
+without spaghettification,iris-kmeans,6,3.292201328e-05,10000,3.249
+with slingshot,iris-kmeans,6,3.292201328e-05,10000,1.683
+with white_holes,iris-kmeans,6,7.217690893e-07,10000,1.676
+without penrose,iris-kmeans,6,0.001753468165,10000,1.591
+without penrose_page_dirs,iris-kmeans,6,3.292201328e-05,10000,2.081
+without penrose_adaptive,iris-kmeans,6,1.250222148e-12,10000,1.743
+without endgame,iris-kmeans,6,7.217690893e-07,10000,2.045
+without galactic_centre,iris-kmeans,6,1.554312234e-15,10000,2.461
+without levy_radiation,iris-kmeans,6,0.3413616033,10000,1.426
+without cmb_spawn,iris-kmeans,6,3.330669074e-16,10000,1.496
+without gw_adaptive,iris-kmeans,6,1.224350883e-05,10000,1.886
+every module on,iris-kmeans,6,3.292201328e-05,10000,2.611
+no modules,iris-kmeans,6,0.0007206701712,10000,0.970
+default,iris-kmeans,7,3.292201328e-05,10000,2.902
+without gravity,iris-kmeans,7,2.997602166e-15,10000,2.130
+without gravitational_waves,iris-kmeans,7,7.771561172e-16,10000,3.449
+without area_theorem,iris-kmeans,7,3.330669074e-16,10000,3.215
+without page_curve,iris-kmeans,7,3.292201328e-05,10000,1.612
+without spin,iris-kmeans,7,3.292201328e-05,10000,1.361
+without spaghettification,iris-kmeans,7,2.664535259e-15,10000,2.262
+with slingshot,iris-kmeans,7,3.001977699e-06,10000,1.849
+with white_holes,iris-kmeans,7,1.887379142e-15,10000,1.915
+without penrose,iris-kmeans,7,0.001744898104,10000,2.197
+without penrose_page_dirs,iris-kmeans,7,3.292201328e-05,10000,1.510
+without penrose_adaptive,iris-kmeans,7,3.292201464e-05,10000,1.960
+without endgame,iris-kmeans,7,3.292201328e-05,10000,1.583
+without galactic_centre,iris-kmeans,7,3.292201328e-05,10000,1.367
+without levy_radiation,iris-kmeans,7,3.292201328e-05,10000,1.926
+without cmb_spawn,iris-kmeans,7,1.692960568e-05,10000,1.843
+without gw_adaptive,iris-kmeans,7,6.604709137e-06,10000,2.329
+every module on,iris-kmeans,7,3.001977699e-06,10000,1.783
+no modules,iris-kmeans,7,0.0001622754933,10000,0.733
+default,iris-kmeans,8,5.551115123e-16,10000,2.072
+without gravity,iris-kmeans,8,2.413679042e-06,10000,1.463
+without gravitational_waves,iris-kmeans,8,1.110223025e-15,10000,2.593
+without area_theorem,iris-kmeans,8,1.887379142e-15,10000,4.402
+without page_curve,iris-kmeans,8,2.220446049e-16,10000,2.871
+without spin,iris-kmeans,8,1.554312234e-15,10000,1.654
+without spaghettification,iris-kmeans,8,1.554312234e-15,10000,1.570
+with slingshot,iris-kmeans,8,4.183705234e-06,10000,1.768
+with white_holes,iris-kmeans,8,5.551115123e-16,10000,1.913
+without penrose,iris-kmeans,8,3.44144972e-05,10000,1.617
+without penrose_page_dirs,iris-kmeans,8,1.972425729e-06,10000,1.314
+without penrose_adaptive,iris-kmeans,8,3.29220154e-05,10000,1.808
+without endgame,iris-kmeans,8,5.273559367e-14,10000,1.663
+without galactic_centre,iris-kmeans,8,0,10000,1.044
+without levy_radiation,iris-kmeans,8,3.330669074e-16,10000,1.444
+without cmb_spawn,iris-kmeans,8,0.001743498243,10000,2.230
+without gw_adaptive,iris-kmeans,8,9.992007222e-16,10000,2.656
+every module on,iris-kmeans,8,4.183705234e-06,10000,2.553
+no modules,iris-kmeans,8,0.0001807854501,10000,1.151
+default,iris-kmeans,9,3.292201328e-05,10000,1.748
+without gravity,iris-kmeans,9,9.992007222e-16,10000,2.876
+without gravitational_waves,iris-kmeans,9,2.220446049e-16,10000,1.724
+without area_theorem,iris-kmeans,9,3.292201328e-05,10000,1.303
+without page_curve,iris-kmeans,9,3.292201328e-05,10000,1.059
+without spin,iris-kmeans,9,3.292201328e-05,10000,1.608
+without spaghettification,iris-kmeans,9,3.292201328e-05,10000,1.616
+with slingshot,iris-kmeans,9,3.292201328e-05,10000,1.164
+with white_holes,iris-kmeans,9,3.292201328e-05,10000,1.329
+without penrose,iris-kmeans,9,3.394424321e-05,10000,3.282
+without penrose_page_dirs,iris-kmeans,9,5.551115123e-16,10000,1.414
+without penrose_adaptive,iris-kmeans,9,1.287814333e-08,10000,1.112
+without endgame,iris-kmeans,9,3.292201328e-05,10000,1.087
+without galactic_centre,iris-kmeans,9,0,10000,1.098
+without levy_radiation,iris-kmeans,9,1.554312234e-15,10000,1.787
+without cmb_spawn,iris-kmeans,9,3.330669074e-16,10000,1.811
+without gw_adaptive,iris-kmeans,9,9.992007222e-16,10000,1.905
+every module on,iris-kmeans,9,3.292201328e-05,10000,2.121
+no modules,iris-kmeans,9,0.000130821765,10000,0.650
+default,iris-kmeans,10,7.771561172e-16,10000,1.980
+without gravity,iris-kmeans,10,2.925690747e-07,10000,2.588
+without gravitational_waves,iris-kmeans,10,5.551115123e-16,10000,5.496
+without area_theorem,iris-kmeans,10,3.292201328e-05,10000,4.244
+without page_curve,iris-kmeans,10,7.771561172e-16,10000,2.259
+without spin,iris-kmeans,10,3.292201328e-05,10000,1.634
+without spaghettification,iris-kmeans,10,3.292201328e-05,10000,1.463
+with slingshot,iris-kmeans,10,7.771561172e-16,10000,1.763
+with white_holes,iris-kmeans,10,7.771561172e-16,10000,3.123
+without penrose,iris-kmeans,10,1.052960918e-06,10000,4.503
+without penrose_page_dirs,iris-kmeans,10,3.330669074e-16,10000,2.877
+without penrose_adaptive,iris-kmeans,10,3.650524327e-12,10000,2.010
+without endgame,iris-kmeans,10,8.713855637e-09,10000,4.685
+without galactic_centre,iris-kmeans,10,3.292201328e-05,10000,1.426
+without levy_radiation,iris-kmeans,10,3.292201328e-05,10000,1.527
+without cmb_spawn,iris-kmeans,10,3.292201328e-05,10000,3.327
+without gw_adaptive,iris-kmeans,10,3.292201328e-05,10000,3.209
+every module on,iris-kmeans,10,2.0702422e-09,10000,2.008
+no modules,iris-kmeans,10,0.0001254989937,10000,0.884
+default,iris-kmeans,11,1.554312234e-15,10000,4.349
+without gravity,iris-kmeans,11,7.771561172e-16,10000,1.625
+without gravitational_waves,iris-kmeans,11,3.292201328e-05,10000,4.316
+without area_theorem,iris-kmeans,11,3.292201328e-05,10000,3.492
+without page_curve,iris-kmeans,11,7.805228648e-06,10000,4.355
+without spin,iris-kmeans,11,3.292201328e-05,10000,2.242
+without spaghettification,iris-kmeans,11,7.771561172e-16,10000,2.537
+with slingshot,iris-kmeans,11,3.292201328e-05,10000,3.130
+with white_holes,iris-kmeans,11,1.554312234e-15,10000,3.033
+without penrose,iris-kmeans,11,3.432239392e-05,10000,2.855
+without penrose_page_dirs,iris-kmeans,11,0.3413616033,10000,2.935
+without penrose_adaptive,iris-kmeans,11,1.545763517e-12,10000,2.297
+without endgame,iris-kmeans,11,2.354287876e-10,10000,3.289
+without galactic_centre,iris-kmeans,11,3.292201328e-05,10000,1.798
+without levy_radiation,iris-kmeans,11,0,10000,1.842
+without cmb_spawn,iris-kmeans,11,2.07144132e-06,10000,1.438
+without gw_adaptive,iris-kmeans,11,8.925584117e-06,10000,2.654
+every module on,iris-kmeans,11,0,10000,3.091
+no modules,iris-kmeans,11,0.0002684450691,10000,0.658
+default,iris-kmeans,12,3.292201328e-05,10000,1.250
+without gravity,iris-kmeans,12,3.330669074e-16,10000,1.895
+without gravitational_waves,iris-kmeans,12,3.292201328e-05,10000,2.360
+without area_theorem,iris-kmeans,12,3.292201328e-05,10000,4.095
+without page_curve,iris-kmeans,12,0,10000,1.462
+without spin,iris-kmeans,12,1.887379142e-15,10000,1.354
+without spaghettification,iris-kmeans,12,0,10000,1.215
+with slingshot,iris-kmeans,12,0,10000,1.505
+with white_holes,iris-kmeans,12,3.292201328e-05,10000,2.236
+without penrose,iris-kmeans,12,0.004235950111,10000,1.188
+without penrose_page_dirs,iris-kmeans,12,1.561539484e-07,10000,1.362
+without penrose_adaptive,iris-kmeans,12,1.037819251e-07,10000,1.730
+without endgame,iris-kmeans,12,3.292201328e-05,10000,1.961
+without galactic_centre,iris-kmeans,12,1.110223025e-15,10000,2.773
+without levy_radiation,iris-kmeans,12,0,10000,1.598
+without cmb_spawn,iris-kmeans,12,2.220446049e-16,10000,1.488
+without gw_adaptive,iris-kmeans,12,3.330669074e-16,10000,1.663
+every module on,iris-kmeans,12,0,10000,1.379
+no modules,iris-kmeans,12,0.0001320810079,10000,0.704
+default,iris-kmeans,13,3.292201328e-05,10000,2.921
+without gravity,iris-kmeans,13,3.330669074e-16,10000,1.623
+without gravitational_waves,iris-kmeans,13,3.292201328e-05,10000,3.421
+without area_theorem,iris-kmeans,13,0.001743498243,10000,4.057
+without page_curve,iris-kmeans,13,2.220446049e-16,10000,2.140
+without spin,iris-kmeans,13,3.292201328e-05,10000,1.993
+without spaghettification,iris-kmeans,13,3.330669074e-16,10000,1.437
+with slingshot,iris-kmeans,13,3.292201328e-05,10000,1.115
+with white_holes,iris-kmeans,13,3.292201328e-05,10000,2.361
+without penrose,iris-kmeans,13,3.930141014e-06,10000,1.968
+without penrose_page_dirs,iris-kmeans,13,3.292201328e-05,10000,1.065
+without penrose_adaptive,iris-kmeans,13,3.292201709e-05,10000,1.483
+without endgame,iris-kmeans,13,3.292201336e-05,10000,1.934
+without galactic_centre,iris-kmeans,13,3.292201328e-05,10000,1.577
+without levy_radiation,iris-kmeans,13,3.292201328e-05,10000,1.101
+without cmb_spawn,iris-kmeans,13,0,10000,1.377
+without gw_adaptive,iris-kmeans,13,0,10000,1.695
+every module on,iris-kmeans,13,0,10000,1.684
+no modules,iris-kmeans,13,0.0005937048943,10000,0.859
+default,iris-kmeans,14,3.330669074e-16,10000,2.733
+without gravity,iris-kmeans,14,3.292201328e-05,10000,1.454
+without gravitational_waves,iris-kmeans,14,0.001743498243,10000,5.862
+without area_theorem,iris-kmeans,14,3.292201328e-05,10000,3.804
+without page_curve,iris-kmeans,14,3.330669074e-16,10000,3.351
+without spin,iris-kmeans,14,3.330669074e-16,10000,1.750
+without spaghettification,iris-kmeans,14,3.330669074e-16,10000,2.156
+with slingshot,iris-kmeans,14,3.330669074e-16,10000,1.877
+with white_holes,iris-kmeans,14,3.330669074e-16,10000,3.812
+without penrose,iris-kmeans,14,0.001745531215,10000,2.041
+without penrose_page_dirs,iris-kmeans,14,3.330669074e-16,10000,2.522
+without penrose_adaptive,iris-kmeans,14,1.787903159e-12,10000,2.946
+without endgame,iris-kmeans,14,2.645925479e-09,10000,2.667
+without galactic_centre,iris-kmeans,14,1.554312234e-15,10000,4.393
+without levy_radiation,iris-kmeans,14,7.392322199e-08,10000,3.395
+without cmb_spawn,iris-kmeans,14,3.330669074e-16,10000,4.320
+without gw_adaptive,iris-kmeans,14,3.292201328e-05,10000,3.686
+every module on,iris-kmeans,14,3.330669074e-16,10000,3.363
+no modules,iris-kmeans,14,0.0002747240614,10000,1.259
+default,wine-kmeans,0,1.196077903e-09,10000,7.500
+without gravity,wine-kmeans,0,1.75128187,10000,5.861
+without gravitational_waves,wine-kmeans,0,1.062327092e-06,10000,16.369
+without area_theorem,wine-kmeans,0,1.155512779e-07,10000,13.619
+without page_curve,wine-kmeans,0,1.196077903e-09,10000,7.140
+without spin,wine-kmeans,0,1.711222065,10000,5.707
+without spaghettification,wine-kmeans,0,0.004675805393,10000,7.886
+with slingshot,wine-kmeans,0,3.170101531e-05,10000,4.795
+with white_holes,wine-kmeans,0,1.196077903e-09,10000,7.691
+without penrose,wine-kmeans,0,1.313058e-05,10000,4.806
+without penrose_page_dirs,wine-kmeans,0,1.745471269,10000,7.997
+without penrose_adaptive,wine-kmeans,0,1.103633629e-08,10000,6.241
+without endgame,wine-kmeans,0,1.068076346e-06,10000,10.560
+without galactic_centre,wine-kmeans,0,0.01401678845,10000,2.249
+without levy_radiation,wine-kmeans,0,1.196077903e-09,10000,11.215
+without cmb_spawn,wine-kmeans,0,0.004675775246,10000,2.423
+without gw_adaptive,wine-kmeans,0,1.694773893,10000,7.044
+every module on,wine-kmeans,0,3.170101531e-05,10000,5.785
+no modules,wine-kmeans,0,3.428020297,10000,1.751
+default,wine-kmeans,1,1.747766359,10000,5.464
+without gravity,wine-kmeans,1,1.449804623e-07,10000,3.865
+without gravitational_waves,wine-kmeans,1,0.004675793721,10000,15.023
+without area_theorem,wine-kmeans,1,2.663925169e-07,10000,13.833
+without page_curve,wine-kmeans,1,1.747766359,10000,7.984
+without spin,wine-kmeans,1,1.318869162e-06,10000,6.492
+without spaghettification,wine-kmeans,1,1.727736126,10000,9.013
+with slingshot,wine-kmeans,1,3.327038116e-05,10000,5.891
+with white_holes,wine-kmeans,1,1.747766359,10000,6.411
+without penrose,wine-kmeans,1,0.01143329497,10000,7.409
+without penrose_page_dirs,wine-kmeans,1,7.289159498e-09,10000,4.447
+without penrose_adaptive,wine-kmeans,1,1.237008527,10000,4.979
+without endgame,wine-kmeans,1,1.774818809,10000,8.038
+without galactic_centre,wine-kmeans,1,2.139496427,10000,1.524
+without levy_radiation,wine-kmeans,1,1.747766359,10000,8.081
+without cmb_spawn,wine-kmeans,1,1.736165182,10000,1.672
+without gw_adaptive,wine-kmeans,1,4.092051586e-08,10000,4.707
+every module on,wine-kmeans,1,3.327038116e-05,10000,3.406
+no modules,wine-kmeans,1,4.854204277,10000,0.835
+default,wine-kmeans,2,0.01144755101,10000,7.551
+without gravity,wine-kmeans,2,1.762980909,10000,3.046
+without gravitational_waves,wine-kmeans,2,2.14490457,10000,13.011
+without area_theorem,wine-kmeans,2,3.23526983e-10,10000,11.764
+without page_curve,wine-kmeans,2,0.01144755101,10000,5.865
+without spin,wine-kmeans,2,1.751958776,10000,7.398
+without spaghettification,wine-kmeans,2,2.88109625e-09,10000,9.039
+with slingshot,wine-kmeans,2,0.001860413289,10000,3.291
+with white_holes,wine-kmeans,2,0.01144755101,10000,11.381
+without penrose,wine-kmeans,2,3.105329005e-06,10000,8.145
+without penrose_page_dirs,wine-kmeans,2,0.1166947798,10000,4.548
+without penrose_adaptive,wine-kmeans,2,0.004675792847,10000,9.258
+without endgame,wine-kmeans,2,0.01145912538,10000,12.647
+without galactic_centre,wine-kmeans,2,1.804592874,10000,3.242
+without levy_radiation,wine-kmeans,2,0.01144755101,10000,9.547
+without cmb_spawn,wine-kmeans,2,0.004675773264,10000,4.126
+without gw_adaptive,wine-kmeans,2,0.0007037027872,10000,4.180
+every module on,wine-kmeans,2,0.001860413289,10000,3.330
+no modules,wine-kmeans,2,2.176976297,10000,1.821
+default,wine-kmeans,3,9.796814959e-07,10000,4.641
+without gravity,wine-kmeans,3,8.255404058e-06,10000,3.551
+without gravitational_waves,wine-kmeans,3,0.004675773193,10000,10.342
+without area_theorem,wine-kmeans,3,5.825185667e-09,10000,14.756
+without page_curve,wine-kmeans,3,9.796814959e-07,10000,5.238
+without spin,wine-kmeans,3,2.208476539e-07,10000,8.939
+without spaghettification,wine-kmeans,3,2.125836218e-08,10000,7.842
+with slingshot,wine-kmeans,3,0.01012717512,10000,3.844
+with white_holes,wine-kmeans,3,9.796814959e-07,10000,5.235
+without penrose,wine-kmeans,3,1.664094934e-06,10000,9.305
+without penrose_page_dirs,wine-kmeans,3,0.01012715877,10000,6.738
+without penrose_adaptive,wine-kmeans,3,2.087874318e-07,10000,9.511
+without endgame,wine-kmeans,3,0.0001213765195,10000,5.878
+without galactic_centre,wine-kmeans,3,1.341616525e-07,10000,5.352
+without levy_radiation,wine-kmeans,3,9.796814959e-07,10000,6.663
+without cmb_spawn,wine-kmeans,3,3.790401326e-08,10000,1.866
+without gw_adaptive,wine-kmeans,3,9.688205438e-08,10000,6.083
+every module on,wine-kmeans,3,0.01012717512,10000,6.203
+no modules,wine-kmeans,3,2.554867367,10000,0.961
+default,wine-kmeans,4,4.884021187e-09,10000,7.621
+without gravity,wine-kmeans,4,1.220319699e-06,10000,4.699
+without gravitational_waves,wine-kmeans,4,8.243361549e-11,10000,8.385
+without area_theorem,wine-kmeans,4,1.934905569e-09,10000,13.565
+without page_curve,wine-kmeans,4,4.884021187e-09,10000,5.539
+without spin,wine-kmeans,4,1.439857294e-06,10000,6.825
+without spaghettification,wine-kmeans,4,6.24091907e-08,10000,5.619
+with slingshot,wine-kmeans,4,1.325101131e-07,10000,6.508
+with white_holes,wine-kmeans,4,4.884021187e-09,10000,7.019
+without penrose,wine-kmeans,4,2.65873964e-06,10000,8.197
+without penrose_page_dirs,wine-kmeans,4,0.004675772624,10000,5.970
+without penrose_adaptive,wine-kmeans,4,1.986206044e-08,10000,6.555
+without endgame,wine-kmeans,4,6.643267147e-06,10000,9.108
+without galactic_centre,wine-kmeans,4,0.03437900841,10000,3.762
+without levy_radiation,wine-kmeans,4,4.884021187e-09,10000,4.581
+without cmb_spawn,wine-kmeans,4,2.140895946,10000,1.729
+without gw_adaptive,wine-kmeans,4,1.647271866e-07,10000,8.646
+every module on,wine-kmeans,4,1.325101131e-07,10000,6.536
+no modules,wine-kmeans,4,2.129691245,10000,1.067
+default,wine-kmeans,5,1.724764673,10000,4.454
+without gravity,wine-kmeans,5,0.7089114225,10000,5.329
+without gravitational_waves,wine-kmeans,5,1.794623194,10000,17.086
+without area_theorem,wine-kmeans,5,2.140895946,10000,14.444
+without page_curve,wine-kmeans,5,1.724764673,10000,8.323
+without spin,wine-kmeans,5,2.319674245e-06,10000,5.891
+without spaghettification,wine-kmeans,5,1.735450567,10000,6.645
+with slingshot,wine-kmeans,5,0.01144755596,10000,5.824
+with white_holes,wine-kmeans,5,1.724764673,10000,8.404
+without penrose,wine-kmeans,5,0.006599098793,10000,4.954
+without penrose_page_dirs,wine-kmeans,5,0.003422882954,10000,6.634
+without penrose_adaptive,wine-kmeans,5,1.783445785,10000,6.709
+without endgame,wine-kmeans,5,1.767906886,10000,8.618
+without galactic_centre,wine-kmeans,5,0.0002540348113,10000,1.988
+without levy_radiation,wine-kmeans,5,1.724764673,10000,8.177
+without cmb_spawn,wine-kmeans,5,0.004675772605,10000,2.317
+without gw_adaptive,wine-kmeans,5,1.381144008e-07,10000,5.174
+every module on,wine-kmeans,5,0.01144755596,10000,8.009
+no modules,wine-kmeans,5,4.750211109,10000,1.553
+default,wine-kmeans,6,0.6639640945,10000,8.453
+without gravity,wine-kmeans,6,2.139496425,10000,4.763
+without gravitational_waves,wine-kmeans,6,1.650602499e-08,10000,7.222
+without area_theorem,wine-kmeans,6,0.0004308715103,10000,11.227
+without page_curve,wine-kmeans,6,0.6639640945,10000,7.802
+without spin,wine-kmeans,6,0.01145024802,10000,5.441
+without spaghettification,wine-kmeans,6,0.0002476955022,10000,4.151
+with slingshot,wine-kmeans,6,0.7471131818,10000,4.918
+with white_holes,wine-kmeans,6,0.6639640945,10000,6.623
+without penrose,wine-kmeans,6,3.06057179e-05,10000,8.569
+without penrose_page_dirs,wine-kmeans,6,3.463895837e-14,10000,9.013
+without penrose_adaptive,wine-kmeans,6,1.765630489,10000,5.552
+without endgame,wine-kmeans,6,1.714009718,10000,10.616
+without galactic_centre,wine-kmeans,6,2.139496474,10000,2.546
+without levy_radiation,wine-kmeans,6,0.6639640945,10000,8.945
+without cmb_spawn,wine-kmeans,6,0.0002866913379,10000,2.243
+without gw_adaptive,wine-kmeans,6,1.523930804e-07,10000,9.382
+every module on,wine-kmeans,6,0.7471131818,10000,6.158
+no modules,wine-kmeans,6,2.760521612,10000,1.033
+default,wine-kmeans,7,2.421965144e-07,10000,8.789
+without gravity,wine-kmeans,7,3.198807964e-06,10000,4.610
+without gravitational_waves,wine-kmeans,7,2.373058352e-06,10000,5.015
+without area_theorem,wine-kmeans,7,1.727679805,10000,13.275
+without page_curve,wine-kmeans,7,2.421965144e-07,10000,6.416
+without spin,wine-kmeans,7,0.000744282602,10000,8.938
+without spaghettification,wine-kmeans,7,6.85376369e-08,10000,7.953
+with slingshot,wine-kmeans,7,8.103251403e-09,10000,6.358
+with white_holes,wine-kmeans,7,2.421965144e-07,10000,7.897
+without penrose,wine-kmeans,7,1.737049682,10000,8.391
+without penrose_page_dirs,wine-kmeans,7,2.131628207e-13,10000,5.161
+without penrose_adaptive,wine-kmeans,7,5.023546468e-05,10000,6.556
+without endgame,wine-kmeans,7,0.0001470477843,10000,7.646
+without galactic_centre,wine-kmeans,7,0.01078414546,10000,3.371
+without levy_radiation,wine-kmeans,7,1.465542763e-07,10000,7.225
+without cmb_spawn,wine-kmeans,7,2.140895946,10000,2.769
+without gw_adaptive,wine-kmeans,7,1.743884751,10000,4.880
+every module on,wine-kmeans,7,8.103251403e-09,10000,6.838
+no modules,wine-kmeans,7,2.23651984,10000,1.553
+default,wine-kmeans,8,2.140895946,10000,8.391
+without gravity,wine-kmeans,8,2.452855553e-05,10000,3.001
+without gravitational_waves,wine-kmeans,8,2.140895946,10000,4.071
+without area_theorem,wine-kmeans,8,2.140895946,10000,13.127
+without page_curve,wine-kmeans,8,2.140895946,10000,7.672
+without spin,wine-kmeans,8,1.714204022,10000,5.457
+without spaghettification,wine-kmeans,8,2.140895946,10000,7.001
+with slingshot,wine-kmeans,8,2.140895946,10000,3.678
+with white_holes,wine-kmeans,8,2.140895946,10000,7.997
+without penrose,wine-kmeans,8,1.956519312,10000,6.151
+without penrose_page_dirs,wine-kmeans,8,2.139496425,10000,6.620
+without penrose_adaptive,wine-kmeans,8,2.140895946,10000,6.262
+without endgame,wine-kmeans,8,2.140898494,10000,7.157
+without galactic_centre,wine-kmeans,8,1.764337293,10000,2.470
+without levy_radiation,wine-kmeans,8,6.383910822e-08,10000,4.143
+without cmb_spawn,wine-kmeans,8,0.004675775028,10000,1.802
+without gw_adaptive,wine-kmeans,8,2.139496425,10000,5.452
+every module on,wine-kmeans,8,2.140895946,10000,6.068
+no modules,wine-kmeans,8,2.044669614,10000,1.439
+default,wine-kmeans,9,1.568598102,10000,6.872
+without gravity,wine-kmeans,9,1.748419445,10000,5.048
+without gravitational_waves,wine-kmeans,9,1.971975487,10000,12.331
+without area_theorem,wine-kmeans,9,2.072770577e-07,10000,9.170
+without page_curve,wine-kmeans,9,1.568598102,10000,7.571
+without spin,wine-kmeans,9,9.786705069e-05,10000,5.342
+without spaghettification,wine-kmeans,9,9.733549078e-09,10000,5.552
+with slingshot,wine-kmeans,9,2.209539218e-10,10000,4.296
+with white_holes,wine-kmeans,9,1.568598102,10000,5.968
+without penrose,wine-kmeans,9,4.751358487e-05,10000,5.688
+without penrose_page_dirs,wine-kmeans,9,1.764109252,10000,4.700
+without penrose_adaptive,wine-kmeans,9,8.270856888e-09,10000,6.711
+without endgame,wine-kmeans,9,1.923572839,10000,8.436
+without galactic_centre,wine-kmeans,9,0.004882736402,10000,1.621
+without levy_radiation,wine-kmeans,9,4.74003059e-10,10000,4.876
+without cmb_spawn,wine-kmeans,9,6.868132729e-10,10000,2.967
+without gw_adaptive,wine-kmeans,9,4.95222884e-07,10000,6.458
+every module on,wine-kmeans,9,2.209539218e-10,10000,5.521
+no modules,wine-kmeans,9,2.118959892,10000,1.353
+default,wine-kmeans,10,1.813368299,10000,6.882
+without gravity,wine-kmeans,10,2.139496474,10000,2.812
+without gravitational_waves,wine-kmeans,10,0.01013139211,10000,10.260
+without area_theorem,wine-kmeans,10,2.142212797,10000,12.216
+without page_curve,wine-kmeans,10,1.813368299,10000,7.051
+without spin,wine-kmeans,10,2.665963708e-07,10000,8.020
+without spaghettification,wine-kmeans,10,1.922659342,10000,6.338
+with slingshot,wine-kmeans,10,1.172165165e-07,10000,5.452
+with white_holes,wine-kmeans,10,1.813368299,10000,5.266
+without penrose,wine-kmeans,10,0.008930441199,10000,5.414
+without penrose_page_dirs,wine-kmeans,10,1.40862117,10000,5.055
+without penrose_adaptive,wine-kmeans,10,2.14490457,10000,4.678
+without endgame,wine-kmeans,10,1.114227834,10000,8.177
+without galactic_centre,wine-kmeans,10,2.139496462,10000,1.874
+without levy_radiation,wine-kmeans,10,1.813368299,10000,6.795
+without cmb_spawn,wine-kmeans,10,6.202580582e-08,10000,2.260
+without gw_adaptive,wine-kmeans,10,1.342142192e-06,10000,6.817
+every module on,wine-kmeans,10,1.172165165e-07,10000,3.577
+no modules,wine-kmeans,10,2.677870373,10000,1.029
+default,wine-kmeans,11,1.728486915,10000,4.300
+without gravity,wine-kmeans,11,3.514361708e-07,10000,2.854
+without gravitational_waves,wine-kmeans,11,4.745631355e-08,10000,3.042
+without area_theorem,wine-kmeans,11,0.007050215459,10000,13.892
+without page_curve,wine-kmeans,11,1.728486915,10000,6.391
+without spin,wine-kmeans,11,1.758259599,10000,4.064
+without spaghettification,wine-kmeans,11,1.832747053,10000,5.878
+with slingshot,wine-kmeans,11,2.139496425,10000,7.009
+with white_holes,wine-kmeans,11,1.728486915,10000,6.700
+without penrose,wine-kmeans,11,0.004666551027,10000,4.018
+without penrose_page_dirs,wine-kmeans,11,1.181454934e-11,10000,5.419
+without penrose_adaptive,wine-kmeans,11,1.800340913,10000,5.391
+without endgame,wine-kmeans,11,1.728720683,10000,6.830
+without galactic_centre,wine-kmeans,11,1.159602106e-06,10000,4.221
+without levy_radiation,wine-kmeans,11,1.728486915,10000,6.755
+without cmb_spawn,wine-kmeans,11,1.04148512e-08,10000,1.748
+without gw_adaptive,wine-kmeans,11,0.01012738282,10000,4.427
+every module on,wine-kmeans,11,2.139496425,10000,6.401
+no modules,wine-kmeans,11,2.593981772,10000,1.149
+default,wine-kmeans,12,1.730441226,10000,6.632
+without gravity,wine-kmeans,12,0.5363199467,10000,3.967
+without gravitational_waves,wine-kmeans,12,1.746884785,10000,5.842
+without area_theorem,wine-kmeans,12,1.733674872,10000,10.964
+without page_curve,wine-kmeans,12,1.730441226,10000,7.134
+without spin,wine-kmeans,12,7.095076139e-05,10000,6.700
+without spaghettification,wine-kmeans,12,0.0002732334992,10000,4.383
+with slingshot,wine-kmeans,12,0.004676352349,10000,5.196
+with white_holes,wine-kmeans,12,1.730441226,10000,5.078
+without penrose,wine-kmeans,12,0.00118106708,10000,5.262
+without penrose_page_dirs,wine-kmeans,12,9.047873561e-12,10000,4.494
+without penrose_adaptive,wine-kmeans,12,0.0001887647442,10000,5.010
+without endgame,wine-kmeans,12,1.731394147,10000,5.095
+without galactic_centre,wine-kmeans,12,0.007159616981,10000,3.361
+without levy_radiation,wine-kmeans,12,2.139496425,10000,7.336
+without cmb_spawn,wine-kmeans,12,2.805033539e-09,10000,2.233
+without gw_adaptive,wine-kmeans,12,1.739789178,10000,5.656
+every module on,wine-kmeans,12,0.004676352349,10000,3.354
+no modules,wine-kmeans,12,0.6137014244,10000,1.360
+default,wine-kmeans,13,7.976648648e-07,10000,3.803
+without gravity,wine-kmeans,13,2.771720142e-07,10000,3.706
+without gravitational_waves,wine-kmeans,13,0.01180078199,10000,2.912
+without area_theorem,wine-kmeans,13,0.13382911,10000,11.215
+without page_curve,wine-kmeans,13,7.976648648e-07,10000,4.375
+without spin,wine-kmeans,13,7.76033942e-07,10000,7.260
+without spaghettification,wine-kmeans,13,0.171858142,10000,4.350
+with slingshot,wine-kmeans,13,1.228942104e-08,10000,3.794
+with white_holes,wine-kmeans,13,7.976648648e-07,10000,4.284
+without penrose,wine-kmeans,13,0.01060053741,10000,3.757
+without penrose_page_dirs,wine-kmeans,13,2.174378011e-09,10000,4.162
+without penrose_adaptive,wine-kmeans,13,1.765701227,10000,6.043
+without endgame,wine-kmeans,13,0.0004507436037,10000,5.614
+without galactic_centre,wine-kmeans,13,2.144904603,10000,1.764
+without levy_radiation,wine-kmeans,13,7.976648648e-07,10000,2.911
+without cmb_spawn,wine-kmeans,13,1.708676678,10000,2.662
+without gw_adaptive,wine-kmeans,13,1.186826193e-07,10000,4.236
+every module on,wine-kmeans,13,1.228942104e-08,10000,5.073
+no modules,wine-kmeans,13,2.247524623,10000,1.400
+default,wine-kmeans,14,2.467919735e-08,10000,5.295
+without gravity,wine-kmeans,14,0.01145531793,10000,5.158
+without gravitational_waves,wine-kmeans,14,0.01144837698,10000,11.764
+without area_theorem,wine-kmeans,14,0.0002446227421,10000,4.521
+without page_curve,wine-kmeans,14,2.467919735e-08,10000,5.612
+without spin,wine-kmeans,14,4.992192952e-07,10000,5.706
+without spaghettification,wine-kmeans,14,0.004675780017,10000,5.295
+with slingshot,wine-kmeans,14,0.004675773838,10000,4.070
+with white_holes,wine-kmeans,14,2.467919735e-08,10000,5.658
+without penrose,wine-kmeans,14,3.125488522e-05,10000,4.941
+without penrose_page_dirs,wine-kmeans,14,2.291500323e-13,10000,4.705
+without penrose_adaptive,wine-kmeans,14,7.631703269e-09,10000,3.662
+without endgame,wine-kmeans,14,1.447697981e-05,10000,6.240
+without galactic_centre,wine-kmeans,14,1.705780299,10000,1.934
+without levy_radiation,wine-kmeans,14,1.406601822e-07,10000,4.543
+without cmb_spawn,wine-kmeans,14,1.745927006,10000,1.699
+without gw_adaptive,wine-kmeans,14,0.01144760436,10000,6.629
+every module on,wine-kmeans,14,0.004675773838,10000,2.265
+no modules,wine-kmeans,14,2.408826548,10000,0.954
